@@ -1,5 +1,7 @@
 source "https://rubygems.org"
-ruby RUBY_VERSION
+#Previous: ruby "RUBY_VERSION"
+#To fix error:
+ruby "2.5.0"
 
 gem "jekyll", "3.4.3"
 

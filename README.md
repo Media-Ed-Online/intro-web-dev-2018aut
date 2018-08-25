@@ -1,22 +1,8 @@
-# Jekyll Doc Theme
+# Intro-Web-Dev Site Repo
 
-Go to [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.
+Instructor: Justine Evans
 
-## Running locally
 
-You need Ruby and gem before starting, then:
-
-```bash
-# install bundler
-gem install bundler
-
-# clone the project
-git clone https://github.com/aksakalli/jekyll-doc-theme.git
-cd jekyll-doc-theme
-
-# run jekyll with dependencies
-bundle exec jekyll serve
-```
 
 ## License
 
