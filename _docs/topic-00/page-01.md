@@ -1,7 +1,7 @@
 ---
-title: Test Topic 00
+title: Test Topic 00, Page 1
 module: topic-00
-permalink: /topic-00/course-welcome/
+permalink: /topic-00/overview/
 redirect_from: /get-started.html
 ---
 

@@ -2,11 +2,10 @@
 title: Intro-Web-Dev
 email: justine.evans@umontana.edu
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Course content for an introductory look at building for the web.
 
-baseurl: "/intro-web-dev" # the subpath of your site, e.g. /blog/
-url: https://Media-Ed-Onlne.github.io/intro-web-dev # the base hostname & protocol for your site
+baseurl: "/intro-web-dev"
+url: https://Media-Ed-Onlne.github.io/intro-web-dev
 git_address: https://github.com/Media-Ed-Online/intro-web-dev
 git_edit_address: https://github.com/Media-Ed-Online/intro-web-dev/blob/gh-pages
 slack: https://ummediaarts.slack.com/team/U6T476W7Q
@@ -30,7 +29,7 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
-timezone: Europe/Berlin
+timezone: America/Denver
 defaults:
 - scope:
     path: _posts

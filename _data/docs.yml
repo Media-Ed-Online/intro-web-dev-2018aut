@@ -15,13 +15,13 @@ examples:
 topic-00:
   - title: Test Intro
     docs:
-    - page-01
+    - overview
     - page-02
 
 topic-01:
   - title: Test Topic 01.1
     docs:
-    - page-01
+    - overview
   - title: Test Topic 01.2
     docs:
     - page-02

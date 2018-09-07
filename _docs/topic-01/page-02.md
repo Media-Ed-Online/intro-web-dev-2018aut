@@ -1,5 +1,5 @@
 ---
-title: Test Topic 01
+title: Test Topic 01, Page 2
 module: topic-01
 permalink: /topic-01/page-02/
 ---
