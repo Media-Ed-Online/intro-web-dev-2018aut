@@ -1,6 +1,11 @@
 /*--------------------
 | Justine's Additions |
  --------------------*/
+ // GLOBAL
+:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
+   font-family: Helvetica, Arial, sans-serif;
+ }
+
 // INDEX
   // overwrites:  /css/main.scss
   //              /_sass/boostrap/_jumbotron.scss
@@ -33,6 +38,9 @@
 
 // TOP NAVIGATION
   // overwrites:  /_sass/boostrap/_navbar.scss
+.navbar-brand {
+    font-family: $font-family-sans-serif !important;
+  }
 .navbar-nav {
   h4 {
     padding-left: 10px;
@@ -50,13 +58,15 @@
       margin: 0 20px 10px;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
-      height: calc(100% - 30px);
       > li > a {
         color: $dropdown-link-color !important;
       }
     }
   }
 }
-.icon-nav li {
- display: inline-block;
+@media (max-width: $grid-float-breakpoint-max) {
+  .icon-nav li {
+    float: left;
+    margin-top: -($navbar-padding-vertical / 2);
  }
+}
