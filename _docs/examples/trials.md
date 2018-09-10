@@ -4,6 +4,15 @@ module: examples
 permalink: /examples/trials/
 ---
 
+<h2>Labels</h2>
+<span class="icon-danger"></span><span class="icon-warning"></span><span class="icon-info"></span><span class="icon-interest"></span>
+
+
+
+<br /><br />
+
+
+
 <h2>Modal Trials</h2>
 <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal-text">
