@@ -24,7 +24,7 @@ permalink: /examples/trials/
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h4 class="modal-title" id="exampleModalLabel">Modal title</h4>
+        <div class="modal-title" id="exampleModalLabel">Modal title</div>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -56,7 +56,7 @@ permalink: /examples/trials/
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h4 class="modal-title" id="exampleModalLabel">Modal title</h4>
+        <div class="modal-title" id="exampleModalLabel">Modal title</div>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -79,7 +79,7 @@ permalink: /examples/trials/
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h4 class="modal-title" id="exampleModalLabel">Modal title</h4>
+        <div class="modal-title" id="exampleModalLabel">Modal title</div>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>

@@ -24,12 +24,12 @@ As the semester goes on you will be expected to open issues when you are having 
 </ul>
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="step1">
-    <p>Step 1: Go to the course's Resource repo either by clicking <a href="{{ site.git_address | append: "-resources/issues/" }}" target="_blank">this link</a> or the GitHub octocat logo (<i class="fa fa-github" aria-hidden="true"></i>) from the navigation menu above.</p>
+    <p>Step 1: Go to the course's Resource repo either by clicking <a href="{{ site.git_address | append: "-resources/issues/" }}" target="_blank">this link</a> or the GitHub octocat logo (<i class="fab fa-github" aria-hidden="true"></i>) from the navigation menu above.</p>
 
     <p><span class="label label-info">Note</span> A good specific Issue to experiment with is <a href="https://github.com/Media-Ed-Online/intro-web-dev-resources/issues/1" target="_blank">“The Impressive Internet”</a>.</p>
   </div>
   <div class="tab-pane fade" id="step2">
-    <p>Step 2: Simply click on an issue to access it. Open issues are labeled with a green exclamation point. <i class="fa fa-exclamation" style="border: 2px solid #38B44A; border-radius: 20px; color: #38B44A; width: 16pt; height: 16pt; padding: 1px 6px;" aria-hidden="true"></i></p>
+    <p>Step 2: Simply click on an issue to access it. Open issues are labeled with a green exclamation point. <i class="fas fa-exclamation" style="border: 2px solid #38B44A; border-radius: 20px; color: #38B44A; width: 16pt; height: 16pt; padding: 2px 6px;" aria-hidden="true"></i></p>
     <img src="./../../docs/{{page.module}}/img/gh-issues-select.png" alt="Selecting open GitHub issue" />
   </div>
   <div class="tab-pane fade" id="step3">

@@ -1,7 +1,7 @@
 ---
 title: TODO
 module: topic-00
-todo: <i class="fa fa-check-square-o" aria-hidden="true"></i>
+todo: <i class="far fa-check-square" aria-hidden="true"></i>
 permalink: /topic-00/todo-hw/
 ---
 
@@ -12,10 +12,10 @@ This area will contain related areas you should explore. Most are required, but 
     <div class="bs-component">
       <div class="list-group">
         <a href="{{site.data.moodle.syllabus}}" target="_blank" class="list-group-item">
-          <i class="icon-hw fa fa-file-text fa-5x" aria-hidden="true"></i>
+          <i class="icon-hw fas fa-file-alt fa-6x" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Course Syllabus</h4>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 8 minute read</p>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 8 minute read</p>
         </a>
       </div>
     </div>
@@ -24,10 +24,10 @@ This area will contain related areas you should explore. Most are required, but 
     <div class="bs-component">
       <div class="list-group">
         <a href="{{ site.data.moodle.main | append: site.data.moodle.topic-01 }}" target="_blank" class="list-group-item">
-          <i class="icon-hw fa fa-list fa-5x" aria-hidden="true"></i>
+          <i class="icon-hw fas fa-file-contract fa-6x" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Student Contract</h4>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="fa fa-edit" aria-hidden="true"></i> Required Submission</p>
+          <p class="list-group-item-text"><i class="fas fa-edit" aria-hidden="true"></i> Required Submission</p>
         </a>
       </div>
     </div>

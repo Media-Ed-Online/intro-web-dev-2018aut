@@ -99,7 +99,7 @@ $brand-secondary:         #20B5E9 !default;
     h4, .h4,
     h5, .h5,
     h6, .h6 {
-      margin-top: $line-height-computed * 2;
+      margin-top: $line-height-computed * 2.25;
       margin-bottom: ($line-height-computed / 2);
     }
   }
@@ -140,9 +140,11 @@ $brand-secondary:         #20B5E9 !default;
 // MODALS
     // overwrites:  /_sass/bootstrap/_modals.scss
 .modal-title {
-  margin: 0;
+  font-family: $font-family-sans-serif;
+  font-size: $font-size-h4;
   line-height: $modal-title-line-height;
 }
+
 .modal-header .close {
   margin-top: ceil(($font-size-base * 1.25)) * -1.25;
 }
@@ -188,8 +190,9 @@ $brand-secondary:         #20B5E9 !default;
 
 // ICONS
 .icon-hw {
-  margin: 10px auto 15px;
+  margin: 10px auto 30px;
   color: $panel-info-text;
+  height: 75px;
 }
 .icon-danger::after {
   font-family: FontAwesome;
@@ -227,7 +230,8 @@ $brand-secondary:         #20B5E9 !default;
 
 
 // IFRAMES
-iframe {
+    // overwrites:  /_sass/bootstrap/_responsive-embed.scss
+.embed-responsive {
   margin-top: $line-height-computed;
   margin-bottom: $line-height-computed * 2;
 }

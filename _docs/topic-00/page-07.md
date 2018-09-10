@@ -12,8 +12,10 @@ permalink: /topic-00/gh-overview/
 ## GitHub Repository Hosting
 GitHub allows users to have an unlimited number of public repositories under 2GB each. Your source code is publicly available to the world for them to view and fork (copy). This is great, as it furthers “open source” software projects. **Open source software** encourages the development of shared knowledge and progress within the open source community. It also means that all code is publicly viewable.
 
+
+### What is GitHub?
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w3jLJU7DT5E?rel=0" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w3jLJU7DT5E?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 </div>
 
 
