@@ -1,9 +1,9 @@
 ---
-title: Test Topic 01, Page 1
+title: Topic Overview
 module: topic-01
 permalink: /topic-01/overview/
 ---
 
-## Test Topic 01, Page 1
+<img src="./../../docs/{{page.module}}/img/assignment-01.svg" alt="" title="Asignment 0: Course Contract" class="overview-img" />
 
-Page content.
+<h2 style="text-align: center;">01: Beginning Development</h2>

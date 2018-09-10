@@ -5,9 +5,9 @@ permalink: /topic-00/overview/
 redirect_from: /get-started.html
 ---
 
-<img src="./../../docs/topic-00/img/assignment-00.svg" alt="" title="Asignment 0: Course Contract" class="overview-img" />
+<img src="./../../docs/{{page.module}}/img/assignment-00.svg" alt="" title="Asignment 0: Course Contract" class="overview-img" />
 
-## “Welcome to the Course!”
+<h2 style="text-align: center;">“Welcome to the Course!”</h2>
 
 ### About
 Coding. Learning. Engagement. Great websites.

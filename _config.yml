@@ -29,6 +29,9 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
+  - TODO
+  - .DS_Store
+  
 timezone: America/Denver
 defaults:
 - scope:

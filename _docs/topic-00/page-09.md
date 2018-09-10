@@ -30,15 +30,15 @@ As the semester goes on you will be expected to open issues when you are having 
   </div>
   <div class="tab-pane fade" id="step2">
     <p>Step 2: Simply click on an issue to access it. Open issues are labeled with a green exclamation point. <i class="fa fa-exclamation" style="border: 2px solid #38B44A; border-radius: 20px; color: #38B44A; width: 16pt; height: 16pt; padding: 1px 6px;" aria-hidden="true"></i></p>
-    <img src="./../../docs/topic-00/img/gh-issues-select.png" alt="Selecting open GitHub issue" />
+    <img src="./../../docs/{{page.module}}/img/gh-issues-select.png" alt="Selecting open GitHub issue" />
   </div>
   <div class="tab-pane fade" id="step3">
     <p>Step 3: Type in the active dialogue box to share your reply.</p>
-    <img src="./../../docs/topic-00/img/gh-issues-write.png" alt="Selecting open GitHub issue" />
+    <img src="./../../docs/{{page.module}}/img/gh-issues-write.png" alt="Selecting open GitHub issue" />
     <p><span class="label label-info">Note</span> Highly-active posts may have a lot of replies, and you'll have to scroll to the bottom of the page to add your own.</p>
   </div>
   <div class="tab-pane fade" id="step4">
     <p>Step 4: You can use Markdown in these Issues, and preview it before commenting by selecting the tab.</p>
-    <img src="./../../docs/topic-00/img/gh-issues-preview.png" alt="Previewing open GitHub issue" />
+    <img src="./../../docs/{{page.module}}/img/gh-issues-preview.png" alt="Previewing open GitHub issue" />
   </div>
 </div>
