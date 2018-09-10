@@ -2,7 +2,7 @@
 title: Introductory Overview
 module: topic-00
 permalink: /topic-00/overview/
-redirect_from: /topic-00/getting-started.html
+redirect_from: /get-started.html
 ---
 
 <img src="./../../docs/{{page.module}}/img/assignment-00.svg" alt="" title="Asignment 0: Course Contract" class="overview-img" />

@@ -1,7 +1,7 @@
 ---
 title: TODO
 module: topic-00
-todo: <i class="far fa-check-square" aria-hidden="true"></i>
+todo: <i class="fas fa-check-square" aria-hidden="true"></i>
 permalink: /topic-00/todo-gh/
 ---
 

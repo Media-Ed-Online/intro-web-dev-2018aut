@@ -159,10 +159,10 @@ $brand-secondary:         #20B5E9 !default;
 }
 .modal-image:after {
   font-family: FontAwesome;
-  content: "\f055";
+  content: "\f00e";
   font-size: 20px;
   mix-blend-mode: difference;
-  color: $gray-light;
+  color: #eee;
   display: block;
   text-align: right;
   margin-top: -55px;

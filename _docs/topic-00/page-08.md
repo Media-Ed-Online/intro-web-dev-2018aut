@@ -10,6 +10,7 @@ To complete this area of the course, you’ll need to have registered for a free
 
 We will discuss GitHub.com more in the future, but in the meantime, I would you like you to know that GitHub is a web service which is used for storing git repositories by developers. Much of that statement is still likely jargon to you, and that’s okay - it will all come in time.
 
+
 ## Create a GitHub.com Account
 <ul class="nav nav-tabs">
   <li class="active"><a href="#step1" data-toggle="tab">Step 1</a></li>

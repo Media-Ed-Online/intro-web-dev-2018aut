@@ -63,7 +63,7 @@ topic-01:
     - word-processors
     - plain-text
     - text-editors
-    - todo-text-editors
+    - todo-editors
 
   - title: Atom Text Editor
     docs:
