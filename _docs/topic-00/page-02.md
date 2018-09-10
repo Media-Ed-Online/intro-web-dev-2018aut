@@ -1,9 +1,13 @@
 ---
-title: Test Topic 00, Page 2
+title: Moodle
 module: topic-00
-permalink: /topic-00/page-02/
+permalink: /topic-00/moodle/
 ---
 
-## Test Topic 00, Page 2
+<div class="divider-rounded"></div>
 
-Page content.
+The learning management system for this course will be [Moodle](https://moodle.umt.edu/).
+
+There, you will turn in and receive grades for all submitted work, including assignments, quizzes, and projects. Homework is community-affair, and you are encouraged to view each other's submissions.
+
+<span class="label label-danger">IMPORTANT:</span> This <b><i>does not</i></b> mean "copy each other's work." You should explore others' processes, but only use it for problem solving or ideation.

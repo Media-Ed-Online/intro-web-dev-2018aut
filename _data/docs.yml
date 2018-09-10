@@ -11,12 +11,34 @@ examples:
     - cheatsheet
     - font-awesome
     - bootstrap
+    - trials
+
+
 
 topic-00:
-  - title: Test Intro
+  - title: Getting Started
     docs:
     - overview
-    - page-02
+
+  - title: Learning Resources
+    docs:
+    - moodle
+    - website
+    - services
+
+  - title: Homework
+    docs:
+    - homework
+    - todo-hw
+
+  - title: Submitting
+    docs:
+    - gh-overview
+    - gh-registration
+    - gh-issues
+    - todo-gh
+
+
 
 topic-01:
   - title: Test Topic 01.1

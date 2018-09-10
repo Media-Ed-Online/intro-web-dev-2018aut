@@ -1,3 +1,17 @@
+<!-- Current Assignments -->
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <h3 class="panel-title">Current Assignment(s)</h3>
+    </div>
+    <div class="panel-body">
+      {% if page.module %}
+            {{ site.data.assignments[page.module][0] }}<br />
+            <span class="label label-warning">Due:</span> {{ site.data.dates[page.module][0] }}
+      {% endif %}
+    </div>
+</div>
+
+<!-- Pagination -->
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 {% for section in site.data.docs[page.module] %}
   <div class="panel panel-default">
