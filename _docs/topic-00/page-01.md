@@ -1,11 +1,11 @@
 ---
 title: Introductory Overview
 module: topic-00
-permalink: /topic-00/overview/
-redirect_from: /get-started.html
+permalink: /docs/topic-00/overview/
+redirect_from: /docs/topic-00/
 ---
 
-<img src="./../../docs/{{page.module}}/img/assignment-00.svg" alt="" title="Asignment 0: Course Contract" class="overview-img" />
+<img src="../img/assignment-00.svg" alt="" title="Asignment 0: Course Contract" class="overview-img" />
 
 <h2 style="text-align: center;">“Welcome to the Course!”</h2>
 
