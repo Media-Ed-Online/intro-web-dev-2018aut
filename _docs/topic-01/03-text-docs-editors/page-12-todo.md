@@ -23,7 +23,7 @@ There are many types of text editors, each optimized for specific types of tasks
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="{{ site.url }}/intro-web-dev/topic-01/word-processors/" target="_blank" class="list-group-item">
+        <a href="./word-processors/" target="_blank" class="list-group-item">
           <i class="icon-hw fas fa-edit fa-6x" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Break the File</h4>
           <p class="list-group-item-text">Open a word processing document in a text editor, and vice-versa. What happens?</p>

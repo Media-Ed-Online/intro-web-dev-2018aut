@@ -1,8 +1,8 @@
 ---
 title: Introductory Overview
 module: topic-00
-permalink: /docs/topic-00/overview/
-redirect_from: /docs/topic-00/
+permalink: /topic-00/overview/
+redirect_from: /get-started.html
 ---
 
 <img src="../img/assignment-00.svg" alt="" title="Asignment 0: Course Contract" class="overview-img" />

@@ -51,7 +51,7 @@ defaults:
 
 collections:
   docs:
-    permalink: /:collection/:path/
+    permalink: /:path/
     output: true
   posts:
     permalink: /blog/:year/:month/:day/:title/

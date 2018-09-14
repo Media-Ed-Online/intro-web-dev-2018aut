@@ -32,7 +32,7 @@ We will discuss GitHub.com more in the future, but in the meantime, I would you 
         <li>Just-Justine-Evans</li>
         <li>etc...</li>
       </ul>
-      <img src="./../../docs/{{page.module}}/img/gh-signup.jpg" alt="GitHub sign-up page" />
+      <img src="../img/gh-signup.jpg" alt="GitHub sign-up page" />
     </p>
   </div>
   <div class="tab-pane fade" id="step2">
@@ -46,7 +46,7 @@ We will discuss GitHub.com more in the future, but in the meantime, I would you 
   </div>
   <div class="tab-pane fade" id="step5">
     <p>Step 5: After your account is created, select the avatar in the upper-right hand corner. This should produce a dropdown menu. From there select the “settings” option.</p>
-    <img src="./../../docs/{{page.module}}/img/gh-settings.jpg" alt="GitHub profile set-up" />
+    <img src="../img/gh-settings.jpg" alt="GitHub profile set-up" />
   </div>
   <div class="tab-pane fade" id="step6">
     <p>Step 6: Fill out your <b>full name</b> for us to track for grading purposes.</p>
