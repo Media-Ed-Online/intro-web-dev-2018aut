@@ -6,7 +6,7 @@ permalink: /topic-00/website/
 
 <div class="divider-rounded"></div>
 
-This site, [{{ site.url }}{{ site.baseurl }}]({{ site.url }}{{ site.baseurl }}/), is where most of your learning materials are hosted. Please bookmark it!
+This site, [{{ site.url }}{{ site.baseurl }}]({{ site.url }}{{ site.baseurl }}), is where most of your learning materials are hosted. Please bookmark it!
 
 In addition, you can visit our Resources repo often to access the Issues board and ask for help from both your instructor and your peers. Click the &nbsp;<a href="{{ site.git_address }}-resources/issues/"><i class="fab fa-github fa-lg"></i></a>&nbsp; icon from the navigation menu above to visit the Issues board at any time.
 
