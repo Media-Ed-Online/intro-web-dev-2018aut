@@ -10,4 +10,4 @@ As stated, the majority of your learning materials will be posted of this site. 
 
 The left navigation menu further breaks up this topics into sub-topics, meant to offer information into digestible portions.
 
-The last page of each sub-topic is listed under a <i class="fas fa-check-square" aria-hidden="true"></i> **TODO** heading. This page will provide you with outside materials, review opportunities, or links to assignment requirements. Effectively, it should help you gauge what you should have comprehended from the sub-topic.
+The last page of each sub-topic is listed under a &nbsp;&nbsp;<i class="fas fa-check-square" aria-hidden="true"></i> **TODO**&nbsp;&nbsp; heading. This page will provide you with outside materials, review opportunities, or links to assignment requirements. Effectively, it should help you gauge what you should have comprehended from the sub-topic.

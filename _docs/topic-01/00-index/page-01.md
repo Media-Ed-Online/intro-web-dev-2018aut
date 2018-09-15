@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/overview/
 ---
 
-<img src="../img/assignment-01.svg" alt="" title="Asignment 0: Course Contract" class="overview-img" />
+<img src="../img/assignment-01.svg" alt="" title="Asignment 1: My First Readme" class="overview-img" />
 
 <h2 style="text-align: center;">01: Beginning Development</h2>
 This topic is all about the internet, what it is, and what it _isn’t_. We'll take a wide look at how we approach creating for the web, and begin setting up your development environment.

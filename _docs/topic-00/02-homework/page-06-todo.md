@@ -23,7 +23,7 @@ This area will contain related areas you should explore. Most are required, but 
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="{{ site.data.moodle.main | append: site.data.moodle.topic-01 }}" target="_blank" class="list-group-item">
+        <a href="{{ site.data.moodle.main | append: site.data.moodle.topic-00 }}" target="_blank" class="list-group-item">
           <i class="icon-hw fas fa-file-contract" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Student Contract</h4>
           <div class="divider-hw"></div>
