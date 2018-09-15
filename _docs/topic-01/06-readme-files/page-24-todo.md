@@ -21,7 +21,7 @@ permalink: /topic-01/todo-readme/
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="{{ site.data.moodle.main }}{{ site.data.moodle.topic-01 }}" target="_blank" class="list-group-item">
+        <a href="{{ site.data.moodle.main | append: site.data.moodle.topic-01 }}" target="_blank" class="list-group-item">
           <i class="icon-hw fas fa-file-upload"></i>
           <h4 class="list-group-item-heading">Assignment 1</h4>
           <div class="divider-hw"></div>
