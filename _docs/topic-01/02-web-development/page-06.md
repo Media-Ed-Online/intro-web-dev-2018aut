@@ -7,7 +7,7 @@ permalink: /topic-01/what-is-web-dev/
 <div class="divider-rounded"></div>
 
 ### What is web development?
-_Web Development_ is broad term that is intended to cover the technical process of creating, building, and maintaining a website for the Internet. As such, this course will take a technical approach, with the goal of assisting you in gaining comfort and skill in the technologies and concepts of modern web development.
+_Web Development_ is broad term that is intended to cover the technical process of creating, building, and maintaining a website for the internet. As such, this course will take a technical approach, with the goal of assisting you in gaining comfort and skill in the technologies and concepts of modern web development.
 
 
 ### What _isn't_ web development?

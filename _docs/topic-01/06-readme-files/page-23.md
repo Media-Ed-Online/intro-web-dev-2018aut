@@ -1,5 +1,5 @@
 ---
-title: Creating a New Readme File
+title: Creating a New README File
 module: topic-01
 permalink: /topic-01/create-readme/
 ---
@@ -8,7 +8,7 @@ permalink: /topic-01/create-readme/
 
 Let's begin by creating your very own README.md for Assignment 1 ("A1").
 
-## My First Readme (File)
+## My First README (File)
 <ul class="nav nav-tabs">
   <li class="active"><a href="#step1" data-toggle="tab">Step 1</a></li>
   <li><a href="#step2" data-toggle="tab">Step 2</a></li>

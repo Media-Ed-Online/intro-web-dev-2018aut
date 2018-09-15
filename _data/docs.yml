@@ -85,3 +85,52 @@ topic-01:
     - readme
     - create-readme
     - todo-readme
+
+
+
+topic-02:
+  - title: "\"Your Development Environment\""
+    docs:
+    - overview
+
+  - title: The Flow of Information
+    docs:
+    - infrastructure
+    - protocols
+    - web-addresses
+    - urls
+    - todo-urls
+
+  - title: File Management
+    docs:
+    - files
+    - folders
+    - todo-folders
+
+  - title: GitHub.com
+    docs:
+    - how-git
+    - why-git
+    - todo-git
+
+  - title: GitHub GUI
+    docs:
+    - github-desktop-intro
+    - github-desktop-install
+    - todo-github-desktop
+
+  - title: Developing with Git
+    docs:
+    - dev-part-1
+    - dev-part-2
+    - dev-part-3
+    - dev-part-4
+    - dev-part-5
+    - todo-setup
+
+  - title: Intro to Linking
+    docs:
+    - link-internal
+    - link-same
+    - link-deeper
+    - todo-linking

@@ -6,7 +6,7 @@ permalink: /topic-01/what-is-the-net/
 
 <div class="divider-rounded"></div>
 
-Let’s watch some videos to better understand what “the Internet” is. Part of web development is understanding _how_ to get your website online, and to make sure it stays online. This means you need to have a basic understanding of what the Internet actually _is,_ and how it works. Take a look!
+Let’s watch some videos to better understand what “the internet” is. Part of web development is understanding _how_ to get your website online, and to make sure it stays online. This means you need to have a basic understanding of what the internet actually _is,_ and how it works. Take a look!
 
 
 ## What is the Internet?

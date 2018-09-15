@@ -4,7 +4,7 @@ examples: ["None"]
 
 # For Spring/Fall Semesters
 topic-00: ["Assignments for the active topic will be listed here.<br /><br />Student Contract"]
-topic-01: ["A1: My First Readme"]
+topic-01: ["A1: My First README"]
 topic-02: ["A2: My First Repository"]
 topic-03: ["Q1: File Management & Markdown<br/>P1: The Live Site
           <br />P1 Workshop (Submission)"]
@@ -23,7 +23,7 @@ topic-15: ["P4 Workshop (Assessments)<br />Revisions<br />Extra Credit"]
 
 # For Summer Session
 #introduction: ["Assignments for the active topic will be listed here. <br /><br />Student Contract"]
-#topic-01: ["A1: My First Readme"]
+#topic-01: ["A1: My First README"]
 #topic-02: ["A2: My First Repository"]
 #topic-03: ["P1: The Live Site"]
 #topic-04: ["A3: Markup"]
