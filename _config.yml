@@ -5,7 +5,7 @@ description: >
   Course content for an introductory look at building for the web.
 
 baseurl: "/intro-web-dev"
-url: https://media-ed-online.github.io/intro-web-dev
+url: https://media-ed-online.github.io/
 git_address: https://github.com/media-ed-online/intro-web-dev
 git_edit_address: https://github.com/media-ed-online/intro-web-dev/blob/gh-pages
 slack: https://ummediaarts.slack.com/team/U6T476W7Q
