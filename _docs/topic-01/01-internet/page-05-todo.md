@@ -10,7 +10,7 @@ permalink: /topic-01/todo-net/
     <div class="bs-component">
       <div class="list-group">
         <a href="http://www.internetlivestats.com/one-second/" target="_blank" class="list-group-item">
-          <i class="icon-hw fas fa-globe-americas fa-6x" aria-hidden="true"></i>
+          <i class="icon-hw fas fa-globe-americas" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Watch the Internet Live</h4>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 3 minute activity</p>
@@ -22,7 +22,7 @@ permalink: /topic-01/todo-net/
     <div class="bs-component">
       <div class="list-group">
         <a href="http://emojitracker.com/" target="_blank" class="list-group-item">
-          <i class="icon-hw far fa-grin-squint-tears fa-6x" aria-hidden="true"></i>
+          <i class="icon-hw far fa-grin-squint-tears" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Realtime Emoji Tracking</h4>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 1 minute activity</p>

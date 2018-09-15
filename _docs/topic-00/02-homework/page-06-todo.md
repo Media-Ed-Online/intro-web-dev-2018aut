@@ -12,7 +12,7 @@ This area will contain related areas you should explore. Most are required, but 
     <div class="bs-component">
       <div class="list-group">
         <a href="{{site.data.moodle.syllabus}}" target="_blank" class="list-group-item">
-          <i class="icon-hw fas fa-file-alt fa-6x" aria-hidden="true"></i>
+          <i class="icon-hw fas fa-file-alt" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Course Syllabus</h4>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 8 minute read</p>
@@ -24,7 +24,7 @@ This area will contain related areas you should explore. Most are required, but 
     <div class="bs-component">
       <div class="list-group">
         <a href="{{ site.data.moodle.main | append: site.data.moodle.topic-01 }}" target="_blank" class="list-group-item">
-          <i class="icon-hw fas fa-file-contract fa-6x" aria-hidden="true"></i>
+          <i class="icon-hw fas fa-file-contract" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Student Contract</h4>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="fas fa-edit" aria-hidden="true"></i> Required Submission</p>
