@@ -6,8 +6,18 @@
   font-family: Helvetica, Arial, sans-serif;
  }
    // overwritten in:  /_sass/bootswatch/united/_variables.scss
- /*Justine $font-size-base:          14px !default;*/
-$brand-secondary:         #20B5E9 !default;
+//$gray-base:              #000;
+//$gray-darker:            #222;
+//$gray-dark:              #333;
+//$gray:                   #777;
+//$gray-light:             #AEA79F;
+//$gray-lighter:           #eee;
+//$brand-primary:         #E95420;
+$brand-secondary:         #20B5E9;
+//$brand-success:         #38B44A;
+//$brand-info:            #772953;
+//$brand-warning:         #EFB73E;
+//$brand-danger:          #DF382C;
 
 
 
@@ -169,6 +179,18 @@ $brand-secondary:         #20B5E9 !default;
   margin-right: 10px;
 }
 
+
+
+// IMAGE CAPTIONS
+.img-caption {
+  font-size:  $font-size-small;
+  font-family: $font-family-sans-serif;
+  font-style: italic;
+  color: $gray-light;
+  margin-top: -10px;
+  padding-left: 10px;
+  border-left: 2px solid $gray-lighter;
+}
 
 
 // DIVIDERS

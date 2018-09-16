@@ -16,4 +16,7 @@ Directions for a site can be broken down similarly (in the most basic sense) to 
 
 Continue to the next page to find out how this is done for the web.
 
-![City Horizon](../img/url-city.svg)
+![City Horizon](../img/url-city.gif)
+<div class="img-caption">
+  Image
+</div>

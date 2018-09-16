@@ -27,10 +27,13 @@ The image below shows a word document in which certain sections have been styled
         </button>
       </div>
       <div class="modal-body">
-      <div class="image">
-        <img src="../img/word-styles.png" class="img-responsive" alt="A .docx file loaded into a simple text editor">
-        <p><i>Document in which certain sections have been styled using Word’s “styles.”</i></p>
-      </div>
+        <div class="image">
+          <p>This document has certain sections styled using Word’s “styles.”</p>
+          <img src="../img/word-styles.png" class="img-responsive" alt="A .docx file loaded into a simple text editor">
+          <div class="img-caption">
+            Options like headings, quotes, and “normal” (paragraphs).
+          </div>
+        </div>
       </div>
     </div>
   </div>

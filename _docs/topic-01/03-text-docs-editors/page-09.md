@@ -28,10 +28,13 @@ The downside to this format though is that you cannot open this file in a basic 
         </button>
       </div>
       <div class="modal-body">
-      <div class="image">
-        <img src="../img/docx-in-atom.jpg" class="img-responsive" alt="A .docx file loaded into a simple text editor">
-        <p><i>Totally legible.</i></p>
-      </div>
+        <div class="image">
+          <p>As you can see, you cannot open a Word document in Atom in order to edit its contents:</p>
+          <img src="../img/docx-in-atom.jpg" class="img-responsive" alt="A .docx file loaded into a simple text editor">
+          <div class="img-caption">
+            Totally legible.
+          </div>
+        </div>
       </div>
     </div>
   </div>
