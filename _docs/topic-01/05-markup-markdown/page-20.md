@@ -1,5 +1,5 @@
 ---
-title: Text Styles in Markdon
+title: Text Styles in Markdown
 module: topic-01
 permalink: /topic-01/styles-markdown/
 ---

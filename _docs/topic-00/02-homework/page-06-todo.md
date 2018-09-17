@@ -2,7 +2,7 @@
 title: TODO
 module: topic-00
 todo: <i class="fas fa-check-square" aria-hidden="true"></i>
-permalink: /topic-00/todo-hw/
+permalink: /topic-00/todo-homework/
 ---
 
 This area will contain related areas you should explore. Most are required, but some will be optional for self-guided learning.

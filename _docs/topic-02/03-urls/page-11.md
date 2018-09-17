@@ -1,15 +1,15 @@
 ---
-title: Absolute and Relative URLs
+title: Absolute URLs
 module: topic-02
-permalink: /topic-02/urls/
+permalink: /topic-02/urls-absolute/
 ---
 
 <div class="divider-rounded"></div>
 
-Generally, we can think about “finding” a web location in one of two ways: via its _relative_ or _absolute_ address, or URL. Let's create a scenario to start.
+Generally, we can think about “finding” a web location in one of two ways: via its _relative_ or _absolute_ address (or URL). Let's create a scenario to start.
 
 <div style="width: 75%; margin: auto; text-align: center;">
-  <img src="../img/url-profile.gif" alt="profile placeholder" style="width:150px; margin: auto;" />
+  <img src="../img/url-profile.gif" alt="profile placeholder" style="width:; margin: auto;" />
   <p>Consider the file “profile.jpg”</p>
 </div>
 

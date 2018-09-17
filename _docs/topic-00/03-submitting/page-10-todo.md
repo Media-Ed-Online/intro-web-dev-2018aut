@@ -2,7 +2,7 @@
 title: TODO
 module: topic-00
 todo: <i class="fas fa-check-square" aria-hidden="true"></i>
-permalink: /topic-00/todo-gh/
+permalink: /topic-00/todo-github/
 ---
 
 <div class="row text-center">

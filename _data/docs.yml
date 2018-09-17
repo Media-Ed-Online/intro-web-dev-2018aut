@@ -29,14 +29,14 @@ topic-00:
   - title: Homework
     docs:
     - homework
-    - todo-hw
+    - todo-homework
 
   - title: Submitting
     docs:
     - gh-overview
     - gh-registration
     - gh-issues
-    - todo-gh
+    - todo-github
 
 
 
@@ -97,15 +97,22 @@ topic-02:
     docs:
     - infrastructure
     - protocols
-    - web-addresses
-    - urls
-    - todo-urls
+    - todo-flow-info
 
   - title: File Management
     docs:
     - files
     - folders
-    - todo-folders
+    - naming-practices
+    - todo-file-management
+
+  - title: The Internet's Address Book
+    docs:
+    - web-addresses
+    - file-invites
+    - urls-absolute
+    - urls-relative
+    - todo-urls
 
   - title: GitHub.com
     docs:

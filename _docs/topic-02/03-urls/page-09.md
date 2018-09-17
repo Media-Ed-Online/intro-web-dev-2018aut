@@ -18,5 +18,5 @@ Continue to the next page to find out how this is done for the web.
 
 ![City Horizon](../img/url-city.gif)
 <div class="img-caption">
-  Image
+  You've “invited” someone to view your file. You need to tell them which one, and where to find it.
 </div>
