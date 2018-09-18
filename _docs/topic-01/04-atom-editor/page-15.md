@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/atom-optional-install/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 ## Optional/Recommended Additions
 Most text editors allow you to download additional packages created by the community which extend their functionality and can make them more suited to your particular needs. For Atom and this course, these would be very beneficial:

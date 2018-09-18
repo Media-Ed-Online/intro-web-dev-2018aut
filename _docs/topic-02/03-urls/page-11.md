@@ -4,7 +4,7 @@ module: topic-02
 permalink: /topic-02/urls-absolute/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 Generally, we can think about “finding” a web location in one of two ways: via its _relative_ or _absolute_ address (or URL). Let's create a scenario to start.
 

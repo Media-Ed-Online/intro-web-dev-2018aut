@@ -9,11 +9,12 @@ permalink: /topic-02/todo-setup/
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="https://en.wikipedia.org/wiki/Text_editor#Typical_features" target="_blank" class="list-group-item">
-          <i class="icon-hw fab fa-wikipedia-w" aria-hidden="true"></i>
-          <h4 class="list-group-item-heading">Skim Typical Features</h4>
+        <a href="../dev-part-5/" target="_blank" class="list-group-item">
+          <i class="icon-hw fas fa-upload" aria-hidden="true"></i>
+          <h4 class="list-group-item-heading">Practice Making and Pushing Changes</h4>
+          <p class="list-group-item-text">Add some text to a file. Make sure you can push and see any changes on GitHub.com.</p>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 5 minute read</p>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 8 minute activity</p>
         </a>
       </div>
     </div>

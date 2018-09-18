@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/plain-text/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 ## “Okay, yikes. So what are other types of plain text-based file types?”
 

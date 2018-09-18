@@ -4,7 +4,7 @@ module: topic-00
 permalink: /topic-00/gh-registration/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 To complete this area of the course, you’ll need to have registered for a free GitHub account.
 

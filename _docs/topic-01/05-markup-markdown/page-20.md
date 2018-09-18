@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/styles-markdown/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 Alternatively, we can do these styles with markdown universally across text file-types.
 

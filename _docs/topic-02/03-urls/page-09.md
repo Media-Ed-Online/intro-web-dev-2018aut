@@ -4,7 +4,7 @@ module: topic-02
 permalink: /topic-02/web-addresses/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 ## What U. R. L(ooking for):
 

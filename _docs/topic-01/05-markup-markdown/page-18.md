@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/markdown/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 Just as in HTML, **markdown files** encourage the writer to focus on *content and structure,* as opposed to formatting. In fact, this entire course has been developed for the web using markdown files. In other words, at this very moment, you are reading a markdown file.
 

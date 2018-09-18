@@ -5,6 +5,13 @@
 :not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
   font-family: Helvetica, Arial, sans-serif;
  }
+ code,
+ kbd,
+ pre,
+ samp {
+   font-family: $font-family-monospace !important;
+ }
+
    // overwritten in:  /_sass/bootswatch/united/_variables.scss
 //$gray-base:              #000;
 //$gray-darker:            #222;
@@ -194,7 +201,14 @@ $brand-secondary:         #20B5E9;
 
 
 // DIVIDERS
-.divider-rounded {
+.divider-pg {
+  width: 50%;
+  height: 2px;
+  border: 1px solid $brand-info;
+  border-radius: 30px;
+  margin: 20px auto;
+}
+.divider-heading {
   width: 50%;
   height: 4px;
   border: 2px solid $brand-warning;
@@ -216,6 +230,22 @@ $brand-secondary:         #20B5E9;
   color: $panel-info-text;
   height: 90px;
   font-size: 6em;
+}
+.icon-pro::before {
+  font-family: FontAwesome;
+  content: "\f00c";
+  color: $brand-success;
+  font-size: inherit;
+  font-style: normal;
+  margin-right: 5px;
+}
+.icon-con::before {
+  font-family: FontAwesome;
+  content: "\f00d";
+  color: $brand-danger;
+  font-size: inherit;
+  font-style: normal;
+  margin-right: 8px;
 }
 .icon-danger::after {
   font-family: FontAwesome;

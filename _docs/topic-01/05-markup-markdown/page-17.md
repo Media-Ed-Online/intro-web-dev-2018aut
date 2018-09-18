@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/markup/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 A **markup language** is a system for annotating a document in a way that is syntactically distinguishable from the text. Markup languages tend to encourage writers to focus on _content_ and _structure_ before concerning themselves with presentation.
 

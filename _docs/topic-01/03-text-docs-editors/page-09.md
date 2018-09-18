@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/word-processors/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 ## "Well, I have Microsoft Word, so..."
 

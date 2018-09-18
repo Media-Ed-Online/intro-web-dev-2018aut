@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/atom-intro/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 <img src="../img/logo-atom.png" alt="Atom text editor logo" />
 

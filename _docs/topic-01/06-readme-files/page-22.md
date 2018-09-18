@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/readme/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 [GitHub.com](https://github.com/) uses markdown extensively within its ecosystem for documentation, README files, as well as allowing for issues to be written using markdown.
 

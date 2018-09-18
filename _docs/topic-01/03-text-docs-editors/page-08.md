@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/text-docs/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 **Text documents** include many file types and can be simply described as any file that stores an [ASCII character set](https://en.wikipedia.org/wiki/ASCII) (as opposed to binary data), which is the most common format for the English language. These text files can include text documents of prose, code, or some combination of both.
 

@@ -4,7 +4,7 @@ module: topic-00
 permalink: /topic-00/gh-overview/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 [GitHub.com](https://www.github.com) is a web-based Git repository hosting service, and is required for you to use in this course. But you may be wondering why? Well, GitHub is a major tool that developers use to - well, _develop_ - and how we’re going to help you create, fix, and build websites.
 

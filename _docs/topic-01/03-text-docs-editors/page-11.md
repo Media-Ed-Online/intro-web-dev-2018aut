@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/text-editors/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 Text files can be created and edited using a **"Text Editor,”** which is any application for editing ASCII text documents. This includes both prose or code documents.
 

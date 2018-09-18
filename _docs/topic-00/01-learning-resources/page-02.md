@@ -4,7 +4,7 @@ module: topic-00
 permalink: /topic-00/moodle/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 The learning management system for this course will be [Moodle]({{site.data.moodle.main}}).
 

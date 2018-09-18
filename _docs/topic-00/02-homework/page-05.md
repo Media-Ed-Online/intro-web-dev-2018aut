@@ -4,7 +4,7 @@ module: topic-00
 permalink: /topic-00/homework/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 As stated, the majority of your learning materials will be posted of this site. The course is broken up into 4 Projects modules, with 3-4 learning Topics each (as seen in the "Modules" dropdown menu above).
 

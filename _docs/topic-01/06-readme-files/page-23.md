@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/create-readme/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 Let's begin by creating your very own README.md for Assignment 1 ("A1").
 

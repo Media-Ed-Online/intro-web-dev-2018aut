@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/styles-word/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 ## What's the difference between Microsoft Word and markdown files?
 As mentioned previously, one of the main differences between a a markdown (or more generally, “text document”) and a Microsoft Word file is that the former is stored as **text**, and the latter is stored as **binary code**. Microsoft does this for a number of reasons, one of these is to keep their product proprietary. This binary file also allows for syntax and structure to be stored within the document file, without the user having to see it in the text itself.

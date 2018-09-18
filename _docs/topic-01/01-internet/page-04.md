@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/how-the-net-works/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 ## How the Internet Works in 5 Minutes
 <div class="embed-responsive embed-responsive-16by9">

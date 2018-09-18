@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/what-is-the-web/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 <blockquote>
   <p><i>The original idea of the web was that it should be a collaborative space where you can communicate through sharing information.</i></p>

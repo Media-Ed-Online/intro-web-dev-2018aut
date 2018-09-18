@@ -4,7 +4,7 @@ module: topic-02
 permalink: /topic-02/protocols/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 <blockquote>
   <p><i>When I helped to develop the open standards that computers use to communicate with one another across the Net, I hoped for but could not predict how it would blossom and how much human ingenuity it would unleash.</i></p>

@@ -4,7 +4,7 @@ module: topic-00
 permalink: /topic-00/website/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 This site, [{{ site.url }}{{ site.baseurl }}]({{ site.url }}{{ site.baseurl }}), is where most of your learning materials are hosted. Please bookmark it!
 

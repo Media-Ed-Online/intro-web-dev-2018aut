@@ -4,7 +4,7 @@ module: topic-00
 permalink: /topic-00/gh-issues/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 The absolute best way to ask for help in this course is to utilize the <a href="{{ site.git_address }}-resources/issues/">Issues board</a> feature. This is ideal because:
 

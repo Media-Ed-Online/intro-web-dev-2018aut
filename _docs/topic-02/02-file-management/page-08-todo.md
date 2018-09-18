@@ -9,11 +9,11 @@ permalink: /topic-02/todo-file-management/
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="https://en.wikipedia.org/wiki/Text_editor#Typical_features" target="_blank" class="list-group-item">
-          <i class="icon-hw fab fa-wikipedia-w" aria-hidden="true"></i>
-          <h4 class="list-group-item-heading">Skim Typical Features</h4>
+        <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files" target="_blank" class="list-group-item hw-item">
+          <img class="icon-hw" src="../img/hw-icon-mdn.svg" />
+          <h4 class="list-group-item-heading">Dealing with Files</h4>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 5 minute read</p>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 6 minute reading</p>
         </a>
       </div>
     </div>

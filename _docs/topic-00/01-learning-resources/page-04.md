@@ -4,7 +4,7 @@ module: topic-00
 permalink: /topic-00/services/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 ## Services
 You are required to sign-up for and maintain a free [GitHub account](https://github.com/). See "Submitting" to the left for more information.

@@ -4,7 +4,7 @@ module: topic-01
 permalink: /topic-01/atom-base-install/
 ---
 
-<div class="divider-rounded"></div>
+<div class="divider-heading"></div>
 
 Please following the appropriate instructions for your device.
 
