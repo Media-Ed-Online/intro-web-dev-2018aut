@@ -92,3 +92,18 @@ permalink: /examples/trials/
     </div>
   </div>
 </div>
+
+
+
+<br /><br />
+
+
+<h2>Bash Tree</h2>
+<div style="font-family: monospace; padding: 10px; background-color: #eaeaea; border: 1px solid #999; border-radius: 10px; margin: 20px auto;">
+├── index.html<br/>
+└── <i class="far fa-folder-open"></i> content<br/>
+&nbsp;&nbsp;&nbsp;└── <i class="far fa-folder-open"></i> dam<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <i class="far fa-folder-open"></i> usa <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <i class="far fa-folder-open"></i> logo<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <i class="far fa-image"></i> m_logo.png
+</div>

@@ -18,4 +18,16 @@ permalink: /topic-02/todo-linking/
       </div>
     </div>
   </div>
+  <div class="col-lg-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <a href="{{ site.data.moodle.main | append: site.data.moodle.topic-02 }}" target="_blank" class="list-group-item">
+          <i class="icon-hw fas fa-file-upload"></i>
+          <h4 class="list-group-item-heading">Assignment 2</h4>
+          <div class="divider-hw"></div>
+          <p class="list-group-item-text"><i class="fas fa-edit" aria-hidden="true"></i> Homework Assignment</p>
+        </a>
+      </div>
+    </div>
+  </div>
 </div>
