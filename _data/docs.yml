@@ -109,7 +109,6 @@ topic-02:
   - title: The Internet's Address Book
     docs:
     - web-addresses
-    - file-invites
     - urls-absolute
     - urls-relative
     - todo-urls

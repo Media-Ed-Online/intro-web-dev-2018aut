@@ -1,30 +1,19 @@
 ---
-title: Internal Linking
+title: Same-Level Linking
 module: topic-02
-permalink: /topic-02/link-internal/
+permalink: /topic-02/link-same/
 ---
 
 <div class="divider-heading"></div>
 
-## Relative Linking Within Your Repository
-As you now know, the internet is built foundationally on links and inter-connected files and systems. We'll get into **hypertext** and **hyperlinks** later on in the course, but for right now, let's continue the [discussion on URL types](../urls-absolute/) and look at linking the files within our directory together.
+When files are at the same level in your directory's hierarchy, they can easily be linked via relative URLs.
 
-You've done some linking in **markdown** already, using outside sources and _absolute_ URLs:
+<span class="label label-warning">Load Time</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
 
-<div id="code-heading">Markdown</div>
-```markdown
-[discussion on absolute URLs](https://media-ed-online.github.io/intro-web-dev/topic-02/urls-absolute/)
-```
 
-<br />
+<br>
 
-But I can also link to pages in this website using _relative_ URLs, as long as I stay within my  `/intro-web-dev` repository. As the administrator of this site, I can link to the same page like so:
 
-<div id="code-heading">Markdown</div>
-```markdown
-[discussion on absolute URLs](/topic-02/urls-absolute/)
-```
-
-<br />
-
-If within our _Intro-Web-Dev_ repo, I can use either of these methods to link back to the same page. But one is much more efficient for me to type, and doesn't require me to have pushed all of (or anything) to GitHub's servers yet.
+## Linking Files that Live in the Same Folder
+<iframe src="https://h5p.org/h5p/embed/177165" width="1090" height="950" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<a href="https://h5p.org/node/177165" class="btn btn-default btn-xs" target="_blank">View Larger</a>

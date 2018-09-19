@@ -10,6 +10,6 @@ Maintaining organized files and consistent folder structure is key to creating e
 
 Please watch the video below, which does a very good job of describing proper file structure for creating websites.
 
-<span class="label label-danger">IMPORTANT</span> **Pay special attention to file-naming conventions.** _Naming your files certain ways can cause your site to break._
+<span class="label label-danger">Important</span> **Pay special attention to file-naming conventions.** _Naming your files certain ways can cause your site to break._
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RniGO9Ek6yY" frameborder="0" allowfullscreen></iframe></div>

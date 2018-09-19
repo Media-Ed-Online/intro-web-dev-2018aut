@@ -26,13 +26,13 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
       </div>
       <div class="col-lg-10">
         <h4>Hypertext Markup Language (<b>HTML</b> or <b>HTM</b>)</h4>
-        <p>HTML is the standard language known by all web designers and developers. HTML provides the structure of the page, using <i>elements</i> to create headings, paragraphs, lists, tables, links, etc. Properly-laid-out HTML is designed to enhance accessibility, and provide structued content outside of decorative styling.</p>
+        <p>HTML is the standard language known by all web designers and developers. HTML provides the structure of the page, using <i>elements</i> to create headings, paragraphs, lists, tables, links, etc. Properly-laid-out HTML is designed to enhance accessibility, and provide structured content outside of decorative styling.</p>
         <h4>Pros and Cons of Use:</h4>
         <ul style="list-style-type: none">
-          <li class="icon-pro">Widely-used; standard.</li>
-          <li class="icon-pro">Easy-to-learn.</li>
+          <li class="icon-pro">Easy-to-learn, free or low-cost.</li>
+          <li class="icon-pro">Widely-used; standard practice.</li>
           <li class="icon-pro">Extensive; has a large library and support community.</li>
-          <li class="icon-con">Requires a browser to correctly interperet the code.</li>
+          <li class="icon-con">Requires a browser to correctly interpret the code.</li>
           <li class="icon-con">HTML Lexicon is in American English, and may require extra interpretation for non-English speakers.</li>
         </ul>
       </div>
@@ -48,11 +48,11 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
         <p>CSS is used to control how the page looks and functions. CSS is used to “decorate” the site; this is, provide layout, color, interactive elements, fonts, and other formatting. While HTML provides the contents of the page, CSS specifies to the browser how the site will look. Using a stylesheet greatly speeds up development time, as a single sheet can affect all pages in the site.</p>
         <h4>Pros and Cons of Use:</h4>
         <ul style="list-style-type: none">
-          <li class="icon-pro">Speed and consitancy in styling site pages.</li>
+          <li class="icon-pro">Speed and consistency in styling pages site-wide.</li>
           <li class="icon-pro">Supported by nearly all browsers.</li>
           <li class="icon-pro">Extensive; has a large library and support community.</li>
           <li class="icon-con">CSS syntax is different from HTML, and requires users to learn both languages.</li>
-          <li class="icon-con">Browsers interpret CSS differently; stylesheets often need to add additional code to make sure the site renders as intended in all situations.</li>
+          <li class="icon-con">Interpreted differenly across browsers; requires testing.</li>
         </ul>
       </div>
     </div>
@@ -64,11 +64,14 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
       </div>
       <div class="col-lg-10">
         <h4>Hypertext Preprocessor (<b>PHP</b>)</h4>
-        <p></p>
+        <p>While we won't get into PHP, you've likely seen or heard of PHP files. PHP is a widely-used, open-source scripting language which is well-suited for use in web design as it can be combined with HTML. A server-side language, PHP can generate dynamic pages, modify databases, encrypt data, and many other processes HTML cannot do alone. In fact, it is the core of many services, such as <a href="http://blog.teamtreehouse.com/php-for-wordpress-1" target="_blank">WordPress</a> and <A href="https://developers.facebook.com/docs/reference/php/" target="_blank">Facebook</a>.</p>
         <h4>Pros and Cons of Use:</h4>
         <ul style="list-style-type: none">
-          <li class="icon-pro"></li>
-          <li class="icon-con"></li>
+          <li class="icon-pro">Moderately easy-to-learn, free or low-cost.</li>
+          <li class="icon-pro">Can collect data, like from site forms.</li>
+          <li class="icon-pro">Can control user-access.</li>
+          <li class="icon-con">Limited control.</li>
+          <li class="icon-con">Can take time to master frameworks.</li>
         </ul>
       </div>
     </div>
@@ -122,7 +125,7 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
         <p>Similar to PNGs, GIFs have certain properties that allow for image effects. This format is most-often attributed to animated files, as it allows for several consecutive frames to be included in a single image file. Due to this, GIFs can be quite large, and may require heavy compression to be feasible in site design.</p>
         <h4>Pros and Cons of Use:</h4>
         <ul style="list-style-type: none">
-          <li class="icon-pro">Required for animamted images.</li>
+          <li class="icon-pro">Required for animated images.</li>
           <li class="icon-pro">Good for simple icons with low-color density (few colors).</li>
           <li class="icon-con">Large file size.</li>
           <li class="icon-con">Rastered file.</li>
@@ -142,27 +145,28 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
         <ul style="list-style-type: none">
           <li class="icon-pro">Good for vector graphics like logos and icons.</li>
           <li class="icon-pro">Resolution-independent.</li>
-          <li class="icon-pro">Minipulating does not change file size.</li>
+          <li class="icon-pro">Manipulating does not change file size.</li>
           <li class="icon-con">Not good for detailed images, or beyond 2D needs.</li>
-          <li class="icon-con">Requires an understanding on how to properly use and impliment the code.</li>
+          <li class="icon-con">Requires an understanding on how to properly use and implement the code.</li>
         </ul>
       </div>
     </div>
   </div>
   <div class="tab-pane fade" id="web-av">
-    <p style="font-style: italic;">test</p>
+    <p style="font-style: italic;">You will come across <b>many</b> types of media files in websites. Below are just some common variables, but by no means the only file types available. This list also excludes streaming media, which is the prevailing method of using media on the web.</p>
     <div class="row">
       <div class="col-lg-2">
         <img src="../img/web-av-mp3.svg" title="MP3" alt="mp3 icon" width="100"/>
-        <p style="margin-top: -10px; text-align: center; font-weight: bold;">song.mp3</p>
+        <p style="margin-top: -10px; text-align: center; font-weight: bold;">file.mp3</p>
       </div>
       <div class="col-lg-10">
-        <h4>Title (<b>MP3</b>)</h4>
-        <p></p>
+        <h4>MPEG-1 Audio Layer 3 (<b>MP3</b>)</h4>
+        <p>MP3 technology has been around for decades, and revolutionized how music was stored and shared during the 1990's. MP3s offer an accessible ratio of playback quality to file size, although it is still subject to patents, meaning users must have MP3-ready software in order to play the file.</p>
         <h4>Pros and Cons of Use:</h4>
         <ul style="list-style-type: none">
-          <li class="icon-pro"></li>
-          <li class="icon-con"></li>
+          <li class="icon-pro">Small file size.</li>
+          <li class="icon-pro">Widely-used; standard practice.</li>
+          <li class="icon-con">Proprietary; browsers must pay to support this file type.</li>
         </ul>
       </div>
     </div>
@@ -170,15 +174,17 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
     <div class="row">
       <div class="col-lg-2">
         <img src="../img/web-av-ogg.svg" title="OGG" alt="ogg icon" width="100"/>
-        <p style="margin-top: -10px; text-align: center; font-weight: bold;">song.ogg</p>
+        <p style="margin-top: -10px; text-align: center; font-weight: bold;">file.ogg</p>
       </div>
       <div class="col-lg-10">
-        <h4>Title (<b>OGG</b>)</h4>
-        <p></p>
+        <h4>Ogg Vorbis (<b>OGG</b>)</h4>
+        <p>An OGG file is even more compressed than an MP3, but not necessarily at any lower quality. This compression is at a varying bit rate, meaning moments of silence, for example, will have less storage weight than those in an MP3, as MP3s compress at a constant bit rate. The OGG is open-source and free-to-all.</p>
         <h4>Pros and Cons of Use:</h4>
         <ul style="list-style-type: none">
-          <li class="icon-pro"></li>
-          <li class="icon-con"></li>
+          <li class="icon-pro">Good for internet streaming.</li>
+          <li class="icon-pro">In the public domain, free-for-use.</li>
+          <li class="icon-con">Limited official development.</li>
+          <li class="icon-con">Not as widely recognized as other audio formats.</li>
         </ul>
       </div>
     </div>
@@ -186,15 +192,17 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
     <div class="row">
       <div class="col-lg-2">
         <img src="../img/web-av-mp4.svg" title="MP4" alt="mp4 icon" width="100"/>
-        <p style="margin-top: -10px; text-align: center; font-weight: bold;">video.mp4</p>
+        <p style="margin-top: -10px; text-align: center; font-weight: bold;">file.mp4</p>
       </div>
       <div class="col-lg-10">
-        <h4>Title (<b>MP4</b>)</h4>
-        <p></p>
+        <h4>MPEG-4 Part 14 (<b>MP4</b>)</h4>
+        <p>Like MP3, MP4 is a granddaddy file type with a rich history. A multimedia container used to store video and audio, MP4 supports a variety of video coding formats, like H.264. MP4s are usable on most devices, platforms, and browsers.</p>
         <h4>Pros and Cons of Use:</h4>
         <ul style="list-style-type: none">
-          <li class="icon-pro"></li>
-          <li class="icon-con"></li>
+          <li class="icon-pro">Good video quality.</li>
+          <li class="icon-pro">Widely-used; standard practice.</li>
+          <li class="icon-con">Online MP4 files requires pre-buffering.</li>
+          <li class="icon-con">Proprietary; browsers must pay to support this file type.</li>
         </ul>
       </div>
     </div>
@@ -202,21 +210,23 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
     <div class="row">
       <div class="col-lg-2">
         <img src="../img/web-av-webm.svg" title="WebM" alt="webm icon" width="100"/>
-        <p style="margin-top: -10px; text-align: center; font-weight: bold;">video.webm</p>
+        <p style="margin-top: -10px; text-align: center; font-weight: bold;">file.webm</p>
       </div>
       <div class="col-lg-10">
-        <h4>Title (<b>WebM</b>)</h4>
-        <p></p>
+        <h4>Web Media (<b>WebM</b>)</h4>
+        <p>A relatively new format, WebM is a container created especially for internet streaming by Google as a standard supported format in HTML5. It is less high-quality than MP4, but this allows for quicker access and download speeds. Unlike MP4, WebM is open-source and free-to-all.</p>
         <h4>Pros and Cons of Use:</h4>
         <ul style="list-style-type: none">
-          <li class="icon-pro"></li>
-          <li class="icon-con"></li>
+          <li class="icon-pro">Designed for internet streaming.</li>
+          <li class="icon-pro">Open-source, free-for-use.</li>
+          <li class="icon-con">Poor compatibility with mobile devices and players.</li>
+          <li class="icon-con">Not widely supported by Windows or Apple.</li>
         </ul>
       </div>
     </div>
   </div>
   <div class="tab-pane fade" id="web-scripts">
-    <p style="font-style: italic;">test</p>
+    <p style="font-style: italic;">Scripts add functionality to websites. They can be run client- or server-side, and can do some really heavy lifting in terms of making sites interesting and dynamic.</p>
     <div class="row">
       <div class="col-lg-2">
         <img src="../img/web-scripts-js.svg" title="JavaScript" alt="js icon" width="100"/>
@@ -224,14 +234,14 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
       </div>
       <div class="col-lg-10">
         <h4>JavaScript (<b>JS</b>)</h4>
-        <p></p>
+        <p>JavaScript is the third leg of the Web-Dev triad, along with HTML and CSS. These three languages work exceptionally well together to provide structured, styled, and interactive sites. JavaScript is ubiquitous; anytime you open up a page that does more than offer static information like animations or timely updates, JavaScript is most-likely the culprit. </p>
         <h4>Pros and Cons of Use:</h4>
         <ul style="list-style-type: none">
-          <li class="icon-pro">Easy-to-learn and use.</li>
+          <li class="icon-pro">Easy-to-learn, free or low-cost.</li>
           <li class="icon-pro">Incredibly popular; wide-usage with community knowledgebase.</li>
-          <li class="icon-pro">Verisitle. Basic JS can be used inline in HTML, and developing entire applications.</li>
+          <li class="icon-pro">Versatile. Basic JS can be used inline in HTML, and developing entire applications.</li>
           <li class="icon-con">Because the code executes on the client's computer, it can be a security risk.</li>
-          <li class="icon-con">Interpreted differenly across browsers; requires testing.</li>
+          <li class="icon-con">Interpreted differently across browsers; requires testing.</li>
         </ul>
       </div>
     </div>
@@ -243,33 +253,21 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
       </div>
       <div class="col-lg-10">
         <h4>Common Gateway Interface (<b>CGI</b>)</h4>
-        <p></p>
+        <p>Another way to add dynamic content to a site is through a CGI. CGI programs (or scripts) are the most common way for web servers to interact with users. These files are good for processing data sets, for example, like those used in forms and counters. CGIs can be made using many programming languages like Python, PERL, or Java.</p>
         <h4>Pros and Cons of Use:</h4>
         <ul style="list-style-type: none">
-          <li class="icon-pro"></li>
-          <li class="icon-con"></li>
+          <li class="icon-pro">Work on a variety of servers.</li>
+          <li class="icon-pro">Can be written in nearly any language.</li>
+          <li class="icon-pro">Provides simple interfaces for the clients to interact with the web servers.</li>
+          <li class="icon-con">Can be memory-intensive, especially on sites with high-level traffic.</li>
+          <li class="icon-con">Creation is not entry-level; can require extensive programming knowledge to be effective.</li>
         </ul>
       </div>
     </div>
     <div class="divider-pg"></div>
-    <div class="row">
-      <div class="col-lg-2">
-        <img src="../img/web-scripts-asp.svg" title="ASP" alt="asp icon" width="100"/>
-        <p style="margin-top: -10px; text-align: center; font-weight: bold;">script.asp</p>
-      </div>
-      <div class="col-lg-10">
-        <h4>Active Server Page (<b>ASP</b>)</h4>
-        <p></p>
-        <h4>Pros and Cons of Use:</h4>
-        <ul style="list-style-type: none">
-          <li class="icon-pro"></li>
-          <li class="icon-con"></li>
-        </ul>
-      </div>
-    </div>
   </div>
 </div>
 
 <br/>
 
-<span class="label label-success">Neat-O</span> Most file types and their languages are designed to work _together,_ not singularly, and need to be directed to each other.
+<span class="label label-success">Neat-O</span> Most file types and their languages are designed to work _together,_ not singularly, and need to be directed to each other to function properly.

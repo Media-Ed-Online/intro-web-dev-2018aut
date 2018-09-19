@@ -19,10 +19,14 @@ But once we branch away from our desktop however, this term is a little less app
 
 The path for this image, `/content/dam/usa/logo` actually refers to the nesting of its folders, or **directories**.
 
-<div style="font-family: monospace">
+<div style="font-family: monospace; padding: 10px; background-color: #eaeaea; border: 1px solid #999; border-radius: 10px; margin: 20px auto;">
+
 ├── index.html<br/>
-└── imgs <i class="far fa-folder-open"></i><br/>
-    └── instructorIsLost.jpg<i class="far fa-image"></i>
+└── <i class="far fa-folder-open"></i> content<br/>
+&nbsp;&nbsp;&nbsp;└── <i class="far fa-folder-open"></i> dam<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <i class="far fa-folder-open"></i> usa <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <i class="far fa-folder-open"></i> logo<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <i class="far fa-image"></i> m_logo.png
 </div>
 
 <span class="label label-info">NOTE</span> "Folders" and "directories" refer to the same concept, but "directory" should be used when discussing file systems. You will hear us use directory most often.
