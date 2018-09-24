@@ -15,7 +15,3 @@ As a web designer or developer, you should have access to multiple browsers to t
   <div id="all-browser-ww-monthly-201708-201808" width="100%" height="400" style="width:100%; height: 400px;"></div>
 </div>
   <p class="img-caption">Source: <a href="http://gs.statcounter.com/">StatCounter Global Stats - Browser Market Share</a></p>
-
-
-<script type="text/javascript" src="https://www.statcounter.com/js/fusioncharts.js"></script>
-<script type="text/javascript" src="https://gs.statcounter.com/chart.php?all-browser-ww-monthly-201708-201808"></script>
