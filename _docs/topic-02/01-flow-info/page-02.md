@@ -18,4 +18,4 @@ Knowing “the internet” is a physical network of wires is only half the job. 
 ### The Internet: Packets, Routing & Reliability
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AYdF7b3nMto?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-  </div>
+</div>
