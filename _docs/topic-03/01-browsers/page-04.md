@@ -18,4 +18,4 @@ As a web designer or developer, you should have access to multiple browsers to t
 
 
 <script type="text/javascript" src="https://www.statcounter.com/js/fusioncharts.js"></script>
-<script type="text/javascript" src="https://gs.statcounter.com/chart.php?all-browser-ww-monthly-201708-201808&chartWidth=600"></script>
+<script type="text/javascript" src="https://gs.statcounter.com/chart.php?all-browser-ww-monthly-201708-201808"></script>
