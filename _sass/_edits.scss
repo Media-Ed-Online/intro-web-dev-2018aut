@@ -341,7 +341,26 @@ pre {
     margin-bottom: ($line-height-computed * -1.0);
     margin-right: 1em;
 }
-
+pre {
+  i {
+    font-size: 1.1em;
+  }
+  .fa-css3-alt {
+    color: $brand-secondary;
+  }
+  .fa-font {
+    color: $brand-warning;
+  }
+  .fa-html5 {
+    color: $brand-primary;
+  }
+  .fa-image {
+    color: $brand-success;
+  }
+  .fa-music, .fa-video {
+    color: $brand-info;
+  }
+}
 
 
 // CODEPEN
