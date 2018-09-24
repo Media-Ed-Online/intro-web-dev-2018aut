@@ -11,7 +11,18 @@ permalink: /topic-03/browser-stats/
 As a web designer or developer, you should have access to multiple browsers to test how your site performs in different environments, and this includes computers versus mobile devices. Google's Chrome browser continues to be the most widely-used, but others still account for a large amount of users and should be included in your testing.
 
 
-<div class="row" style="width: 100%; height: 400px; margin-bottom: 2rem;">
-  <div id="all-browser-ww-monthly-201708-201808" width="100%" height="400" style="width:100%; height: 400px;"></div>
+<div id="StatCounter" style="overflow:hidden; margin: 2rem 0;">
+  <iframe src="http://gs.statcounter.com/" scrolling="no" frameborder="0" style="width: 100%; height: 940px; margin-top: -300px; border: 1px solid #ADC3DB">
+  </iframe>
 </div>
-  <p class="img-caption">Source: <a href="http://gs.statcounter.com/">StatCounter Global Stats - Browser Market Share</a></p>
+<p class="img-caption">Source: <a href="http://gs.statcounter.com/">StatCounter Global Stats - Browser Market Share</a></p>
+
+
+<br><br>
+
+
+<div id="StatCounter" style="overflow:hidden; margin: 2rem 0;">
+  <iframe src="https://www.w3counter.com/globalstats.php" scrolling="no" frameborder="0" style="width: 100%; height: 550px; margin-top: -220px;">
+  </iframe>
+</div>
+<p class="img-caption">Source: <a href="https://www.w3counter.com/globalstats.php">W3Counter - Browser & Platform Market Share</a></p>
