@@ -344,9 +344,14 @@ pre {
     margin-bottom: ($line-height-computed * -1.0);
     margin-right: 1em;
 }
+
 pre {
   i {
     font-size: 1.1em;
+  }
+  .fa-long-arrow-alt-left {
+    color: $brand-danger;
+    font-size: 1.2em;
   }
   .fa-css3-alt {
     color: $brand-secondary;
@@ -363,6 +368,21 @@ pre {
   .fa-music, .fa-video {
     color: $brand-info;
   }
+}
+// pre fa-long-arrow-alt-left animation
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+  transform: translateX(0);
+  }
+  40% {
+    transform: translateX(10px);
+  }
+  60% {
+    transform: translateX(5px);
+  }
+}
+.bounce {
+  @include animation(bounce 2s infinite);
 }
 
 

@@ -10,7 +10,7 @@ Alternatively, we can do these styles with markdown universally across text file
 
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="yowroQ" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-02: Markdown " class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="yowroQ" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Markdown Cheatsheet" class="codepen"></p>
 </div>
 
 

@@ -8,7 +8,7 @@ permalink: /topic-02/web-addresses/
 
 Generally, we can think about “finding” a web location in one of two ways: via its _relative_ or _absolute_ address (or **URL**). Let's create a scenario to start.
 
-Consider the file “profile.png,” found on your website:
+Consider the file “**profile.png**,” found on your website:
 
 <img src="../img/url-profile.png" alt="profile placeholder" style="width: 200px;" />
 

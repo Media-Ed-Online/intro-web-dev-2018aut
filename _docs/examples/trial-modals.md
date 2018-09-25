@@ -1,19 +1,9 @@
 ---
-title: Justine's Trials
+title: Trial Modals
 module: examples
-permalink: /examples/trials/
+permalink: /examples/trial-modals/
 ---
 
-<h2>Labels</h2>
-<span class="icon-danger"></span><span class="icon-warning"></span><span class="icon-info"></span><span class="icon-interest"></span>
-
-
-
-<br /><br />
-
-
-
-<h2>Modal Trials</h2>
 <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal-text">
   Launch demo modal
@@ -92,40 +82,3 @@ permalink: /examples/trials/
     </div>
   </div>
 </div>
-
-
-
-<br /><br />
-
-
-
-<h2>Bash / Tree View Trial</h2>
-<div id="code-heading">Directory Tree</div>
-<pre id="bash">
-.
-├── index.html
-├── <i class="far fa-folder-open"></i> css/
-│   ├── <i class="fab fa-css3-alt"></i> fonts.css
-│   └── <i class="fab fa-css3-alt"></i> style.css
-├── <i class="far fa-folder-open"></i> fonts/
-│   ├── <i class="fas fa-font"></i> PlayfairDisplay-Black.ttf
-│   ├── <i class="fas fa-font"></i> PlayfairDisplay-BlackItalic.ttf
-│   ├── <i class="fas fa-font"></i> PlayfairDisplay-Bold.ttf
-│   ├── <i class="fas fa-font"></i> PlayfairDisplay-BoldItalic.ttf
-│   ├── <i class="fas fa-font"></i> PlayfairDisplay-Italic.ttf
-│   └── <i class="fas fa-font"></i> PlayfairDisplay-Regular.ttf
-├── <i class="far fa-folder-open"></i> images/
-│   ├── <i class="far fa-image"></i> logo.png
-│   └── <i class="far fa-image"></i> profile.jpg
-├── <i class="far fa-folder-open"></i> media/
-│   ├── <i class="far fa-folder-open"></i> audio/
-│       └── <i class="fas fa-music"></i> song.mp3
-│   ├── <i class="far fa-folder"></i> documents/
-│   └── <i class="far fa-folder-open"></i> video/
-│       └── <i class="fas fa-video"></i> movie.mp4
-├── <i class="far fa-folder-open"></i> pages/
-│   ├── <i class="fab fa-html5"></i> about.html
-│   ├── <i class="fab fa-html5"></i> contact.html
-│   └── <i class="fab fa-html5"></i> services.html
-└── <i class="far fa-folder"></i> scripts/
-</pre>

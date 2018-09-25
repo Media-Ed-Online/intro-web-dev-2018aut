@@ -11,7 +11,11 @@ examples:
     - cheatsheet
     - font-awesome
     - bootstrap
-    - trials
+  - title: Justine's Trials
+    docs:
+    - trial-labels
+    - trial-modals
+    - trial-tree-view
 
 ##################################################
 
@@ -171,19 +175,20 @@ topic-03:
     - head-element
     - body-element
     - elements-review
-    - todo-structure-html
+    - todo-elements
 
   - title: Headings
     docs:
     - headings
-    - headings-rank
+    - using-headings
     - todo-headings-intro
 
   - title: Paragraphs
     docs:
-    - empty-space
+    - paragraphs
     - basic-paragraphs
-    - preformatted
+    - breaks-paragraphs
+    - preformatted-paragraphs
     - todo-paragraphs-intro
 
   - title: Empty Elements
@@ -192,12 +197,19 @@ topic-03:
     - line-breaks
     - horizontal-rules
     - intro-img-element
-    - todo-empty
+    - todo-empty-elements
+
+  - title: The Internet's File Cabinet
+    docs:
+    - file-vs-direct-urls
+    - via-root
+    - via-child
+    - via-refs
+    - todo-file-urls
 
   - title: Index.html Files
     docs:
-    - about-index
-    - file-v-direct-urls
+    - index-intro
     - index-part-1
     - index-part-2
     - index-part-3
