@@ -20,7 +20,7 @@ redirect_from: /how-link-hw/
         color: #E95420 !important;
     }
     .assignment {
-        color: #8BC34A !important;
+        color: #38B44A !important;
     }
     output, input, span {
       display:inline-block;
