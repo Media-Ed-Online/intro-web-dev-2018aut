@@ -163,8 +163,9 @@ topic-03:
     - html-tags
     - todo-intro-html
 
-  - title: Main Document Elements
+  - title: Document Elements
     docs:
+    - elements-intro
     - doctype
     - root-element
     - head-element

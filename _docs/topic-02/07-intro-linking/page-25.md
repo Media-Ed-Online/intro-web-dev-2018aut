@@ -7,23 +7,27 @@ permalink: /topic-02/link-internal/
 <div class="divider-heading"></div>
 
 ## Relative Linking Within Your Repository
-As you now know, the internet is built foundationally on links and inter-connected files and systems. We'll get into **hypertext** and **hyperlinks** later on in the course, but for right now, let's continue the [discussion on URL types](../urls-absolute/) and look at linking the files within our directory together.
+As you now know, the internet is built foundationally on links and inter-connected files and systems. We'll get into **hypertext** and **hyperlinks** later on in the course, but for right now, let's continue the [discussion on absolute URLs](../urls-absolute/) and [discussion on relative URLs](../urls-relative/), looking at linking the files within our directory together.
 
 You've done some linking in **markdown** already, using outside sources and _absolute_ URLs:
+
 
 <div id="code-heading">Markdown</div>
 ```markdown
 [discussion on absolute URLs](https://media-ed-online.github.io/intro-web-dev/topic-02/urls-absolute/)
 ```
 
+
 <br />
 
 But I can also link to pages in this website using _relative_ URLs, as long as I stay within my  `/intro-web-dev` repository. As the administrator of this site, I can link to the same page like so:
 
+
 <div id="code-heading">Markdown</div>
 ```markdown
-[discussion on absolute URLs](/topic-02/urls-absolute/)
+[discussion on relative URLs](/topic-02/urls-relative/)
 ```
+
 
 <br />
 

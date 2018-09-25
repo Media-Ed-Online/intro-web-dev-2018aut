@@ -2,7 +2,7 @@
 | Justine's Additions |
  --------------------*/
  // GLOBAL
-:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
+/*:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
   font-family: Helvetica, Arial, sans-serif;
  }
  code,
@@ -10,7 +10,10 @@
  pre,
  samp {
    font-family: $font-family-monospace !important;
- }
+ }*/
+ p, ul, ol, li, a, .img-caption {
+   font-family: Helvetica, Arial, sans-serif !important;
+  }
 
    // overwritten in:  /_sass/bootswatch/united/_variables.scss
 //$gray-base:              #000;
