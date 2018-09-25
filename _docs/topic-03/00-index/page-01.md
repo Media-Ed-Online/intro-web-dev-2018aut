@@ -4,7 +4,7 @@ module: topic-03
 permalink: /topic-03/overview/
 ---
 
-<img src="../img/assignment-03.svg" alt="" title="Assignment 3: The Live Site" class="overview-img" />
+<img src="../img/project-01.svg" alt="" title="Project 1: The Live Site" class="overview-img" />
 
 <h2 style="text-align: center;">03: Basic Pages (Project 1)</h2>
 
