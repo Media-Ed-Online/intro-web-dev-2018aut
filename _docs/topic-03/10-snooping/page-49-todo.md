@@ -23,9 +23,9 @@ permalink: /topic-03/todo-snooping/
       <div class="list-group">
         <a href="{{ site.data.moodle.main | append: site.data.moodle.topic-03 }}" target="_blank" class="list-group-item">
           <i class="icon-hw fas fa-file-upload"></i>
-          <h4 class="list-group-item-heading">Quiz 1<br>Project 1</h4>
+          <h4 class="list-group-item-heading">Project 1</h4>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="fas fa-edit" aria-hidden="true"></i> Homework Assignments</p>
+          <p class="list-group-item-text"><i class="fas fa-edit" aria-hidden="true"></i> Homework Assignment</p>
         </a>
       </div>
     </div>
