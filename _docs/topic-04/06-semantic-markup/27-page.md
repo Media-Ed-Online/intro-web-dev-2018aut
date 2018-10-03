@@ -20,5 +20,5 @@ As with bold/strong, italicized text does not necessarily imply semantically dif
 
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="rGOPKj" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Semantic HTML , Bold and Strong" class="codepen"></a>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="zEveXE" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Topic-04: Semantic HTML Pt. 2" class="codepen"></p>
 </div>

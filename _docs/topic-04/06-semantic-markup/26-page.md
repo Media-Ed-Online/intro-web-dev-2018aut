@@ -20,5 +20,5 @@ However, it is important to recognize that the use of bold text does not imply a
 
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="rGOPKj" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Semantic HTML , Bold and Strong" class="codepen"></a>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="rGOPKj" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Semantic HTML, Bold and Strong" class="codepen"></a>
 </div>
