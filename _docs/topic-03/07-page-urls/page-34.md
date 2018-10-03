@@ -14,7 +14,7 @@ This is good for those of us learning directory structure for the first time, bu
 
 
 <div id="code-heading">Directory Tree</div>
-<pre id="bash" style="background-color: white;">
+<pre id="bash">
 .
 ├── <i class="far fa-folder-open"></i> css/
 │   └── <i class="fab fa-css3-alt"></i> style.css

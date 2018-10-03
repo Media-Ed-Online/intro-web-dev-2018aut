@@ -93,7 +93,7 @@ topic-01:
 ##################################################
 
 topic-02:
-  - title: "\"Your Development Environment\""
+  - title: “Your Development Environment”
     docs:
     - overview
 
@@ -148,7 +148,7 @@ topic-02:
 ##################################################
 
 topic-03:
-  - title: "\"Basic Pages\""
+  - title: “Basic Pages”
     docs:
     - overview
 
@@ -229,3 +229,99 @@ topic-03:
     - snooping
     - wayback
     - todo-snooping
+
+##################################################
+
+topic-04:
+  - title: “Beginning HTML”
+    docs:
+    - overview
+
+  - title: Comments in HTML
+    docs:
+    - leaving-messages
+    - html-comments
+    - todo-comments
+
+  - title: Attributes
+    docs:
+    - html-review
+    - attributes
+    - html-lang-attribute
+    - structure-review
+    - todo-structure
+
+  - title: Declaring Doctype
+    docs:
+    - doctype
+    - doctype-past
+    - doctype-now
+    - todo-doctype
+
+  - title: Head Elements
+    docs:
+    - head-elements
+    - head-meta
+    - head-viewport
+    - head-title
+    - head-link
+    - head-style
+    - head-review
+    - todo-head
+
+  - title: Body Elements
+    docs:
+    - body-elements
+    - structural-markup
+    - semantic-markup
+    - todo-body
+
+  - title: Semantic Markup
+    docs:
+    - bold-strong
+    - italic-em
+    - sup-sub
+    - quotes
+    - abbr-acro
+    - citations
+    - definitions
+    - addresses
+    - ins-del
+    - strikethrough
+    - todo-semantics
+
+  - title: Lists
+    docs:
+    - html-lists
+    - ordered-lists
+    - unordered-lists
+    - definition-lists
+    - nested-lists
+    - todo-lists
+
+  - title: External Hyperlinks
+    docs:
+    - intro-ex-links
+    - href
+    - new-window
+    - links-to-others
+    - email-links
+    - todo-ex-links
+
+  - title: Internal Hyperlinks
+    docs:
+    - intro-int-links
+    - page-to-page
+    - same-page
+    - naming-ids
+    - todo-int-links
+
+  - title: Proper and Polite Code
+    docs:
+    - writing-code
+    - ordering
+    - burrito-tags
+    - indentation
+    - todo-writing-code
+
+##################################################

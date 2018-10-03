@@ -8,6 +8,7 @@ permalink: /topic-03/paragraphs/
 
 Almost all non-heading text will be placed within a paragraph element in a web document. Paragraphs are defined with the `<p>` tags, and the element is written as `<p>...</p>`.
 
+
 <div id="code-heading">HTML</div>
 ```html
 <p>This is a paragraph element.</p>

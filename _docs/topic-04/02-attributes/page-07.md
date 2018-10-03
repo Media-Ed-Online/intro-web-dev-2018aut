@@ -1,0 +1,24 @@
+---
+title: Revisit the Root
+module: topic-04
+permalink: /topic-04/html-lang-attribute/
+---
+
+<div class="divider-heading"></div>
+
+A very common first attribute **value** located on a webpage is in the _root element_ (`<html>...</html>`), in terms of an [ISO language code](https://www.w3schools.com/tags/ref_language_codes.asp) and/or [ISO country code](https://www.w3schools.com/tags/ref_country_codes.asp).
+
+For example, I may want my site indexed as containing content written in "US-style English:"
+
+
+<div id="code-heading">HTML</div>
+```html
+<html lang="en-US">
+  <p>The root element is made with "<html>" tags, with the key="value" pair of lang="en-US".
+  <br />
+  This root attribute states the page is written in US-style English.</p>
+</html>
+```
+
+
+The HTML lang attribute can be used to declare the language of a Web page or a portion of a Web page. This is meant to assist search engines and browsers.

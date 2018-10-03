@@ -153,6 +153,9 @@ $brand-secondary:         #20B5E9;
     margin: 5px auto;
     color: $btn-link-disabled-color;
   }
+  .hw-item-disabled {
+    background-color: #F5F5F5
+  }
 }
 
 
@@ -281,6 +284,42 @@ $brand-secondary:         #20B5E9;
   font-size: $font-size-h3;
   vertical-align: baseline;
   margin-right: 5px;
+}
+
+.lightbulb-container {
+  float: left;
+  margin: 2px 5px 5px 0px;
+
+  .fa-lightbulb {
+    color: $brand-warning;
+  }
+  .lightbulb-blink {
+    font-size: 2em;
+    float: left;
+    color: lighten($brand-secondary, 40%);
+
+    animation: 2.5s ease-in 0s infinite colorChange;
+    @keyframes colorChange {
+      0% {
+        //color: darken($brand-warning, 13%);
+        opacity: .3;
+      }
+      25% {
+        //color: $brand-warning;
+      }
+      50% {
+        color: $brand-warning;
+        opacity: 1;
+      }
+      75% {
+        //color: $brand-warning;
+      }
+      100% {
+        //color: darken($brand-warning, 13%);
+        opacity: .3;
+      }
+    }
+  }
 }
 
 
