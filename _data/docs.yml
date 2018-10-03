@@ -279,7 +279,7 @@ topic-04:
   - title: Semantic Markup
     docs:
     - bold-strong
-    - italic-em
+    - italic-emphasis
     - sup-sub
     - quotes
     - abbr-acro
