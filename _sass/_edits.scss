@@ -286,41 +286,73 @@ $brand-secondary:         #20B5E9;
   margin-right: 5px;
 }
 
-.lightbulb-container {
-  float: left;
-  margin: 2px 5px 5px 0px;
+  // "Remember?" Lightbulb
+.lightbulb {
+   width: 50px;
+   height: auto;
+   float: left;
+   margin: -5px 10px 15px 0;
 
-  .fa-lightbulb {
-    color: $brand-warning;
-  }
-  .lightbulb-blink {
-    font-size: 2em;
-    float: left;
-    color: lighten($brand-secondary, 40%);
-
-    animation: 2.5s ease-in 0s infinite colorChange;
-    @keyframes colorChange {
-      0% {
-        //color: darken($brand-warning, 13%);
-        opacity: .3;
+    svg {
+      width: 50px;
+      height: 50px;
+      z-index: -1;
+      position: absolute;
+    }
+    line {
+      stroke: #EFB73E;
+      stroke-width: 3;
+      animation: firework 1.5s infinite;
+      stroke-dasharray: 16 16;
+      stroke-dashoffset: -16;
+    }
+    @keyframes firework {
+      from {
+        stroke-dashoffset: 16;
       }
-      25% {
-        //color: $brand-warning;
-      }
-      50% {
-        color: $brand-warning;
-        opacity: 1;
-      }
-      75% {
-        //color: $brand-warning;
-      }
-      100% {
-        //color: darken($brand-warning, 13%);
-        opacity: .3;
+      to {
+        stroke-dashoffset: -16;
       }
     }
-  }
+
+    .far {
+       color: #EFB73E;
+       font-size: 2em;
+       z-index: 1;
+       position: relative;
+       top: 15px;
+       left: 15.5px;
+     }
+     .fas {
+       color: #EFB73E;
+       font-size: 2em;
+       z-index: 2;
+       position: relative;
+       top: 15px;
+       left: -8px;
+     }
+
+    .blink {
+      color: lighten(#EFB73E, 40%);
+      animation: 1.5s ease-in-out 0s infinite colorChange;
+      @keyframes colorChange {
+        0% {
+          opacity: 0;
+        }
+        20% {
+          color: #EFB73E;
+          opacity: 1;
+        }
+        52% {
+          opacity: .3;
+        }
+        100% {
+          opacity: 0;
+        }
+      }
+    }
 }
+
 
 
 

@@ -75,7 +75,7 @@ If a single `./` states that we need to remain in the current level of our direc
 │   └── <i class="far fa-image"></i> photo-2.jpg
 ├── index.html<img class="fas bounce" src="../img/dots-horizontal-left.png" style="width: 2em; margin: 0 0 0 1em;" /><img class="fas bounce" src="../img/dots-horizontal.png" style="width: 2em; margin: 0 0;" /><img class="fas bounce" src="../img/dots-corner-open.png" style="width: 2em; margin: 0;" />
 └── <i class="far fa-folder-open"></i> pages/<img class="fas bounce" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 7.35em;" />
-    ├── <i class="fab fa-html5"></i> about.html<img class="fas bounce" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 2.9em;" />
+    ├── <i class="fab fa-html5"></i> about.html<img class="fas bounce" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 2.95em;" />
     └── <i class="fab fa-html5"></i> contact.html<img class="fas bounce" src="../img/dots-corner-close.png" style="width: 2em; margin: 0;" />
 </pre>
 
