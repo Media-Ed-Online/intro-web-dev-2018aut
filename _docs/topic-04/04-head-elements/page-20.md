@@ -6,7 +6,7 @@ permalink: /topic-04/head-review/
 
 <div class="divider-heading"></div>
 
-This is the good head set-up for a HTML document.
+This is the good head set-up for an HTML document.
 
 
 <div id="code-heading">HTML</div>

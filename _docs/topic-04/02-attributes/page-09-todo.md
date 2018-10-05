@@ -21,7 +21,7 @@ permalink: /topic-04/todo-structure/
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="../html-comments/" target="_blank" class="list-group-item">
+        <a href="../html-lang-attribute/" target="_blank" class="list-group-item">
           <i class="icon-hw fas fa-file-medical-alt" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Add an ISO Code</h4>
           <p class="list-group-item-text">In any HTML file, add an ISO lang or country code matching the page contents.</p>
