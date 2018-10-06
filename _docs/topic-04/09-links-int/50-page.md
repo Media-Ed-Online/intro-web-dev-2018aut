@@ -24,7 +24,7 @@ Consider this example. We have a three-page site, with an **index.html** in the 
 I have a menu at the top of each page that needs to link to each of these pages despite what page the visitor is currently on. So how do I do this?
 
 
-## Same-Level
+<h2 id="same-level-linking">Same-Level</h2>
 <i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i> <span style="font-weight: bold; letter-spacing: 2px;">From About to Contact: `<a href="./contact.html">Contact Me</a>`</span>
 
 A single `./` states that we need to stay in the current level of our directory. If two pages are on the same level of a directory, the link would simply be `<a href="./page-name.html">`.
@@ -40,7 +40,7 @@ A single `./` states that we need to stay in the current level of our directory.
 </pre>
 
 
-## Go Deeper (Forwards)
+<h2 id="deeper-level-linking">Go Deeper (Forwards)</h2>
 <i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i> <span style="font-weight: bold; letter-spacing: 2px;">From Index to About: `<a href="./pages/about.html">To About</a>`</span>
 
 This process may look familar, as you've been doing it with screenshots located in an **images** directory. When “going deeper” into our directory, we must add any additional sub-directories (folders) to our URL path, like `<a href="./folder-name/page-name.html"`
@@ -56,7 +56,7 @@ This process may look familar, as you've been doing it with screenshots located 
 </pre>
 
 
-## Go Shallower (Backwards)
+<h2 id="deeper-level-linking">Go Shallower (Backwards)</h2>
 <i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i> <span style="font-weight: bold; letter-spacing: 2px;">From Contact to Index: `<a href="../">Back to Home</a>`</span>
 
 Not only can we go deeper, but we can also take steps backwards, going higher up in our directory. A link for this direction would look something like `<a href"../page-name.html">`.
