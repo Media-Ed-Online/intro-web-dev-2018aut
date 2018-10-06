@@ -56,7 +56,7 @@ This process may look familar, as you've been doing it with screenshots located 
 </pre>
 
 
-<h2 id="deeper-level-linking">Go Shallower (Backwards)</h2>
+<h2 id="shallower-level-linking">Go Shallower (Backwards)</h2>
 <i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i> <span style="font-weight: bold; letter-spacing: 2px;">From Contact to Index: `<a href="../">Back to Home</a>`</span>
 
 Not only can we go deeper, but we can also take steps backwards, going higher up in our directory. A link for this direction would look something like `<a href"../page-name.html">`.
