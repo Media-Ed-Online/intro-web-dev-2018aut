@@ -6,7 +6,11 @@ permalink: /topic-03/via-refs/
 
 <div class="divider-heading"></div>
 
-<i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i> <span style="font-weight: bold; letter-spacing: 2px;">https://www.baseurl.com/pages/about.html</span>
+<p style="font-size: 1.2em; font-weight: bold; letter-spacing: 2px; margin: 3rem 0;">
+  <i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i>
+  <span style="font-family: monospace;">https://www.baseurl.com/pages/about.html</span>
+</p>
+
 
 For our class, we will create some of our **assignment/** and **project/** directories with a sub-directory called **pages/**. It will contain all of our additional `.html` pages, not <u>any</u> of which will be called `index.html`.
 

@@ -6,7 +6,11 @@ permalink: /topic-02/urls-absolute/
 
 <div class="divider-heading"></div>
 
-<i class="fas fa-long-arrow-alt-right" style="color: #20B5E9"></i> <span style="font-weight: bold; letter-spacing: 2px;">https://www.example.com/about/images/profile.png</span>
+<p style="font-size: 1.2em; font-weight: bold; letter-spacing: 2px; margin: 3rem 0;">
+  <i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i>
+  <span style="font-family: monospace;">https://www.example.com/about/images/profile.png</span>
+</p>
+
 
 An **absolute URL** contains all of the protocols and information for the file's location. If I am the owner of **www.another-example.com** and I want to link to "profile.png" I will need it's absolute URL (https://www.example.com/about/images/profile.png) as it lives on a separate site than mine.
 

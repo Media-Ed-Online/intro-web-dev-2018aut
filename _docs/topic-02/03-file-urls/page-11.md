@@ -6,7 +6,11 @@ permalink: /topic-02/urls-relative/
 
 <div class="divider-heading"></div>
 
-<i class="fas fa-long-arrow-alt-right" style="color: #20B5E9"></i> <span style="font-weight: bold; letter-spacing: 2px;">./images/profile.png</span>
+<p style="font-size: 1.2em; font-weight: bold; letter-spacing: 2px; margin: 3rem 0;">
+  <i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i>
+  <span style="font-family: monospace;">./images/profile.png</span>
+</p>
+
 
 **Relative URLs** contain no protocols or domain information. This is convenient because they are shorter, but can _only_ reference files in the same path. If I am the owner of **www.example.com** and am embedding "profile.png" on my About page, I can do so relatively with "./images/profile.png" as long as the images folder is in the same path as my page. I do not need an absolute URL.
 

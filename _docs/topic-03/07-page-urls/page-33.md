@@ -6,7 +6,11 @@ permalink: /topic-03/via-child/
 
 <div class="divider-heading"></div>
 
-<i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i> <span style="font-weight: bold; letter-spacing: 2px;">https://www.baseurl.com/about/</span>
+<p style="font-size: 1.2em; font-weight: bold; letter-spacing: 2px; margin: 3rem 0;">
+  <i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i>
+  <span style="font-family: monospace;">https://www.baseurl.com/about/</span>
+</p>
+
 
 If you wished to have a “cleaner” looking URL, you could create an additional child directory labeled `about/` and place a file saved as `index.html` within that directory.
 

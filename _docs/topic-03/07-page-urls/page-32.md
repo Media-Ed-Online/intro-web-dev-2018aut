@@ -6,7 +6,11 @@ permalink: /topic-03/via-root/
 
 <div class="divider-heading"></div>
 
-<i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i> <span style="font-weight: bold; letter-spacing: 2px;">https://www.baseurl.com/about.html</span>
+<p style="font-size: 1.2em; font-weight: bold; letter-spacing: 2px; margin: 3rem 0;">
+  <i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i>
+  <span style="font-family: monospace;">https://www.baseurl.com/about.html</span>
+</p>
+
 
 One way to avoid longer URLs is to place the page in the root of the site (in our case, **web-dev-hw/**). No additional pathing is needed, as the page are not in any other directories.
 
