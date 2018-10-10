@@ -25,12 +25,16 @@ permalink: /topic-04/intro-int-links/
 _Remember?_ **Relative URLs** contain no protocols or domain information. This is convenient because they are shorter, but can _only_ reference files in the same path.
 
 
-<img src="../img/home.svg" alt="Home Icon" style="width: 100px;" />
+Consider the file “**index.html**,” found on your website:
+
+<img src="../img/home-page.png" alt="simple about page" style="width: 200px;" />
 
 
-It also should be noted that in the language of web design, the `index.html` file is referred to as the **home page** once hosted, as it becomes the "entry" to your site. It is also the page most users will return to again and again as your "base of opperations," as it were.
+In the language of web design, the `index.html` file is referred to as the **home page** once hosted, as it becomes the "entry" to your site. It is also the page most users will return to again and again as your "base of opperations," as it were.
+
+All important pages in a site will need to link back to the home, and to each other. Creating this site map is part of making the site's **main navigation**.
 
 <div id="code-heading">HTML</div>
 ```html
-<a href="./index.html" target="_blank">Back to Home</a>
+<a href="./index.html" target="_blank">Home</a>
 ```
