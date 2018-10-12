@@ -16,8 +16,7 @@ If you want your visitors to see or have access to an element, it will nearly al
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Way-Cool Awesome Site!</title>
-    <!-- Meta data and information about your site, not visible to visitors. -->
+
   </head>
 
   <body>
