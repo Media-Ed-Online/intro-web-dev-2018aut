@@ -1,5 +1,5 @@
 ---
-title: Indentation
+title: 3. Indented Elements
 module: topic-04
 permalink: /topic-04/indentation/
 ---

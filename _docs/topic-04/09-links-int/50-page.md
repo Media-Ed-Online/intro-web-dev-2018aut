@@ -12,7 +12,7 @@ Consider this 3-page site, which has an “**index.html**,” an “**about.html
 
 <img src="../img/page-map.gif" alt="simple site page of three pages" style="width: 450px;" />
 
-The directory of this site has the **index.html** in the root directory, and the other pages in the child-directory **/pages**:
+The directory of this site has the **index.html** in the root directory, and the other pages in the child-directory **pages**:
 
 
 <div id="code-heading">Directory Tree</div>
@@ -34,7 +34,7 @@ I have a menu at the top of each page that needs to link to each of these pages 
 <h2 id="deeper-level-linking">Go Deeper (Forwards)</h2>
 <p style="font-size: 1em; font-weight: bold; letter-spacing: 2px; margin: 3rem 0;">
   <i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i>
-  <span style="font-family: monospace;">From Index to About: <code>&lt;a href="./pages/about.html"&gt;About Me&lt;/a&gt;</code></span>
+  <span style="font-family: monospace;">From Index to About: <code>&lt;a href="./pages/about.html"&gt;About&lt;/a&gt;</code></span>
 </p>
 
 
@@ -48,7 +48,7 @@ This process may look familar, as you've been doing it with screenshots located 
 <pre id="bash">
 .
 ├── index.html<img class="fas bounce" src="../img/dots-horizontal.png" style="width: 2em; margin: 0 0 0 1em;" /><img class="fas bounce" src="../img/dots-horizontal.png" style="width: 2em; margin: 0 0;" /><img class="fas bounce" src="../img/dots-corner-open.png" style="width: 2em; margin: 0;" />
-└── <i class="far fa-folder-open"></i> pages/<img class="fas bounce" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 7.35em;" />
+└── <i class="far fa-folder-open"></i> pages/<img class="fas bounce" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 7.30em;" />
     ├── <i class="fab fa-html5"></i> about.html<img class="fas bounce" src="../img/dots-corner-close-arrow.png" style="width: 2em; margin: 0 0 0 1.2em;" />
     └── <i class="fab fa-html5"></i> contact.html
 </pre>
@@ -60,7 +60,7 @@ This process may look familar, as you've been doing it with screenshots located 
 <h2 id="same-level-linking">Same-Level</h2>
 <p style="font-size: 1em; font-weight: bold; letter-spacing: 2px; margin: 3rem 0;">
   <i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i>
-  <span style="font-family: monospace;">From About to Contact: <code>&lt;a href="./contact.html"&gt;Contact Me&lt;/a&gt;</code></span>
+  <span style="font-family: monospace;">From About to Contact: <code>&lt;a href="./contact.html"&gt;Contact&lt;/a&gt;</code></span>
 </p>
 
 
@@ -86,7 +86,7 @@ A single `./` states that we need to stay in the current level of our directory.
 <h2 id="shallower-level-linking">Go Shallower (Backwards)</h2>
 <p style="font-size: 1em; font-weight: bold; letter-spacing: 2px; margin: 3rem 0;">
   <i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i>
-  <span style="font-family: monospace;">From Contact to Index: <code>&lt;a href="../"&gt;Back to Home&lt;/a&gt;</code></span>
+  <span style="font-family: monospace;">From Contact to Index: <code>&lt;a href="../index.html"&gt;Home&lt;/a&gt;</code></span>
 </p>
 
 

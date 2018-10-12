@@ -1,5 +1,5 @@
 ---
-title: Ordering
+title: 1. Logical or Linear Ordering
 module: topic-04
 permalink: /topic-04/ordering/
 ---

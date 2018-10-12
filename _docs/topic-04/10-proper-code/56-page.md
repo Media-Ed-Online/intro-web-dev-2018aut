@@ -1,11 +1,12 @@
 ---
-title: Burrito Those Tags
+title: 2. Properly Nested Tags
 module: topic-04
 permalink: /topic-04/burrito-tags/
 ---
 
 <div class="divider-heading"></div>
 
+## The Tag Burrito
 We "wrap" elements in opening and closing tags, as you know. You're now familiar with single-tag element sets like `<p>...</p>`, but elements can actually have multiple sets of tags. It's considered proper to layer these sets in concentric orbits around the element.
 
 This basically looks like `<tag3><tag2><tag1>...</tag1></tag2></tag3>`

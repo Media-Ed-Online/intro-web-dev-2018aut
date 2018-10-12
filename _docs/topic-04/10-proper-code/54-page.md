@@ -19,5 +19,5 @@ permalink: /topic-04/writing-code/
     <li>Indented Elements</li>
   </ol>
 
-  <p>There are many other unspoken rules you can Google, but those 3 are my major pet peeves when done poorly - <i>and I'm likely to call you out on them.</i></p>
+  <p>There are many other unspoken rules you can Google, but those three are my major pet peeves when done poorly - <i>and I'm likely to call you out on them.</i></p>
 </div>
