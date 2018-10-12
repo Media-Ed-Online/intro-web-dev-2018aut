@@ -11,13 +11,17 @@ As mentioned previously, one of the main differences between a a markdown (or mo
 
 The image below shows a word document in which certain sections have been styled using Word’s “styles.”
 
+
+<img src="../img/word-styles.png" alt="Word heading styles" title="Word heading styles" style="width: 100%; max-width: 700px" />
+
+
 <!-- Modal Thumb -->
-<div class="modal-image" style="margin: auto;">
+<!--<div class="modal-image" style="margin: auto;">
   <img src="../img/word-styles.png" alt="Word heading styles" data-toggle="modal" data-target="#modal-word-styles">
-</div>
+</div>-->
 
 <!-- Modal -->
-<div class="modal fade" id="modal-word-styles" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
+<!--<div class="modal fade" id="modal-word-styles" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -37,4 +41,4 @@ The image below shows a word document in which certain sections have been styled
       </div>
     </div>
   </div>
-</div>
+</div>-->
