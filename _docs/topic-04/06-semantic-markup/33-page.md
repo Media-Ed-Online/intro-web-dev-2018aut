@@ -14,6 +14,7 @@ The text in the `<address>` element usually renders in italic. Most browsers wil
 <div id="code-heading">HTML</div>
 ```html
 <p>An address element can span multiple lines:</p>
+
 <address>
   The University of Montana<br />
   32 Campus Dr<br />

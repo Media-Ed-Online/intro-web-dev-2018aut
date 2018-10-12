@@ -19,6 +19,8 @@ You can combine list types as well as use multiple **nested list** elements to c
           <li>Item B relating to Order List Item #2.</li>
       <ul>
   <li>Ordered List Item #3.</li>
+  <li>Ordered List Item #4.</li>
+  <li>Etc...</li>
 <ol>
 ```
 
