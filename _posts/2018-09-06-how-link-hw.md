@@ -167,7 +167,7 @@ redirect_from: /how-link-hw/
             <p>
               and I want to link to my&nbsp;&nbsp;&nbsp;
               <span><input type="text" name="some_name" value="" id="assignName" onkeyup="updateAssignurl();"></span>
-              repo.
+              homework repo.
             </p>
           </div>
       </div>
