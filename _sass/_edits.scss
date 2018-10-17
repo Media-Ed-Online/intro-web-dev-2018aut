@@ -455,6 +455,28 @@ pre {
   @include animation(bounce 2s infinite);
 }
 
+  // Pieces Codeblock
+#breakdown-block {
+  color: #AEA79F;
+  font-weight: 600;
+  letter-spacing: .5px;
+}
+.pulsate {
+  padding: 5px;
+  -webkit-animation: pulsate 2s ease-in-out;
+  -webkit-animation-iteration-count: infinite;
+}
+@-webkit-keyframes pulsate {
+  0% {
+    color: inherit;
+  }
+  50% {
+    color: #DF382C;
+  }
+  100% {
+    color: inherit;
+  }
+}
 
 
 // CODEPEN

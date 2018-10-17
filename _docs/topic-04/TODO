@@ -1,0 +1,59 @@
+CODE from Page-to-Page Linking
+
+<ul class="nav nav-tabs">
+  <li class="active"><a href="#same" data-toggle="tab">Same Level</a></li>
+  <li><a href="#deeper" data-toggle="tab">Go Deeper (Forwards)</a></li>
+  <li><a href="#shallower" data-toggle="tab">Go Shallower (Backwards)</a></li>
+</ul>
+<div id="myTabContent" class="tab-content">
+  <div class="tab-pane fade active in" id="same">
+    <p><i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i> <span style="font-weight: bold; letter-spacing: 2px;">From About to Contact: `<a href="./contact.html">Contact Me</a>`</span></p>
+
+    <p>A single <code>./</code> states that we need to stay in the current level of our directory. If two pages are on the same level of a directory, the link would simply be <code>&gt;a href="./page-name.html"&lt;</code>.</p>
+
+
+    <div id="code-heading">Directory Tree</div>
+    <pre id="bash" style="background-color: #fff">
+    .
+    ├── index.html
+    └── <i class="far fa-folder-open"></i> pages/
+        ├── <i class="fab fa-html5"></i> about.html<img class="fas bounce" src="../img/dots-corner-open-arrow.png" style="width: 2em; margin: 0 0 0 1.2em;" />
+        └── <i class="fab fa-html5"></i> contact.html<img class="fas bounce" src="../img/dots-corner-close-arrow.png" style="width: 2em; margin: 0;" />
+    </pre>
+  </div>
+  <div class="tab-pane fade" id="deeper">
+    <p><i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i> <span style="font-weight: bold; letter-spacing: 2px;">From Index to About: `<a href="./pages/about.html">To About</a>`</span></p>
+
+    <p>This process may look familar, as you've been doing it with screenshots located in an **images** directory. When “going deeper” into our directory, we must add any additional sub-directories (folders) to our URL path, like <code>&gt;a href="./folder-name/page-name.html"&lt;</code></p>
+
+
+    <div id="code-heading">Directory Tree</div>
+    <pre id="bash" style="background-color: #fff">
+    .
+    ├── index.html<img class="fas bounce" src="../img/dots-horizontal.png" style="width: 2em; margin: 0 0 0 1em;" /><img class="fas bounce" src="../img/dots-horizontal.png" style="width: 2em; margin: 0 0;" /><img class="fas bounce" src="../img/dots-corner-open.png" style="width: 2em; margin: 0;" />
+    └── <i class="far fa-folder-open"></i> pages/<img class="fas bounce" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 7.35em;" />
+        ├── <i class="fab fa-html5"></i> about.html<img class="fas bounce" src="../img/dots-corner-close-arrow.png" style="width: 2em; margin: 0 0 0 1.2em;" />
+        └── <i class="fab fa-html5"></i> contact.html
+    </pre>
+  </div>
+  <div class="tab-pane fade" id="shallower">
+    <p><i class="fas fa-long-arrow-alt-right" style="color: #DF382C"></i> <span style="font-weight: bold; letter-spacing: 2px;">From Contact to Index: `<a href="../">Back to Home</a>`</span></p>
+
+    <p>Not only can we go deeper, but we can also take steps backwards, going higher up in our directory. A link for this direction would look something like <code>&gt;a href"../page-name.html"&lt;</code>.</p>
+
+    <p>If a single <code>./</code> states that we need to remain in the current level of our directory heirarchy, two <code>../</code> is effectively saying “to find this file, begin here and then step back a directory.”</p>
+
+
+    <div id="code-heading">Directory Tree</div>
+    <pre id="bash" style="background-color: #fff">
+    .
+    ├── index.html<img class="fas bounce" src="../img/dots-horizontal-left.png" style="width: 2em; margin: 0 0 0 1em;" /><img class="fas bounce" src="../img/dots-horizontal.png" style="width: 2em; margin: 0 0;" /><img class="fas bounce" src="../img/dots-corner-open.png" style="width: 2em; margin: 0;" />
+    └── <i class="far fa-folder-open"></i> pages/<img class="fas bounce" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 7.35em;" />
+        ├── <i class="fab fa-html5"></i> about.html<img class="fas bounce" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 2.9em;" />
+        └── <i class="fab fa-html5"></i> contact.html<img class="fas bounce" src="../img/dots-corner-close.png" style="width: 2em; margin: 0;" />
+    </pre>
+
+
+    <p><span class="label label-info">Note</span> You will never have more than two “dots” in a path segment. Further stepping may look something like this: <code>../../../images/profile.png</code></p>
+  </div>
+</div>

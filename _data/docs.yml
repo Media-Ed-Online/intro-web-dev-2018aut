@@ -330,3 +330,96 @@ topic-05:
   - title: “Figures and Forms”
     docs:
     - overview
+
+  - title: Image Integration
+    docs:
+    - img-about
+    - img-save
+    - img-parts
+    - img-tag
+    - img-src
+    - img-alt
+    - img-title
+    - img-size
+    - img-element-review
+    - todo-img-int
+
+  - title: Table Structure
+    docs:
+    - table-about
+    - table-parts
+    - table-structure
+    - table-rows
+    - table-cells
+    - table-headings
+    - table-element-review
+    - todo-table-structure
+
+  - title: Intro to Forms
+    docs:
+    - form-about
+    - form-tag
+    - form-action
+    - form-method
+    - form-id-class
+    - form-element-review
+    - todo-form-intro
+
+  - title: Form Input Elements
+    docs:
+    - input-about
+    - input-tag
+    - input-type
+    - input-name
+    - input-id
+    - input-element
+    - todo-form-input
+
+  - title: Text Types
+    docs:
+    - text-intro
+    - text-plain
+    - text-password
+    - text-textarea
+    - text-maxlength
+    - text-cols-rows
+    - text-placeholder
+    - text-size
+    - text-value
+    - text-autofocus
+    - todo-text-type
+
+  - title: Selection Types
+    docs:
+    - select-intro
+    - select-radio
+    - select-checkbox
+    - select-dropdown
+    - todo-select-type
+
+
+  - title: Button Types
+    docs:
+    - button-intro
+    - button-upload
+    - button-submit
+    - button-image
+    - button-element
+    - todo-button-type
+
+  - title: Form Management
+    docs:
+    - form-mgmnt
+    - form-labels-ids
+    - form-fieldsets-legends
+    - todo-form-mgmnt
+
+  - title: HTML5 Inclusions
+    docs:
+    - html5-new
+    - html5-validation
+    - html5-date
+    - html5-email
+    - html5-search
+    - html5-img
+    - todo-html5
