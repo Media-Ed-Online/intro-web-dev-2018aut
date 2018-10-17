@@ -1,0 +1,59 @@
+# Site settings
+title: Intro-Web-Dev
+email: justine.evans@umontana.edu
+description: >
+  Course content for an introductory look at building for the web.
+lang: en-US
+
+baseurl: "/intro-web-dev"
+url: https://media-ed-online.github.io
+git_address: https://github.com/media-ed-online/intro-web-dev
+git_edit_address: https://github.com/media-ed-online/intro-web-dev/blob/gh-pages
+slack: https://ummediaarts.slack.com/team/U6T476W7Q
+
+# theme options from https://bootswatch.com/
+# comment out this to use default Bootstrap
+bootwatch: united
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
+  - TODO
+  - .DS_Store
+timezone: America/Denver
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    sectionid: blog
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+    seo:
+      type: "WebPage"
+
+collections:
+  docs:
+    permalink: /:path/
+    output: true
+  posts:
+    permalink: /blog/:year/:month/:day/:title/
+    output: true

@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="container page-styling">
+    <div class="row">
+        <div class="col-md-4">
+          {% include nav_docs.html %}
+        </div>
+
+        <div class="col-md-8">
+            <h1>{{ page.todo }} {{ page.title }}</h1>
+            <div id="markdown-content-container">{{ content }}</div>
+            <hr>
+
+            {% unless page.tags contains 'uncategorized' %}
+            <p style="margin-top: -1rem;"><i class="fas fa-tags fa-xs"></i>
+              {% assign showtag = page.tags %}
+                {% for member in showtag %}
+                  <span class="label label-tags">{{ member | remove: "," }}</span>
+                {% endfor %}
+            </p>
+            {% endunless %}
+
+            {% include nav_section.html %}
+        </div>
+
+    </div>
+</div>
