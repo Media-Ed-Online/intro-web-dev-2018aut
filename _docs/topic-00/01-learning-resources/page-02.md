@@ -1,14 +1,14 @@
 ---
-title: Moodle
+title: Website
 module: topic-00
-permalink: /topic-00/moodle/
-tags: grades, moodle
+permalink: /topic-00/website/
+tags: materials
 ---
 
 <div class="divider-heading"></div>
 
-The learning management system for this course will be [Moodle]({{site.data.moodle.main}}).
+This site, [{{ site.url }}{{ site.baseurl }}]({{ site.url }}{{ site.baseurl }}), is where most of your learning materials are hosted. Please bookmark it!
 
-There, you will turn in and receive grades for all submitted work, including assignments, quizzes, and projects. Homework is community-affair, and you are encouraged to view each other's submissions.
+In addition, you can visit our Resources repo often to access the Issues board and ask for help from both your instructor and your peers. Click the &nbsp;<a href="{{ site.git_address }}-resources/issues/"><i class="fab fa-github fa-lg"></i></a>&nbsp; icon from the navigation menu above to visit the Issues board at any time.
 
-<span class="label label-danger">Important</span> This **_does not_** mean "copy each other's work." You should explore others' processes, but only use it for problem solving or ideation.
+Our course follows a similar pattern as many site do across the web, linking multiple interfaces together. You're aware of Moodle, but we also rely heavily on GitHub as both a learning resource and hosting service for your work.

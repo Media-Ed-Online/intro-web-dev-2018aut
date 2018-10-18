@@ -378,7 +378,7 @@ topic-05:
 
   - title: Text Types
     docs:
-    - text-types-about
+    - text-types-parts
     - text-plain
     - text-password
     - text-textarea

@@ -8,7 +8,7 @@ tags: attribute, form, input, name
 <div class="divider-heading"></div>
 
 
-<div id="code-heading">Element Breakdown <i class="fas fa-battery-three-quarter"></i></div>
+<div id="code-heading">Element Breakdown <i class="fas fa-battery-three-quarters"></i></div>
 <pre id="breakdown-block">
 <input type="" <span class="pulsate">name=""</span> id="" />
 </pre>

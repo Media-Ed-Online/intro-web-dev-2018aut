@@ -1,14 +1,18 @@
 ---
-title: Website
+title: Services and Technologies
 module: topic-00
-permalink: /topic-00/website/
-tags: materials
+permalink: /topic-00/services/
+tags: materials, required
 ---
 
 <div class="divider-heading"></div>
 
-This site, [{{ site.url }}{{ site.baseurl }}]({{ site.url }}{{ site.baseurl }}), is where most of your learning materials are hosted. Please bookmark it!
+## Services
+You are required to sign-up for and maintain a free [GitHub account](https://github.com/). See "Submitting" to the left for more information.
 
-In addition, you can visit our Resources repo often to access the Issues board and ask for help from both your instructor and your peers. Click the &nbsp;<a href="{{ site.git_address }}-resources/issues/"><i class="fab fa-github fa-lg"></i></a>&nbsp; icon from the navigation menu above to visit the Issues board at any time.
 
-Our course follows a similar pattern as many site do across the web, linking multiple interfaces together. You're aware of Moodle, but we also rely heavily on GitHub as both a learning resource and hosting service for your work.
+## Technologies
+You are expected to utilize three main applications for this course:
+1. [Atom Editor](https://atom.io/) - Atom is a free versatile text editor. _Other options: Komodo Edit, Sublime Text, etc_
+2. [GitHub Desktop App](https://desktop.github.com/) - We recommend this free GUI-based front-end application for connecting your GitHub account remotely. _Other options: Terminal (MAC), Command Line or PowerShell (PC), SourceTree, etc._
+3. Most Up-to-Date Browser - You should have at least one current version of [Firefox](https://www.mozilla.org/en-US/), [Chrome](https://www.google.com/chrome/), [Safari](https://www.apple.com/safari/), and/or [Internet Explorer](https://www.microsoft.com/en-us/download/internet-explorer.aspx) or [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge).

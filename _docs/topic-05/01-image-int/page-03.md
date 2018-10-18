@@ -1,24 +1,20 @@
 ---
-title: Saving for Web
+title: The 5-Part Image Element
 module: topic-05
-permalink: /topic-05/img-save/
-tags: best&nbsp;practice, design, file, image, web
+permalink: /topic-05/img-parts/
+tags: elements, html, image
 ---
 
 <div class="divider-heading"></div>
 
-Generally, images should be **less-than 1,000 kB** in size (under 1 megabyte).
+As stated in the introduction, the **image element** is a multi-part element comprised of several "commands" over how the image will render.
 
-If you remember from your introductory design classes, creating and saving files for print is much different than for web. For example, printers print at _300 ppi_, but screens only need _72 ppi_ for proper resolution. The larger your files, the longer it will take your page to load. And no one likes a slow-loading page.
+The 5+ attributes an image element should include are:
 
-To optimize images for the web, many image editors have a "Save for Web and Devices" or "Export As" in their save options. There, you can change image formats and sizes to try and get your files of an appropriate size.
+1. The tag itself.
+2. The source attribute (location of the file).*
+3. Alternative text.*
+4. The image itle.
+5. Width and height values (which also can be accomplished with the style attribute).
 
-<img src="../img/save-imgs-for-web.jpg" alt="Image of 'Save for Web' dialogue in Photoshop CC" title="Save for Web" width="1000" height="auto" style="border: none" />
-
-Here is the <a href="https://images.pexels.com/photos/241828/pexels-photo-241828.jpeg" target="_blank">original dog image</a>, which clocks in at an _enormous_ 23.9 mB, and 5597px by 3148px. Watch how long that loads in another tab.
-
-<div class="divider-pg"></div>
-
-In contrast the one you see below was optimized for web, sized and cropped to 1000px by 500px. It's much more managble at 110 kB, and is hardly distinguishable from the original (at least on the web).
-
-<img src="../img/dogs-in-field.jpeg" alt="An image dogs laying in a field while the sun sets" title="Dogs in a Sunlit Field" width="1000px" height="auto" />
+<span class="label label-danger">Important</span> *The source (`src=""`) and alternative text (`alt=""`) attributes are <b>required</b> in the image element.

@@ -1,22 +1,19 @@
 ---
-title: What is the internet?
+title: What is the web?
 module: topic-01
-permalink: /topic-01/what-is-the-net/
-tags: how, internet
+permalink: /topic-01/what-is-the-web/
+tags: internet, web
 ---
 
 <div class="divider-heading"></div>
 
-Let’s watch some videos to better understand what “the internet” is. Part of web development is understanding _how_ to get your website online, and to make sure it stays online. This means you need to have a basic understanding of what the internet actually _is,_ and how it works. Take a look!
+<blockquote>
+  <p><i>The original idea of the web was that it should be a collaborative space where you can communicate through sharing information.</i></p>
+  <p>- <a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee">Tim Berners-Lee</a>, the man who proposed the World Wide Web.</p>
+</blockquote>
 
 
-## What is the Internet?
+## The Web is Not the Net
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Dxcc6ycZ73M?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-## Andrew Blum: What is the Internet, really?
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XE_FPEFpHt4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/scWj1BMRHUA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>

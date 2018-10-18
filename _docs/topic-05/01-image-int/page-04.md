@@ -1,20 +1,19 @@
 ---
-title: The 5-Part Image Element
+title: 1. The &lt;img&gt; Tag
 module: topic-05
-permalink: /topic-05/img-parts/
-tags: elements, html, image
+permalink: /topic-05/img-tag/
+tags: html, image, tags
 ---
 
 <div class="divider-heading"></div>
 
-As stated in the introduction, the **image element** is a multi-part element comprised of several "commands" over how the image will render.
 
-The 5+ attributes an image element should include are:
+<div id="code-heading">Element Breakdown <i class="fas fa-battery-empty"></i></div>
+<pre id="breakdown-block">
+<span class="pulsate"><img</span> src="#" alt="" title="" width="" height="" <span class="pulsate">/></span>
+</pre>
 
-1. The tag itself.
-2. The source attribute (location of the file).*
-3. Alternative text.*
-4. The image itle.
-5. Width and height values (which also can be accomplished with the style attribute).
 
-<span class="label label-danger">Important</span> *The source (`src=""`) and alternative text (`alt=""`) attributes are <b>required</b> in the image element.
+As with the break (`<br />`) and horizontal ruler (`<hr />`) elements, the image element is an _empty element_ that only requires a single tag. This tag is the **image tag**, `<img />`.
+
+As with hyperlinks, this element is reliant on _attributes_ within the tag to allow it to be useful. Visit the next pages to learn these attributes.
