@@ -3,6 +3,7 @@ Tags Utilized:
   - abbreviation
   - absolute
   - acronym
+  - action
   - address
   - alt
   - app
@@ -15,11 +16,14 @@ Tags Utilized:
   - bold
   - break
   - browser
+  - cell
   - charset
   - child
   - cite
+  - class
   - code
   - codepen
+  - column
   - comment
   - common
   - connect
@@ -40,7 +44,9 @@ Tags Utilized:
   - empty
   - file
   - folder
+  - form
   - fun
+  - get
   - git
   - github
   - grades
@@ -59,6 +65,7 @@ Tags Utilized:
   - image
   - indent
   - index
+  - input
   - insert
   - inspect
   - install
@@ -71,10 +78,13 @@ Tags Utilized:
   - markdown
   - markup
   - materials
+  - max
   - meta
+  - method
   - meme
   - moodle
   - nested
+  - name
   - naming
   - new
   - ordered
@@ -82,7 +92,9 @@ Tags Utilized:
   - package
   - page
   - paragraph
+  - password
   - path
+  - post
   - preformatted
   - processor
   - protocol
@@ -95,6 +107,7 @@ Tags Utilized:
   - required
   - root
   - routing
+  - row
   - rule
   - semantic
   - size
@@ -111,9 +124,11 @@ Tags Utilized:
   - target
   - testing
   - text
+  - textarea
   - theme
   - title
   - track
+  - type
   - unordered
   - url
   - version

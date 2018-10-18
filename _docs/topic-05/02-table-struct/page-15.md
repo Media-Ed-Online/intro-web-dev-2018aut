@@ -2,19 +2,8 @@
 title: 2. Rows
 module: topic-05
 permalink: /topic-05/table-rows/
-tags: elements, html, table
+tags: row, table
 ---
-
-<style>
-  .indent-sm {
-    margin-left: 20px;
-    display: block;
-  }
-  .indent-lg {
-    margin-left: 40px;
-    display: block;
-  }
-</style>
 
 <div class="divider-heading"></div>
 

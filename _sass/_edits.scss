@@ -458,8 +458,10 @@ pre {
   // Pieces Codeblock
 #breakdown-block {
   color: #AEA79F;
-  font-weight: 600;
   letter-spacing: .5px;
+  span {
+    font-weight: bold;
+  }
 }
 .pulsate {
   padding: 5px;

@@ -22,5 +22,5 @@ Therefore it is critical that you provide a detailed description, especially in 
 
 <ul style="list-style-type: none">
   <li class="icon-con"> Poor: &nbsp;&nbsp;&nbsp;<code>alt="Me getting help"</code></li>
-  <li class="icon-pro"> Better: &nbsp;<code>alt="Justine receiving help from an instructor while at a computer."</code></li>
+  <li class="icon-pro"> Better: &nbsp;<code>alt="Justine receiving help from an instructor while at a computer"</code></li>
 </ul>

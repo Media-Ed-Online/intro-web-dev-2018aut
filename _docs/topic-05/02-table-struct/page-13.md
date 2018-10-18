@@ -11,9 +11,9 @@ In learning HTML, we can also use tables to organize less-complex (non-statistic
 
 However, once we hit CSS, you should use stylesheets instead of HTML to organize text-based sets such as these. This is primarily because tables can be difficult for accessibility software to translate if done improperly.
 
-The 4 attributes a table element <i>should</i> include are:
+The 4 attributes a table element should include are:
 
-- The tag itself.
-- Rows made of cells.
-- Cells containing information.
-- Headings.
+1. The tags themselves.
+2. Rows made of cells.
+3. Cells containing information.
+4. Headings.

@@ -1,20 +1,9 @@
 ---
-title: 1. The &lt;table&gt; Tag
+title: 1. The &lt;table&gt; Tags
 module: topic-05
-permalink: /topic-05/table-structure/
-tags: elements, html, table
+permalink: /topic-05/table-tag/
+tags: table, tags
 ---
-
-<style>
-  .indent-sm {
-    margin-left: 20px;
-    display: block;
-  }
-  .indent-lg {
-    margin-left: 40px;
-    display: block;
-  }
-</style>
 
 <div class="divider-heading"></div>
 

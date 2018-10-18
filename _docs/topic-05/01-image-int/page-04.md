@@ -9,12 +9,12 @@ tags: elements, html, image
 
 As stated in the introduction, the **image element** is a multi-part element comprised of several "commands" over how the image will render.
 
-The 5+ attributes an image element <i>should</i> include are:
+The 5+ attributes an image element should include are:
 
-- The tag itself.
-- The source attribute (location of the file).*
-- Alternative text.*
-- The image itle.
-- Width and height values (which also can be accomplished with the style attribute).
+1. The tag itself.
+2. The source attribute (location of the file).*
+3. Alternative text.*
+4. The image itle.
+5. Width and height values (which also can be accomplished with the style attribute).
 
 <span class="label label-danger">Important</span> *The source (`src=""`) and alternative text (`alt=""`) attributes are <b>required</b> in the image element.

@@ -2,19 +2,8 @@
 title: 3. Cells
 module: topic-05
 permalink: /topic-05/table-cells/
-tags: elements, html, table
+tags: cell, table
 ---
-
-<style>
-  .indent-sm {
-    margin-left: 20px;
-    display: block;
-  }
-  .indent-lg {
-    margin-left: 40px;
-    display: block;
-  }
-</style>
 
 <div class="divider-heading"></div>
 

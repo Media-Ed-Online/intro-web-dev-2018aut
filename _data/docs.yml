@@ -348,7 +348,7 @@ topic-05:
     docs:
     - table-about
     - table-parts
-    - table-structure
+    - table-tag
     - table-rows
     - table-cells
     - table-headings
@@ -358,6 +358,7 @@ topic-05:
   - title: Intro to Forms
     docs:
     - form-about
+    - form-parts
     - form-tag
     - form-action
     - form-method
@@ -367,17 +368,17 @@ topic-05:
 
   - title: Form Input Elements
     docs:
-    - input-about
+    - input-parts
     - input-tag
     - input-type
     - input-name
     - input-id
-    - input-element
+    - input-element-review
     - todo-form-input
 
   - title: Text Types
     docs:
-    - text-intro
+    - text-types-about
     - text-plain
     - text-password
     - text-textarea
@@ -387,7 +388,7 @@ topic-05:
     - text-size
     - text-value
     - text-autofocus
-    - todo-text-type
+    - todo-text-types
 
   - title: Selection Types
     docs:

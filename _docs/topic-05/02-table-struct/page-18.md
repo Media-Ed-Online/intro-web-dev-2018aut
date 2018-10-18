@@ -7,7 +7,6 @@ tags: elements, html, table
 
 <div class="divider-heading"></div>
 
-
 A full table element is a combination of columns and rows (both delineated by headings), and cells:
 
 
@@ -36,5 +35,5 @@ A full table element is a combination of columns and rows (both delineated by he
 ```
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="RLjgmO" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-05: Tables, Pt. 1" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="RLjgmO" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Tables" class="codepen"></a>
 </div>

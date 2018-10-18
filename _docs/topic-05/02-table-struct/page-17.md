@@ -2,19 +2,8 @@
 title: 4. Headings
 module: topic-05
 permalink: /topic-05/table-headings/
-tags: elements, html, table
+tags: column, table, heading, row
 ---
-
-<style>
-  .indent-sm {
-    margin-left: 20px;
-    display: block;
-  }
-  .indent-lg {
-    margin-left: 40px;
-    display: block;
-  }
-</style>
 
 <div class="divider-heading"></div>
 
