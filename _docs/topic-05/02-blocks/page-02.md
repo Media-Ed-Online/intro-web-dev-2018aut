@@ -48,5 +48,5 @@ You should get in the habit of adding ID attributes to any important HTML elemen
      <i class="fas fa-lightbulb blink"></i>
   </div>
   <p><span class="remember-text">Remember?</span><br/>
-  There are very important <a href="../../topic-02/naming" target="_blank">naming conventions</a> that you should know by now.</p>
+  There are very important <a href="../../topic-02/naming-practices" target="_blank">naming conventions</a> that you should know by now.</p>
 </div>
