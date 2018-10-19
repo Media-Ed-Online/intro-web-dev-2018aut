@@ -20,7 +20,7 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
   <div class="tab-pane fade active in" id="web-pages">
     <p style="font-style: italic;">Pages are the most common inclusion in a web site, simply because pages contain the visible content of that site. Further files (such as images and other media) will most-likely be accessed from pages, through hyperlinks, embeds, and the like.</p>
     <div class="divider-pg"></div>
-    <div class="row">
+    <div class="container-row">
       <div class="col-lg-2">
         <img src="../img/web-pages-html.svg" title="HTML" alt="html icon" width="100"/>
         <p style="margin-top: -10px; text-align: center; font-weight: bold;">page.html</p>
@@ -39,7 +39,7 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
       </div>
     </div>
     <div class="divider-pg"></div>
-    <div class="row">
+    <div class="container-row">
       <div class="col-lg-2">
         <img src="../img/web-pages-css.svg" title="CSS" alt="css icon" width="100"/>
         <p style="margin-top: -10px; text-align: center; font-weight: bold;">page.css</p>
@@ -58,7 +58,7 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
       </div>
     </div>
     <div class="divider-pg"></div>
-    <div class="row">
+    <div class="container-row">
       <div class="col-lg-2">
         <img src="../img/web-pages-php.svg" title="PHP" alt="php icon" width="100"/>
         <p style="margin-top: -10px; text-align: center; font-weight: bold;">page.php</p>
@@ -80,7 +80,7 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
   <div class="tab-pane fade" id="web-images">
     <p style="font-style: italic;">Images are the media lifeblood of web design. Sites can contain many images in different file types, and how that image will be used dictates what file type it should be, and vice versa.</p>
     <div class="divider-pg"></div>
-    <div class="row">
+    <div class="container-row">
       <div class="col-lg-2">
         <img src="../img/web-images-jpg.svg" title="JPG" alt="jpg icon" width="100"/>
         <p style="margin-top: -10px; text-align: center; font-weight: bold;">image.jpg</p>
@@ -98,7 +98,7 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
       </div>
     </div>
     <div class="divider-pg"></div>
-    <div class="row">
+    <div class="container-row">
       <div class="col-lg-2">
         <img src="../img/web-images-png.svg" title="PNG" alt="png icon" width="100"/>
         <p style="margin-top: -10px; text-align: center; font-weight: bold;">image.png</p>
@@ -116,7 +116,7 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
       </div>
     </div>
     <div class="divider-pg"></div>
-    <div class="row">
+    <div class="container-row">
       <div class="col-lg-2">
         <img src="../img/web-images-gif.svg" title="GIF" alt="gif icon" width="100"/>
         <p style="margin-top: -10px; text-align: center; font-weight: bold;">image.gif</p>
@@ -134,7 +134,7 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
       </div>
     </div>
     <div class="divider-pg"></div>
-    <div class="row">
+    <div class="container-row">
       <div class="col-lg-2">
         <img src="../img/web-images-svg.svg" title="SVG" alt="svg icon" width="100"/>
         <p style="margin-top: -10px; text-align: center; font-weight: bold;">image.svg</p>
@@ -156,7 +156,7 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
   <div class="tab-pane fade" id="web-av">
     <p style="font-style: italic;">You will come across <b>many</b> types of media files in websites. Below are just some common variables, but by no means the only file types available. This list also excludes streaming media, which is the prevailing method of using media on the web.</p>
     <div class="divider-pg"></div>
-    <div class="row">
+    <div class="container-row">
       <div class="col-lg-2">
         <img src="../img/web-av-mp3.svg" title="MP3" alt="mp3 icon" width="100"/>
         <p style="margin-top: -10px; text-align: center; font-weight: bold;">file.mp3</p>
@@ -173,7 +173,7 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
       </div>
     </div>
     <div class="divider-pg"></div>
-    <div class="row">
+    <div class="container-row">
       <div class="col-lg-2">
         <img src="../img/web-av-ogg.svg" title="OGG" alt="ogg icon" width="100"/>
         <p style="margin-top: -10px; text-align: center; font-weight: bold;">file.ogg</p>
@@ -191,7 +191,7 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
       </div>
     </div>
     <div class="divider-pg"></div>
-    <div class="row">
+    <div class="container-row">
       <div class="col-lg-2">
         <img src="../img/web-av-mp4.svg" title="MP4" alt="mp4 icon" width="100"/>
         <p style="margin-top: -10px; text-align: center; font-weight: bold;">file.mp4</p>
@@ -209,7 +209,7 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
       </div>
     </div>
     <div class="divider-pg"></div>
-    <div class="row">
+    <div class="container-row">
       <div class="col-lg-2">
         <img src="../img/web-av-webm.svg" title="WebM" alt="webm icon" width="100"/>
         <p style="margin-top: -10px; text-align: center; font-weight: bold;">file.webm</p>
@@ -230,7 +230,7 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
   <div class="tab-pane fade" id="web-scripts">
     <p style="font-style: italic;">Scripts add functionality to websites. They can be run client- or server-side, and can do some really heavy lifting in terms of making sites interesting and dynamic.</p>
     <div class="divider-pg"></div>
-    <div class="row">
+    <div class="container-row">
       <div class="col-lg-2">
         <img src="../img/web-scripts-js.svg" title="JavaScript" alt="js icon" width="100"/>
         <p style="margin-top: -10px; text-align: center; font-weight: bold;">script.js</p>
@@ -249,7 +249,7 @@ Web designers use all types of files to create sites, from `.html` to `.css` to 
       </div>
     </div>
     <div class="divider-pg"></div>
-    <div class="row">
+    <div class="container-row">
       <div class="col-lg-2">
         <img src="../img/web-scripts-cgi.svg" title="CGI" alt="cgi icon" width="100"/>
         <p style="margin-top: -10px; text-align: center; font-weight: bold;">script.cgi</p>

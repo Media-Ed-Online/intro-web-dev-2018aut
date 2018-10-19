@@ -7,7 +7,7 @@ tags: best&nbsp;practice, code
 
 <div class="divider-heading"></div>
 
-<div class="row">
+<div class="container-row">
   <p>It may seem ridiculous or silly, but there's such a thing as being a respectful dev that writes clean, proper code.</p>
 
   <img src="../img/nedry.gif" alt="Dennis Nedry gif from Jurassic Park" title="Ah ah ah!" style="float: right; width: 150px; margin-top: 0;" onmouseover="PlaySound( 'mySound') " onmouseout="StopSound( 'mySound') "/>

@@ -346,6 +346,7 @@ topic-05:
 
   - title: The Building Blocks of Pages
     docs:
+    - extra-markup
     - html-ids
     - html-classes
     - html-divs

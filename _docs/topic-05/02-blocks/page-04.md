@@ -1,9 +1,9 @@
 ---
-title: Sectioning with Spans
+title: Grouping with Divs
 module: topic-05
-permalink: /topic-05/html-spans/
+permalink: /topic-05/html-divs/
 categories: html
-tags: span
+tags: div
 ---
 
 <div class="divider-heading"></div>

@@ -7,7 +7,7 @@ tags: html, markup
 
 <div class="divider-heading"></div>
 
-<div class="row">
+<div class="container-row">
   <img src="../img/berners-lee.png" alt="Tim Berners-Lee" title="Tim Berners-Lee" style="float: right; width: 250px; margin-top: 0;" />
 
   <p>Let's just touch on using HTML or the <b>HyperText Markup Language.</b></p>

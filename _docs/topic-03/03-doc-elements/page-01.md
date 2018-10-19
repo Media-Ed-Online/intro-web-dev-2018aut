@@ -7,7 +7,7 @@ tags: document, elements, html, structure
 
 <div class="divider-heading"></div>
 
-<div class="row">
+<div class="container-row">
   <p>Everything is HTML is described through elements. This includes the larger structure of the main document.</p>
 
   <img src="../img/person-doc-think.png" alt="person thinking to themselves" title="Hmm..." style="width: 125px; float: right; margin: 0 0 5px 5px" />

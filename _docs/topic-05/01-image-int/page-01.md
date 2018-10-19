@@ -8,7 +8,7 @@ tags: history, image
 
 <div class="divider-heading"></div>
 
-<div class="row">
+<div class="container-row">
   <img src="../img/les-horrible-cernettes.jpg" alt="Four women dressed in 1980's formalwear" title="Les Horrible Cernettes" style="float: right; width: 250px; margin-top: 0;" />
 
   <p>Images, unlike hyperlinks, use the URL source to retrieve additional data for the page, as opposed to sending the user to another page.</p>

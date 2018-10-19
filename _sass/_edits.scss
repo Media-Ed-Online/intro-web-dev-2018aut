@@ -101,6 +101,11 @@
 .page-styling {
   padding-top: $navbar-margin-bottom;
 
+  .container-row {
+    margin: 0;
+    display: inline-block;
+    width: 100%;
+  }
   .overview-img {
     margin: 2em auto 3em;
     max-width: 200px;
@@ -295,6 +300,12 @@
 }
 
   // "Remember?" Lightbulb
+.remember-text {
+  font-style: italic;
+  font-size: $font-size-large;
+  font-family: $font-family-sans-serif;
+  color: #EFB73E;
+}
 .lightbulb {
    width: 50px;
    height: auto;
