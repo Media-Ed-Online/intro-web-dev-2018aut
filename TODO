@@ -1,4 +1,8 @@
 [] Fix Search Bar @ Breakpoints
+[] Topic 05 used to be forms, now is media. Needs to be added, and Media needs to go back to Topic 06
+[] Toggle soft wrap
+[] Set up Categories and Tags data file
+[] Figure out link sorting for Categories and Tags
 
 Tags Utilized:
   - uncategorized (won't search / sort)
@@ -37,6 +41,7 @@ Tags Utilized:
   - description
   - design
   - directory
+  - div
   - dns
   - document
   - dom
@@ -116,6 +121,7 @@ Tags Utilized:
   - rule
   - semantic
   - size
+  - span
   - src
   - strong
   - strikethrough
