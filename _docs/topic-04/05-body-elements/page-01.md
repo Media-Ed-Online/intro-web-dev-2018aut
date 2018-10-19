@@ -1,5 +1,5 @@
 ---
-title: Review&#58 The Body
+title: "Review: The Body"
 module: topic-04
 permalink: /topic-04/body-elements/
 tags: body, html

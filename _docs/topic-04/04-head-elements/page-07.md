@@ -1,5 +1,5 @@
 ---
-title: In Review
+title: "Review: Head Elements"
 module: topic-04
 permalink: /topic-04/head-review/
 tags: document, head, html, page, structure

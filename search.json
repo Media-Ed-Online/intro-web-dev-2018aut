@@ -4,7 +4,7 @@
 {% for page in site.docs %}
     {% unless page.tags contains 'uncategorized' %}
     {
-    "title": "{{ page.title  | remove: "1." | remove: "2." | remove: "3." | remove: "4." | remove: "5." | remove: "&#58" }}",
+    "title": "{{ page.title  | remove: "1." | remove: "2." | remove: "3." | remove: "4." | remove: "5." }}",
     "tags": "{{ page.tags | join: ', ' }}",
     "url": "{{ page.url | prepend: site.baseurl }}"
     },

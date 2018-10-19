@@ -1,5 +1,5 @@
 ---
-title: In Review
+title: "Review: The Image Element"
 module: topic-05
 permalink: /topic-05/img-element-review/
 tags: elements, html, image

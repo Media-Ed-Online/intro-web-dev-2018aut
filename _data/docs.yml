@@ -341,28 +341,16 @@ topic-05:
     - grouping-elements
     - todo-blocks
 
-  - title: Image Integration
-    docs:
-    - img-about
-    - img-save
-    - img-parts
-    - img-tag
-    - img-src
-    - img-alt
-    - img-title
-    - img-size
-    - img-element-review
-    - todo-img-int
-
   - title: Iframes
     docs:
-    - iframes-about
-    - iframes-tags
-    - iframes-src
-    - iframes-size
-    - iframes-element-sites
-    - iframes-element-maps
-    - iframes-element-media
+    - iframe-parts
+    - iframe-tags
+    - iframe-src
+    - iframe-size
+    - iframe-review
+    - iframe-element-websites
+    - iframe-element-maps
+    - iframe-element-media
     - todo-iframes
 
   - title: The Meta Element
@@ -387,6 +375,7 @@ topic-05:
 
   - title: Media Management
     docs:
+    - img-save
     - media-about
     - media-storage
     - media-src-video
@@ -396,7 +385,19 @@ topic-05:
     - media-decisions
     - todo-media-mgmnt
 
-  - title: Adding Video to Pages
+  - title: Images
+    docs:
+    - img-about
+    - img-parts
+    - img-tag
+    - img-src
+    - img-alt
+    - img-title
+    - img-size
+    - img-element-review
+    - todo-img-int
+
+  - title: Video
     docs:
     - video-HTML5
     - video-tags
@@ -413,7 +414,7 @@ topic-05:
     - todo-video
 
 
-  - title: Adding Audio to Pages
+  - title: Audio
     docs:
     - audio-HTML5
     - audio-tags

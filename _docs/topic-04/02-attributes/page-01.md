@@ -1,5 +1,5 @@
 ---
-title: Review&#58 HTML Elements and Tags
+title: "Review: HTML Elements and Tags"
 module: topic-04
 permalink: /topic-04/html-review/
 tags: elements, html, tags
