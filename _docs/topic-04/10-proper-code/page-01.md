@@ -23,12 +23,13 @@ tags: best&nbsp;practice, code
   <p>There are many other unspoken rules you can Google, but those three are my major pet peeves when done poorly - <i>and I'm likely to call you out on them.</i></p>
 
 
-  <audio id="mySound">
+  <audio id="mySound" loop>
     <source src="../media/nedry.wav" type="audio/wav">
     <source src="../media/nedry.mp3" type="audio/mpeg">
     <source src="../media/nedry.ogg" type="audio/ogg">
     Your browser does not support the audio tag.
   </audio>
+  <audio id="mySound" src="../media/nedry.mp3"></audio>
 
     <script type="text/javascript ">
       function PlaySound(soundobj) {

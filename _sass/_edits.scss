@@ -85,12 +85,15 @@
   }
 }
 @media (max-width: $grid-float-breakpoint-max) {
-  .icon-nav li {
-    float: left;
-    margin-top: -($navbar-padding-vertical / 2);
+  .form-control-feedback {
+    position: relative;
+    z-index: 2; // Ensure icon is above input groups
+    width: auto;
+    height: auto;
+
+    pointer-events: none;
   }
 }
-
 
 
 // DOC & POST LAYOUTS
