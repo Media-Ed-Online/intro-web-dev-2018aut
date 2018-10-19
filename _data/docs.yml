@@ -331,6 +331,16 @@ topic-05:
     docs:
     - overview
 
+  - title: The Building Blocks of Pages
+    docs:
+    - extra-markup
+    - html-ids
+    - html-classes
+    - html-divs
+    - html-spans
+    - grouping-elements
+    - todo-blocks
+
   - title: Image Integration
     docs:
     - img-about
@@ -343,17 +353,6 @@ topic-05:
     - img-size
     - img-element-review
     - todo-img-int
-
-  - title: The Building Blocks of Pages
-    docs:
-    - extra-markup
-    - html-ids
-    - html-classes
-    - html-divs
-    - html-spans
-    - more-naming-practices
-    - grouping-elements
-    - todo-blocks
 
   - title: Iframes
     docs:
@@ -409,7 +408,7 @@ topic-05:
     - video-multi-tag
     - video-multi-src
     - video-multi-type
-    - video-element
+    - video-element-review
     - video-hosting
     - todo-video
 
@@ -423,6 +422,6 @@ topic-05:
     - audio-formats
     - audio-multi-tag
     - audio-multi-src
-    - audio-element
+    - audio-element-review
     - audio-hosting
     - todo-audio

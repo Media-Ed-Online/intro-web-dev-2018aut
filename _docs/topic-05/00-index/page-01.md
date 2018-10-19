@@ -11,7 +11,7 @@ tags: uncategorized
 
 It's time to get into the juicier HTML elements. This Topic, you'll be introduced to some multi-part elements, including images, audio/video, and iframes, and well as the basic building blocks of page design.
 
-When thinking about the sites you often visit, images are probably the first memorable element that comes to mind, but there are also other media types used in web developmen. As designers, we need to consider how and when to add media, what filetypes to use, their file sizes, and what code element works best for each specific situation.
+When thinking about the sites you often visit, images are probably the first memorable element that comes to mind, but there are also other media types used in web development. As designers, we need to consider how and when to add media, what filetypes to use, their file sizes, and what code element works best for each specific situation.
 
 This is the last Topic where we will look at HTML elements in depth. At the point you should be comfortable with:
 
