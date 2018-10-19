@@ -327,7 +327,7 @@ topic-04:
 ##################################################
 
 topic-05:
-  - title: “Figures and Forms”
+  - title: “Managing Media”
     docs:
     - overview
 
@@ -344,83 +344,98 @@ topic-05:
     - img-element-review
     - todo-img-int
 
-  - title: Table Structure
+  - title: The id Attribute
     docs:
-    - table-about
-    - table-parts
-    - table-tag
-    - table-rows
-    - table-cells
-    - table-headings
-    - table-element-review
-    - todo-table-structure
+    - id-clarity
+    - id-style
+    - todo-id
 
-  - title: Intro to Forms
+  - title: The Class Attribute
     docs:
-    - form-about
-    - form-parts
-    - form-tag
-    - form-action
-    - form-method
-    - form-id-class
-    - form-element-review
-    - todo-form-intro
+    - class-clarity
+    - class-style
+    - todo-class
 
-  - title: Form Input Elements
+  - title: The Div Element
     docs:
-    - input-parts
-    - input-tag
-    - input-type
-    - input-name
-    - input-id
-    - input-element-review
-    - todo-form-input
+    - div-element
+    - div-style
+    - todo-div
 
-  - title: Text Types
+  - title: The Span Element
     docs:
-    - text-types-parts
-    - text-plain
-    - text-password
-    - text-textarea
-    - text-maxlength
-    - text-cols-rows
-    - text-placeholder
-    - text-size
-    - text-value
-    - text-autofocus
-    - todo-text-types
+    - span-element
+    - span-style
+    - todo-span
 
-  - title: Selection Types
+  - title: Iframes
     docs:
-    - select-intro
-    - select-radio
-    - select-checkbox
-    - select-dropdown
-    - todo-select-type
+    - iframes-about
+    - iframes-tags
+    - iframes-src
+    - iframes-size
+    - iframes-element-sites
+    - iframes-element-maps
+    - iframes-element-media
+    - todo-iframes
 
-
-  - title: Button Types
+  - title: The Meta Element
     docs:
-    - button-intro
-    - button-upload
-    - button-submit
-    - button-image
-    - button-element
-    - todo-button-type
+    - meta-about
+    - meta-names
+    - meta-charset
+    - meta-desc
+    - meta-auth
+    - meta-keywords
+    - meta-robots
+    - meta-view
+    - todo-meta
 
-  - title: Form Management
+  - title: Escape Characters
     docs:
-    - form-mgmnt
-    - form-labels-ids
-    - form-fieldsets-legends
-    - todo-form-mgmnt
+    - esc-about
+    - esc-codes
+    - esc-names
+    - esc-common
+    - todo-esc
 
-  - title: HTML5 Inclusions
+  - title: Media Management
     docs:
-    - html5-new
-    - html5-validation
-    - html5-date
-    - html5-email
-    - html5-search
-    - html5-img
-    - todo-html5
+    - media-about
+    - media-storage
+    - media-src-video
+    - media-src-audio
+    - media-embedding
+    - media-hosting
+    - media-decisions
+    - todo-media-mgmnt
+
+  - title: Adding Video to Pages
+    docs:
+    - video-HTML5
+    - video-tags
+    - video-src
+    - video-poster
+    - video-size
+    - video-other-att
+    - video-formats
+    - video-multi-tag
+    - video-multi-src
+    - video-multi-type
+    - video-element
+    - video-hosting
+    - todo-video
+
+
+  - title: Adding Audio to Pages
+    docs:
+    - audio-HTML5
+    - audio-tags
+    - audio-src
+    - audio-other-att
+    - audio-formats
+    - audio-multi-tag
+    - audio-multi-src
+    - audio-element
+    - audio-hosting
+    - todo-audio

@@ -1,3 +1,5 @@
+[] Fix Search Bar @ Breakpoints
+
 Tags Utilized:
   - uncategorized (won't search / sort)
   - abbreviation
@@ -10,6 +12,7 @@ Tags Utilized:
   - atom
   - attribute
   - author
+  - autofocus
   - best practice
   - blockquote
   - body
@@ -79,6 +82,7 @@ Tags Utilized:
   - markup
   - materials
   - max
+  - maxlength
   - meta
   - method
   - meme
@@ -94,6 +98,7 @@ Tags Utilized:
   - paragraph
   - password
   - path
+  - placeholder
   - post
   - preformatted
   - processor
@@ -131,6 +136,7 @@ Tags Utilized:
   - type
   - unordered
   - url
+  - value
   - version
   - vcs
   - view
