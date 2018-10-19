@@ -2,7 +2,8 @@
 title: Images in HTML
 module: topic-05
 permalink: /topic-05/img-about/
-tags: html, history, image
+categories: html
+tags: history, image
 ---
 
 <div class="divider-heading"></div>

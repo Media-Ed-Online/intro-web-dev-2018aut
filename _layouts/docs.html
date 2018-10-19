@@ -14,11 +14,18 @@ layout: default
             <hr>
 
             {% unless page.tags contains 'uncategorized' %}
-            <p style="margin-top: -1rem;"><i class="fas fa-tags fa-xs"></i>
-              {% assign showtag = page.tags %}
-                {% for member in showtag %}
-                  <span class="label label-tags">{{ member | remove: "," }}</span>
-                {% endfor %}
+            <p style="margin-top: -1rem;">
+              <i class="fas fa-sitemap fa-xs"></i>
+                {% assign showcategory = page.categories %}
+                  {% for member in showcategory %}
+                    <span class="label label-categories">{{ member | remove: "," }}</span>
+                  {% endfor %}
+              <span style="margin: auto 1rem; border-right: 1px solid #eee;"></span>
+              <i class="fas fa-tags fa-xs"></i>
+                {% assign showtag = page.tags %}
+                  {% for member in showtag %}
+                    <span class="label label-tags">{{ member | remove: "," }}</span>
+                  {% endfor %}
             </p>
             {% endunless %}
 

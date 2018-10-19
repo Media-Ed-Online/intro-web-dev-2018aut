@@ -121,6 +121,10 @@
     color: $gray-light;
     background-color: $gray-lighter;
   }
+  .label-categories {
+    color: $gray-lighter;
+    background-color: $gray-light;
+  }
 
     // overwrites:  /_sass/bootstrap/_panels.scss
   .panel-heading a {
@@ -286,7 +290,7 @@
   vertical-align: baseline;
   margin-right: 5px;
 }
-.fa-tags {
+.fa-tags, .fa-sitemap {
   color: $label-default-bg;
 }
 

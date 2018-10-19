@@ -344,29 +344,14 @@ topic-05:
     - img-element-review
     - todo-img-int
 
-  - title: The id Attribute
+  - title: The Building Blocks of Pages
     docs:
-    - id-clarity
-    - id-style
-    - todo-id
-
-  - title: The Class Attribute
-    docs:
-    - class-clarity
-    - class-style
-    - todo-class
-
-  - title: The Div Element
-    docs:
-    - div-element
-    - div-style
-    - todo-div
-
-  - title: The Span Element
-    docs:
-    - span-element
-    - span-style
-    - todo-span
+    - html-ids
+    - html-classes
+    - html-divs
+    - html-spans
+    - grouping-elements
+    - todo-blocks
 
   - title: Iframes
     docs:
