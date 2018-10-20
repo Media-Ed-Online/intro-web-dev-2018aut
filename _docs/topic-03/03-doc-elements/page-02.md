@@ -2,7 +2,8 @@
 title: 1. Document Type
 module: topic-03
 permalink: /topic-03/doctype/
-tags: doctype, document, html
+categories: html
+tags: doctype, document
 ---
 
 <div class="divider-heading"></div>

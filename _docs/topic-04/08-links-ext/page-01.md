@@ -2,7 +2,8 @@
 title: Hyperlinks and Hypertext
 module: topic-04
 permalink: /topic-04/intro-ex-links/
-tags: design hyper, link, text
+categories: html
+tags: design, hyper, link, text
 ---
 
 <div class="divider-heading"></div>

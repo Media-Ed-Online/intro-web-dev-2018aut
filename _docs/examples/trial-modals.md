@@ -2,7 +2,8 @@
 title: Trial Modals
 module: examples
 permalink: /examples/trial-modals/
-tags: uncategorized
+categories: uncategorized
+tags: 
 ---
 
 <!-- Button trigger modal -->

@@ -2,6 +2,7 @@
 title: Markdown and GitHub
 module: topic-01
 permalink: /topic-01/readme/
+categories: development
 tags: github, markdown
 ---
 

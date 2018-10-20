@@ -2,7 +2,8 @@
 title: Revisit the Root
 module: topic-04
 permalink: /topic-04/html-lang-attribute/
-tags: attribute, html, root
+categories: html
+tags: attribute, root
 ---
 
 <div class="divider-heading"></div>

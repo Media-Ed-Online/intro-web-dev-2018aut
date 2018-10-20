@@ -2,7 +2,8 @@
 title: Semantic Markup
 module: topic-04
 permalink: /topic-04/semantic-markup/
-tags: html, markup, semantic
+categories: html
+tags: markup, semantic
 ---
 
 <div class="divider-heading"></div>

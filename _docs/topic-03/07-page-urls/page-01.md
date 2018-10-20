@@ -2,6 +2,7 @@
 title: File- vs Directory-Based URLs
 module: topic-03
 permalink: /topic-03/file-vs-direct-urls/
+categories: development
 tags: directory, page
 ---
 

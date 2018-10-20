@@ -2,6 +2,7 @@
 title: Relative URLs
 module: topic-02
 permalink: /topic-02/urls-relative/
+categories: development
 tags: file, folder, relative, url
 ---
 

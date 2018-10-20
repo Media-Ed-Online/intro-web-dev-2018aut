@@ -2,7 +2,8 @@
 title: 3. The Head Element
 module: topic-03
 permalink: /topic-03/head-element/
-tags: document, head, html, title
+categories: html
+tags: document, head, title
 ---
 
 <div class="divider-heading"></div>

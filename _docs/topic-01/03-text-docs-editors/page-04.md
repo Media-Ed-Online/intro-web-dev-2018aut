@@ -2,6 +2,7 @@
 title: Text Editors
 module: topic-01
 permalink: /topic-01/text-editors/
+categories: development
 tags: text, editor
 ---
 

@@ -4,8 +4,13 @@
 [] Set up Categories and Tags data file
 [] Figure out link sorting for Categories and Tags
 
-Tags Utilized:
+Categories Utilized:
   - uncategorized (won't search / sort)
+  - html
+  - logistics
+
+
+Tags Utilized:
   - abbreviation
   - absolute
   - acronym
@@ -17,7 +22,7 @@ Tags Utilized:
   - attribute
   - author
   - autofocus
-  - best practice
+  - best-practice
   - blockquote
   - body
   - bold
@@ -32,7 +37,6 @@ Tags Utilized:
   - codepen
   - column
   - comment
-  - common
   - connect
   - contact
   - define
@@ -60,7 +64,7 @@ Tags Utilized:
   - grades
   - guide
   - head
-  - heading
+  - headings
   - help
   - history
   - homework
@@ -102,7 +106,7 @@ Tags Utilized:
   - organize
   - package
   - page
-  - paragraph
+  - paragraphs
   - password
   - path
   - placeholder

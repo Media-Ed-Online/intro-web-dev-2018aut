@@ -2,7 +2,8 @@
 title: 2. The Root Element
 module: topic-03
 permalink: /topic-03/root-element/
-tags: document, html, root
+categories: html
+tags: document, root
 ---
 
 <div class="divider-heading"></div>

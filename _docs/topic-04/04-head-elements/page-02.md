@@ -2,7 +2,8 @@
 title: Meta
 module: topic-04
 permalink: /topic-04/head-meta/
-tags: author, charset, description, head, html, meta
+categories: html
+tags: author, charset, description, elements, head, meta
 ---
 
 <div class="divider-heading"></div>

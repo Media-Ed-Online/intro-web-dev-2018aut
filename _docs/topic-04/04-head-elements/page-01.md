@@ -2,7 +2,8 @@
 title: "Review: The Head"
 module: topic-04
 permalink: /topic-04/head-elements/
-tags: head, html
+categories: html
+tags: elements, head
 ---
 
 <div class="divider-heading"></div>

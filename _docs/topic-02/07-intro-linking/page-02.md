@@ -2,6 +2,7 @@
 title: Same-Level Linking
 module: topic-02
 permalink: /topic-02/link-same/
+categories: development
 tags: directory, guide, link, relative, repository, url
 ---
 

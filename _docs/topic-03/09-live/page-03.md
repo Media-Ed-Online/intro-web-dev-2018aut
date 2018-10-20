@@ -2,6 +2,7 @@
 title: Go Live - Make Your Repo a Webpage
 module: topic-03
 permalink: /topic-03/going-live/
+categories: development
 tags: github, hosting, new, page, website
 ---
 

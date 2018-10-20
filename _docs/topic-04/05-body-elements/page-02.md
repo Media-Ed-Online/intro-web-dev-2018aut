@@ -2,7 +2,8 @@
 title: Structural Markup
 module: topic-04
 permalink: /topic-04/structural-markup/
-tags: html, markup, structural
+categories: html
+tags: markup, structural
 ---
 
 <div class="divider-heading"></div>
@@ -47,6 +48,6 @@ You are already familiar with headings, paragraphs, and breaks.
 Any text between the **paragraph** tags `<p>...</p>` belongs to the same paragraph. Almost all non-heading text will be placed within a paragraph element in a web document.
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="qxXaxa" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Structural Body Elements" class="codepen"></p>
 </div>

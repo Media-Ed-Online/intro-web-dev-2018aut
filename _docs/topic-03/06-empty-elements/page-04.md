@@ -2,7 +2,8 @@
 title: The Image Element
 module: topic-03
 permalink: /topic-03/intro-img-element/
-tags: empty, html, image
+categories: html
+tags: empty, image
 ---
 
 <div class="divider-heading"></div>
@@ -29,6 +30,6 @@ Compare this to Markdown:
 At this stage in your development journey, you can get an image to embed very similar as you would in Markdown using the element `<img src="..." />`.
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="MQbOdj" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Image Element Src Attribute" class="codepen"></p>
 </div>

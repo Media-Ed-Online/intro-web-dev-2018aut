@@ -2,7 +2,8 @@
 title: The 4 Main Document Elements
 module: topic-03
 permalink: /topic-03/elements-intro/
-tags: document, elements, html, structure
+categories: html
+tags: document, elements, structure
 ---
 
 <div class="divider-heading"></div>

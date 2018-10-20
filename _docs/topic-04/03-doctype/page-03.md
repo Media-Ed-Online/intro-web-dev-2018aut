@@ -2,6 +2,7 @@
 title: In the Now
 module: topic-04
 permalink: /topic-04/doctype-now/
+categories: html
 tags: doctype, html5
 ---
 

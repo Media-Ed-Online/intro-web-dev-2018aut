@@ -2,7 +2,8 @@
 title: Definitions
 module: topic-04
 permalink: /topic-04/definition-lists/
-tags: definition, html, list
+categories: html
+tags: definition, list
 ---
 
 <div class="divider-heading"></div>
@@ -27,6 +28,6 @@ The terms definition is then encapsulated in the "definition" tags (`<dd>...</dd
 ```
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="ZrJoYm" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Definition Lists" class="codepen"></p>
 </div>

@@ -2,6 +2,7 @@
 title: Part 5 - Tracking Changes
 module: topic-02
 permalink: /topic-02/dev-part-5/
+categories: development
 tags: app, guide, push, track, vcs
 ---
 

@@ -2,6 +2,7 @@
 title: Absolute URLs
 module: topic-02
 permalink: /topic-02/urls-absolute/
+categories: development
 tags: absolute, file, folder, url
 ---
 

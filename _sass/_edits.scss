@@ -86,12 +86,13 @@
 }
 @media (max-width: $grid-float-breakpoint-max) {
   .form-control-feedback {
-    position: relative;
+    color: white;
+    /*position: relative;
     z-index: 2; // Ensure icon is above input groups
     width: auto;
     height: auto;
 
-    pointer-events: none;
+    pointer-events: none;*/
   }
 }
 
@@ -500,9 +501,10 @@ pre {
 
 
 // CODEPEN
-.codepen-embed {
+.external-embed {
   margin-top: ($line-height-computed * 1.75);
   margin-bottom: ($line-height-computed * 1.75);
+  margin: auto;
 }
 
 

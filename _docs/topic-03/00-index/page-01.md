@@ -2,7 +2,8 @@
 title: Topic Overview
 module: topic-03
 permalink: /topic-03/overview/
-tags: uncategorized
+categories: uncategorized
+tags:
 ---
 
 <img src="../img/project-01.svg" alt="" title="Project 1: The Live Site" class="overview-img" />

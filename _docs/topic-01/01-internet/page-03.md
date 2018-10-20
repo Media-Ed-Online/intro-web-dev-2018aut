@@ -2,6 +2,7 @@
 title: How does it work?
 module: topic-01
 permalink: /topic-01/how-the-net-works/
+categories: development
 tags: how, internet
 ---
 

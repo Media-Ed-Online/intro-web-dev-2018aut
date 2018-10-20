@@ -2,7 +2,7 @@
 title: 3. Alternative Text
 module: topic-05
 permalink: /topic-05/img-alt/
-tags: alt, attribute, best&nbsp;practice, image, required, text
+tags: alt, attribute, best-practice, image, required, text
 ---
 
 <div class="divider-heading"></div>

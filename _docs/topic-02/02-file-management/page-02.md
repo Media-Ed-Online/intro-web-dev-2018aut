@@ -2,6 +2,7 @@
 title: Directories (“Folders”)
 module: topic-02
 permalink: /topic-02/folders/
+categories: development
 tags: directory, file, folder, organize, path
 ---
 

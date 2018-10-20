@@ -2,6 +2,7 @@
 title: GitHub Desktop App Installation Guide
 module: topic-02
 permalink: /topic-02/github-desktop-install/
+categories: development
 tags: app, github, guide, install
 ---
 

@@ -2,6 +2,7 @@
 title: Via a Child Directory
 module: topic-03
 permalink: /topic-03/via-child/
+categories: development
 tags: directory, organize, page, child
 ---
 

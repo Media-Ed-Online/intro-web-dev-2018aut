@@ -2,7 +2,8 @@
 title: Elements
 module: topic-03
 permalink: /topic-03/html-elements/
-tags: elements, html, markdown
+categories: html
+tags: elements, markdown
 ---
 
 <div class="divider-heading"></div>

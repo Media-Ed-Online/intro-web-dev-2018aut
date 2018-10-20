@@ -2,6 +2,7 @@
 title: Web Addresses
 module: topic-02
 permalink: /topic-02/web-addresses/
+categories: development
 tags: file, folder, path, url
 ---
 

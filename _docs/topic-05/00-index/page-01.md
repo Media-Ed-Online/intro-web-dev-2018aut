@@ -2,7 +2,8 @@
 title: Topic Overview
 module: topic-05
 permalink: /topic-05/overview/
-tags: uncategorized
+categories: uncategorized
+tags:
 ---
 
 <img src="../img/assignment-04.svg" alt="" title="Assignment 4: Managing Media" class="overview-img" />

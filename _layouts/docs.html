@@ -13,14 +13,14 @@ layout: default
             <div id="markdown-content-container">{{ content }}</div>
             <hr>
 
-            {% unless page.tags contains 'uncategorized' %}
+            {% unless page.categories contains 'uncategorized' %}
             <p style="margin-top: -1rem;">
               <i class="fas fa-sitemap fa-xs"></i>
                 {% assign showcategory = page.categories %}
                   {% for member in showcategory %}
                     <span class="label label-categories">{{ member | remove: "," }}</span>
                   {% endfor %}
-              <span style="margin: auto 1rem; border-right: 1px solid #eee;"></span>
+              <span style="margin: auto 1.5rem auto 1rem; border-right: 1px solid #eee;"></span>
               <i class="fas fa-tags fa-xs"></i>
                 {% assign showtag = page.tags %}
                   {% for member in showtag %}

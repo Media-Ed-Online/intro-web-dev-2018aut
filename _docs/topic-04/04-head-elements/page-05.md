@@ -2,7 +2,8 @@
 title: Link
 module: topic-04
 permalink: /topic-04/head-link/
-tags: head, html, link
+categories: html
+tags: elements, head, link
 ---
 
 <div class="divider-heading"></div>

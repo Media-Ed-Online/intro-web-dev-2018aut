@@ -3,7 +3,7 @@ title: TODO
 module: topic-01
 todo: <i class="fas fa-check-square" aria-hidden="true"></i>
 permalink: /topic-01/todo-editors/
-tags: uncategorized
+categories: uncategorized
 ---
 
 There are many types of text editors, each optimized for specific types of tasks. Familiarize yourself with the the specifics and differences in the applications you already have on your computer.

@@ -2,7 +2,8 @@
 title: Leaving Messages and Notes
 module: topic-04
 permalink: /topic-04/leaving-messages/
-tags: comment, html, testing
+categories: html
+tags: comment, testing
 ---
 
 <div class="divider-heading"></div>

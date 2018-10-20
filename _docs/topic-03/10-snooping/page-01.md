@@ -2,6 +2,7 @@
 title: Inspection and History
 module: topic-03
 permalink: /topic-03/inspection/
+categories: development
 tags: history, inspect
 ---
 

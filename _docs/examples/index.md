@@ -3,7 +3,8 @@ title: Welcome
 module: examples
 permalink: /examples/home/
 redirect_from: /examples/index.html
-tags: uncategorized
+categories: uncategorized
+tags: 
 ---
 
 ## Getting started

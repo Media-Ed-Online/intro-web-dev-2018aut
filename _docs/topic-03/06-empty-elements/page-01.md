@@ -2,7 +2,8 @@
 title: Only One Tag Required
 module: topic-03
 permalink: /topic-03/empty-elements/
-tags: break, elements, empty, html
+categories: html
+tags: break, elements, empty, image
 ---
 
 <div class="divider-heading"></div>

@@ -2,6 +2,7 @@
 title: From One Page to Another
 module: topic-04
 permalink: /topic-04/page-to-page/
+categories: development
 tags: directory, link, page, relative, url, website
 ---
 

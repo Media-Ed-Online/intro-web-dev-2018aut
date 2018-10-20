@@ -2,7 +2,8 @@
 title: Paragraphs
 module: topic-03
 permalink: /topic-03/paragraphs/
-tags: html, markdown, paragraph
+categories: html
+tags: elements, markdown, paragraphs, tags
 ---
 
 <div class="divider-heading"></div>

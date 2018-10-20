@@ -2,7 +2,8 @@
 title: Line Breaks
 module: topic-03
 permalink: /topic-03/line-breaks/
-tags: break, empty, html
+categories: html
+tags: break, empty
 ---
 
 <div class="divider-heading"></div>
@@ -27,6 +28,6 @@ Separated by a single newline, this is a separate line in the same paragraph.
 ```
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="qXwEbW" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Paragraphs and Line Breaks" class="codepen"></p>
 </div>

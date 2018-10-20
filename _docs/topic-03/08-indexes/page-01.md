@@ -2,6 +2,7 @@
 title: The Index.html
 module: topic-03
 permalink: /topic-03/index-intro/
+categories: development
 tags: directory, index, request, url
 ---
 

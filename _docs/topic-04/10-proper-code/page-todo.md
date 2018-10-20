@@ -3,7 +3,7 @@ title: TODO
 module: topic-04
 todo: <i class="fas fa-check-square" aria-hidden="true"></i>
 permalink: /topic-04/todo-writing-code/
-tags: uncategorized
+categories: uncategorized
 ---
 
 Skim W3School's HTML5 Style Guide for proof that you can have "very bad" code that actually works, but is considered in poor style and just plain _rude._

@@ -2,7 +2,8 @@
 title: Viewport
 module: topic-04
 permalink: /topic-04/head-viewport/
-tags: head, html, viewport, meta
+categories: html
+tags: elements, head, viewport, meta
 ---
 
 <div class="divider-heading"></div>

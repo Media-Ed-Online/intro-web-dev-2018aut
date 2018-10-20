@@ -2,7 +2,8 @@
 title: Themes
 module: examples
 permalink: /examples/themes/
-tags: uncategorized
+categories: uncategorized
+tags: 
 ---
 
 By default, this website uses `paper` theme, but you can change it to another [bootwatch theme](https://bootswatch.com/3/) by setting

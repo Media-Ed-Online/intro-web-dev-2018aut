@@ -2,6 +2,7 @@
 title: Part 3 - Pushing to GitHub.com
 module: topic-03
 permalink: /topic-03/index-part-3/
+categories: development
 tags: app, file, github, guide, push
 ---
 

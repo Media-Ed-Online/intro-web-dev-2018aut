@@ -2,6 +2,7 @@
 title: Part 1 - Creating a New HTML File
 module: topic-03
 permalink: /topic-03/index-part-1/
+categories: development
 tags: file, guide, index, new
 ---
 

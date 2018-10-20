@@ -2,7 +2,8 @@
 title: Definitions
 module: topic-04
 permalink: /topic-04/definitions/
-tags: define, elements, html
+categories: html
+tags: define, elements
 ---
 
 <div class="divider-heading"></div>
@@ -18,7 +19,7 @@ The nearest parent of the `<dfn>` tag must also contain the definition/explanati
 ```
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="VQzrEY" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Semantic HTML, Definition" class="codepen"></p>
 </div>
 

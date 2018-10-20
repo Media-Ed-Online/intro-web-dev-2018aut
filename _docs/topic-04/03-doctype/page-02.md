@@ -2,7 +2,8 @@
 title: In the Past
 module: topic-04
 permalink: /topic-04/doctype-past/
-tags: doctype, history, html
+categories: html
+tags: doctype, history
 ---
 
 <div class="divider-heading"></div>

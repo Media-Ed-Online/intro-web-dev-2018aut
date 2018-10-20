@@ -2,7 +2,8 @@
 title: Nested Lists
 module: topic-04
 permalink: /topic-04/nested-lists/
-tags: html, list, nested, ordered, unordered
+categories: html
+tags: list, nested, ordered, unordered
 ---
 
 <div class="divider-heading"></div>
@@ -26,6 +27,6 @@ You can combine list types as well as use multiple **nested list** elements to c
 ```
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="NyvMRY" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Nested Lists" class="codepen"></p>
 </div>

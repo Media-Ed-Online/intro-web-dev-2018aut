@@ -2,6 +2,7 @@
 title: Word Processor Documents
 module: topic-01
 permalink: /topic-01/word-processors/
+categories: development
 tags: processor, text
 ---
 

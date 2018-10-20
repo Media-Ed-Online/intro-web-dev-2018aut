@@ -2,7 +2,8 @@
 title: Adding Comments
 module: topic-04
 permalink: /topic-04/html-comments/
-tags: comment, html
+categories: html
+tags: comment
 ---
 
 <div class="divider-heading"></div>

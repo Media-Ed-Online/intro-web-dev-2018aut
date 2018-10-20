@@ -2,6 +2,7 @@
 title: Registration
 module: topic-00
 permalink: /topic-00/gh-registration/
+categories: logistics
 tags: github, registration
 ---
 

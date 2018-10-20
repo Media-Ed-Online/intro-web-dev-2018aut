@@ -2,7 +2,8 @@
 title: Web Files
 module: topic-02
 permalink: /topic-02/files/
-tags: common, design, file
+categories: development
+tags: design, file
 ---
 
 <div class="divider-heading"></div>

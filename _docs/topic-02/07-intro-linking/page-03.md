@@ -2,6 +2,7 @@
 title: Deeper-Level Linking
 module: topic-02
 permalink: /topic-02/link-deeper/
+categories: development
 tags: directory, guide, link, path, repository, url
 ---
 

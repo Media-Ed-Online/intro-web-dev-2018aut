@@ -2,7 +2,8 @@
 title: Tags
 module: topic-03
 permalink: /topic-03/html-tags/
-tags: tags, html, markdown, paragraph
+categories: html
+tags: tags, markdown, paragraph
 ---
 
 <div class="divider-heading"></div>

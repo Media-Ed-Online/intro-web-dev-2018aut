@@ -3,7 +3,7 @@ title: TODO
 module: topic-03
 todo: <i class="fas fa-check-square" aria-hidden="true"></i>
 permalink: /topic-03/todo-go-live/
-tags: uncategorized
+categories: uncategorized
 ---
 
 <div class="row text-center">

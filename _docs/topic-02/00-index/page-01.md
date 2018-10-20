@@ -2,7 +2,8 @@
 title: Topic Overview
 module: topic-02
 permalink: /topic-02/overview/
-tags: uncategorized
+categories: uncategorized
+tags: 
 ---
 
 <img src="../img/assignment-02.svg" alt="" title="Assignment 2: My First Repository" class="overview-img" />

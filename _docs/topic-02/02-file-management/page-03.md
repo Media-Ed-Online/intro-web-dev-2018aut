@@ -2,7 +2,8 @@
 title: Best Naming Practices
 module: topic-02
 permalink: /topic-02/naming-practices/
-tags: best&nbsp;practice, design, directory, file, folder, naming
+categories: development
+tags: best-practice, directory, file, folder, naming
 ---
 
 <div class="divider-heading"></div>

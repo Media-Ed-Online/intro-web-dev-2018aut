@@ -2,6 +2,7 @@
 title: Via the Root Directory
 module: topic-03
 permalink: /topic-03/via-root/
+categories: development
 tags: directory, organize, page, root
 ---
 

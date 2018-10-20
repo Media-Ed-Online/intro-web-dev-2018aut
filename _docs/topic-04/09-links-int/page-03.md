@@ -2,6 +2,7 @@
 title: To a Specific Part of the Same Page
 module: topic-04
 permalink: /topic-04/same-page/
+categories: development
 tags: id, link
 ---
 

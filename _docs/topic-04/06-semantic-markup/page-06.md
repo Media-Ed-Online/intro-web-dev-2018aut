@@ -2,7 +2,8 @@
 title: Citations
 module: topic-04
 permalink: /topic-04/citations/
-tags: cite, elements, html
+categories: html
+tags: cite, elements
 ---
 
 <div class="divider-heading"></div>
@@ -18,6 +19,6 @@ The **cite** element (`<cite>...</cite>`) defines the title of a work (e.g. a bo
 ```
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="aqyVbG" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Semantic HTML, Cite" class="codepen"></p>
 </div>

@@ -2,6 +2,7 @@
 title: The Internet of Yesteryear
 module: topic-03
 permalink: /topic-03/wayback/
+categories: development
 tags: browser, history, website
 ---
 

@@ -2,7 +2,8 @@
 title: Part 4 - Creating an index.html
 module: topic-03
 permalink: /topic-03/index-part-4/
-tags: app, file, github, guide, index, html, new
+categories: development
+tags: app, file, github, guide, index, new
 ---
 
 <div class="divider-heading"></div>

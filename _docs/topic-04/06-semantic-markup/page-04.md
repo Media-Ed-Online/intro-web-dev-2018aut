@@ -2,7 +2,8 @@
 title: Quotes and Blockquotes
 module: topic-04
 permalink: /topic-04/quote-blockquote/
-tags: blockquote, elements, html, quote
+categories: html
+tags: blockquote, elements, quote
 ---
 
 <div class="divider-heading"></div>
@@ -25,6 +26,6 @@ The **blockquote** tag specifies a section that is quoted from another source. B
 ```
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="gvxRqL" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Semantic HTML, Quotes and Blockquotes" class="codepen"></p>
 </div>

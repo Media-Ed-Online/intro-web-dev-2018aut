@@ -2,7 +2,8 @@
 title: 4. The Body Element
 module: topic-03
 permalink: /topic-03/body-element/
-tags: document, body, html
+categories: html
+tags: document, body
 ---
 
 <div class="divider-heading"></div>

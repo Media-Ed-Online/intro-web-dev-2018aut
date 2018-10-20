@@ -2,7 +2,8 @@
 title: Title
 module: topic-04
 permalink: /topic-04/head-title/
-tags: head, html, title
+categories: html
+tags: elements, head, title
 ---
 
 <div class="divider-heading"></div>

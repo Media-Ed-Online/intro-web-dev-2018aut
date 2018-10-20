@@ -2,6 +2,7 @@
 title: Moodle
 module: topic-00
 permalink: /topic-00/moodle/
+categories: logistics
 tags: grades, moodle
 ---
 

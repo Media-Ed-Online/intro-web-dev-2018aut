@@ -2,6 +2,7 @@
 title: Snooping on Others
 module: topic-03
 permalink: /topic-03/snooping/
+categories: development
 tags: browser, inspect, view, website
 ---
 

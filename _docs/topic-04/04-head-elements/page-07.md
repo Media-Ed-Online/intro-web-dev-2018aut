@@ -2,7 +2,7 @@
 title: "Review: Head Elements"
 module: topic-04
 permalink: /topic-04/head-review/
-tags: document, head, html, page, structure
+tags: document, elements, head, html, page, structure
 ---
 
 <div class="divider-heading"></div>

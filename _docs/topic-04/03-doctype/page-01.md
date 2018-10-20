@@ -2,7 +2,8 @@
 title: "Review: DOCTYPE"
 module: topic-04
 permalink: /topic-04/doctype/
-tags: doctype, html
+categories: html
+tags: doctype
 ---
 
 <div class="divider-heading"></div>

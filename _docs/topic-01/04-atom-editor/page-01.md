@@ -2,6 +2,7 @@
 title: Atom Text Editor
 module: topic-01
 permalink: /topic-01/atom-intro/
+categories: development
 tags: atom, editor, text
 ---
 

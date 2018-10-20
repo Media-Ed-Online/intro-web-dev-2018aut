@@ -3,7 +3,7 @@ title: TODO
 module: topic-00
 todo: <i class="fas fa-check-square" aria-hidden="true"></i>
 permalink: /topic-00/todo-github/
-tags: uncategorized
+categories: uncategorized
 ---
 
 <div class="row text-center">

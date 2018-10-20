@@ -2,6 +2,7 @@
 title: Services and Technologies
 module: topic-00
 permalink: /topic-00/services/
+categories: logistics
 tags: materials, required
 ---
 

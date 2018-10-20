@@ -2,6 +2,7 @@
 title: Browser Stats
 module: topic-03
 permalink: /topic-03/browser-stats/
+categories: development
 tags: browser, testing
 ---
 

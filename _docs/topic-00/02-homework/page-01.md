@@ -2,6 +2,7 @@
 title: Class Materials
 module: topic-00
 permalink: /topic-00/homework/
+categories: logistics
 tags: homework, required
 ---
 

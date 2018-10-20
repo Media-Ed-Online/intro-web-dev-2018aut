@@ -2,7 +2,8 @@
 title: List Types
 module: topic-04
 permalink: /topic-04/html-lists/
-tags: definition, html, list, ordered, unordered
+categories: html
+tags: definition, list, ordered, unordered
 ---
 
 <div class="divider-heading"></div>

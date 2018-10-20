@@ -2,6 +2,7 @@
 title: Web Browsers
 module: topic-03
 permalink: /topic-03/browser-intro/
+categories: development
 tags: browser, how, internet, web
 ---
 

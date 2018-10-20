@@ -2,7 +2,8 @@
 title: Abbreviations and Acronyms
 module: topic-04
 permalink: /topic-04/abbr-acro/
-tags: abbreviation, acronym, elements, html
+categories: html
+tags: abbreviation, acronym, elements
 ---
 
 <div class="divider-heading"></div>
@@ -22,7 +23,7 @@ Marking up abbreviations can give useful information to browsers, translation sy
 ```
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="WMEEaL" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Semantic HTML, Abbreviations and Acronyms" class="codepen"></p>
 </div>
 

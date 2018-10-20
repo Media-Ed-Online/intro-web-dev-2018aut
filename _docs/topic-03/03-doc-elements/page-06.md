@@ -2,7 +2,8 @@
 title: "Review: The 4 Main Document Elements"
 module: topic-03
 permalink: /topic-03/elements-review/
-tags: document, elements, html, page, structure
+categories: html
+tags: document, elements, page, structure
 ---
 
 <div class="divider-heading"></div>

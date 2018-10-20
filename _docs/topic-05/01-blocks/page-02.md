@@ -3,7 +3,7 @@ title: Identifying with ids
 module: topic-05
 permalink: /topic-05/html-ids/
 categories: html
-tags: attribute, best&nbsp;practice, id, naming
+tags: attribute, best-practice, id, naming
 ---
 
 <div class="divider-heading"></div>

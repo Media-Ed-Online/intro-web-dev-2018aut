@@ -2,7 +2,8 @@
 title: Topic Overview
 module: topic-04
 permalink: /topic-04/overview/
-tags: uncategorized
+categories: uncategorized
+tags:
 ---
 
 <img src="../img/assignment-03.svg" alt="" title="Assignment 3: Markup" class="overview-img" />

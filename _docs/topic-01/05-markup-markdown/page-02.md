@@ -2,6 +2,7 @@
 title: Intro to Markdown
 module: topic-01
 permalink: /topic-01/markdown/
+categories: development
 tags: markdown
 ---
 

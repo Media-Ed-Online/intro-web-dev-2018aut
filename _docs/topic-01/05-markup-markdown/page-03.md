@@ -2,6 +2,7 @@
 title: Text Styles in Word
 module: topic-01
 permalink: /topic-01/styles-word/
+categories: development
 tags: markdown, processor, text
 ---
 

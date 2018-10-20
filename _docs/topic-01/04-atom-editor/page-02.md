@@ -2,6 +2,7 @@
 title: Atom Installation Guide
 module: topic-01
 permalink: /topic-01/atom-base-install/
+categories: development
 tags: atom, guide, install
 ---
 

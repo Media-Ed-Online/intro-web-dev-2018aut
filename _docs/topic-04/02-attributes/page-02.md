@@ -2,7 +2,8 @@
 title: Adding Attributes
 module: topic-04
 permalink: /topic-04/attributes/
-tags: attribute, html, tags
+categories: html
+tags: attribute, paragraphs, tags
 ---
 
 <div class="divider-heading"></div>

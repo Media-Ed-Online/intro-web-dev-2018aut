@@ -2,6 +2,7 @@
 title: Via Referenced Files
 module: topic-03
 permalink: /topic-03/via-refs/
+categories: development
 tags: directory, organize, page, child
 ---
 

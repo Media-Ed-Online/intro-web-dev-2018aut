@@ -2,7 +2,8 @@
 title: 3. Indented Elements
 module: topic-04
 permalink: /topic-04/indentation/
-tags: best&nbsp;practice, code, elements, indent
+categories: development
+tags: best-practice, code, elements, indent
 ---
 
 <div class="divider-heading"></div>
@@ -43,6 +44,6 @@ Indentation doesn't effect how the page renders, but makes a **huge** difference
 Here's an example with nested lists:
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="ZXbPar" data-default-tab="html" data-user="Media-Ed-Online" data-pen-title="HTML Nested Lists 2" class="codepen"></p>
 </div>

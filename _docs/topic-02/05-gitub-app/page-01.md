@@ -2,6 +2,7 @@
 title: GitHub Desktop Application
 module: topic-02
 permalink: /topic-02/github-desktop-intro/
+categories: development
 tags: app, github
 ---
 

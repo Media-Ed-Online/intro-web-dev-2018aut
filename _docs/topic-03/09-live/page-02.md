@@ -2,6 +2,7 @@
 title: Creating a Website with GitHub Pages
 module: topic-03
 permalink: /topic-03/gh-pages/
+categories: development
 tags: github, hosting
 ---
 

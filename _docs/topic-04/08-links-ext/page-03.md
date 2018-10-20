@@ -2,7 +2,8 @@
 title: Setting the Target
 module: topic-04
 permalink: /topic-04/new-window/
-tags: elements, html, link, target
+categories: html
+tags: elements, link, target
 ---
 
 <div class="divider-heading"></div>
@@ -22,6 +23,6 @@ Other values include:
 ```
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="yzbMvB" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Links (With Target)" class="codepen"></p>
 </div>

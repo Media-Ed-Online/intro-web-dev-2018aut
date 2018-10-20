@@ -2,6 +2,7 @@
 title: Text Documents
 module: topic-01
 permalink: /topic-01/text-docs/
+categories: development
 tags: document, text
 ---
 

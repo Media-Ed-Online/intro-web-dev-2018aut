@@ -2,7 +2,8 @@
 title: Trial Tree View
 module: examples
 permalink: /examples/trial-tree-view/
-tags: uncategorized
+categories: uncategorized
+tags: 
 ---
 
 <div id="code-heading">Directory Tree</div>

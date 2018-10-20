@@ -2,6 +2,7 @@
 title: Creating a New README File
 module: topic-01
 permalink: /topic-01/create-readme/
+categories: development
 tags: guide, how, readme
 ---
 

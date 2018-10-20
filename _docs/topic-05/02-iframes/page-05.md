@@ -16,11 +16,10 @@ A full image element is a combination of resource location, alternative text, ti
 <iframe src="#" width="" height=""></iframe>
 
 <!-- For example: -->
-<iframe src="https://www.w3schools.com/html/html_iframe.asp" width="300" height="200"></iframe>
+<iframe src="./pages/iframe-example.html" width="400" height="300"></iframe>
 ```
 
 
-<p class="intro">An iframe is used to display a web page within a web page.</p>
-<div style="width:100%;height:310px;overflow:hidden;">
-<iframe src="https://www.w3schools.com/html/default.asp" height="310px" width="99%"></iframe>
+<div class="external-embed" style="width: 400px; height: 300px;">
+  <iframe src="../files/iframe-ex.html" width="100%" height="100%"></iframe>
 </div>

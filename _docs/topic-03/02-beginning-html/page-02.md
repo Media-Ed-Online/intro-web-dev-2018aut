@@ -2,6 +2,7 @@
 title: Processing and the DOM
 module: topic-03
 permalink: /topic-03/dom/
+categories: development
 tags: dom, processor
 ---
 

@@ -2,6 +2,7 @@
 title: Brief History of Browsers
 module: topic-03
 permalink: /topic-03/browser-history/
+categories: development
 tags: browser, history
 ---
 

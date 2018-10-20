@@ -2,7 +2,8 @@
 title: Improving Document Structure
 module: topic-04
 permalink: /topic-04/structure-review/
-tags: attribute, document, html, page, structure
+categories: html
+tags: attribute, document, page, structure
 ---
 
 <div class="divider-heading"></div>

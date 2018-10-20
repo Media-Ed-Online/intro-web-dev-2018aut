@@ -2,7 +2,8 @@
 title: Namining IDs
 module: topic-04
 permalink: /topic-04/naming-ids/
-tags: best&nbsp;practice, design, id, naming
+categories: development
+tags: best-practice, design, id, naming
 ---
 
 <div class="divider-heading"></div>

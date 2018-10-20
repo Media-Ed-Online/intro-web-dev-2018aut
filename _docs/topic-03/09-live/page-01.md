@@ -2,6 +2,7 @@
 title: Showing the World
 module: topic-03
 permalink: /topic-03/server-space/
+categories: development
 tags: github, hosting
 ---
 

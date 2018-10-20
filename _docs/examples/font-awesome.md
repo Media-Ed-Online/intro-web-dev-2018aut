@@ -2,7 +2,8 @@
 title: Font Awesome Icon List
 module: examples
 permalink: /examples/font-awesome/
-tags: uncategorized
+categories: uncategorized
+tags: 
 ---
 
 

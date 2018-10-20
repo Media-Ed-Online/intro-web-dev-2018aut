@@ -2,7 +2,8 @@
 title: Nobody Likes Rude Code
 module: topic-04
 permalink: /topic-04/writing-code/
-tags: best&nbsp;practice, code
+categories: development
+tags: best-practice, code
 ---
 
 <div class="divider-heading"></div>

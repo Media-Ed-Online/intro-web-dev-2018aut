@@ -2,7 +2,8 @@
 title: Part 2 - Adding Elements
 module: topic-03
 permalink: /topic-03/index-part-2/
-tags: elements, guide, html
+categories: development
+tags: elements, guide
 ---
 
 <div class="divider-heading"></div>

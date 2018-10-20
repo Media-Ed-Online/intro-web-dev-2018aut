@@ -2,7 +2,8 @@
 title: Headings
 module: topic-03
 permalink: /topic-03/headings/
-tags: heading, html
+categories: html
+tags: elements, headings, tags
 ---
 
 <div class="divider-heading"></div>

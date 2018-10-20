@@ -2,6 +2,7 @@
 title: Infrastructure
 module: topic-02
 permalink: /topic-02/infrastructure/
+categories: development
 tags: internet, routing, wifi
 ---
 

@@ -2,6 +2,7 @@
 title: Atom Themes and Packages
 module: topic-01
 permalink: /topic-01/atom-optional-install/
+categories: development
 tags: atom, guide, install, package, theme
 ---
 

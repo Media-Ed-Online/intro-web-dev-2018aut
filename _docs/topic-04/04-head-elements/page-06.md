@@ -2,7 +2,8 @@
 title: Style
 module: topic-04
 permalink: /topic-04/head-style/
-tags: head, html, style
+categories: html
+tags: elements, head, style
 ---
 
 <div class="divider-heading"></div>

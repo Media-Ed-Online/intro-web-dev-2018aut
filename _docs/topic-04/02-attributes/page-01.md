@@ -2,7 +2,8 @@
 title: "Review: HTML Elements and Tags"
 module: topic-04
 permalink: /topic-04/html-review/
-tags: elements, html, tags
+categories: html
+tags: elements, tags
 ---
 
 <div class="divider-heading"></div>

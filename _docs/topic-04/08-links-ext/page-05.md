@@ -2,7 +2,8 @@
 title: E-mail Links
 module: topic-04
 permalink: /topic-04/email-links/
-tags: elements, email, html, link
+categories: html
+tags: elements, email, link
 ---
 
 <div class="divider-heading"></div>
@@ -19,7 +20,7 @@ A very common type of hyperlinking is to create an **e-mail link** within a page
 So, to create a hyperlink that e-mails me:
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="gGWQZm" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Intro-Web-Dev] Topic-05: Links Pt. 4" class="codepen"></p>
 </div>
 

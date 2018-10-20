@@ -2,7 +2,8 @@
 title: 2. Properly Nested Tags
 module: topic-04
 permalink: /topic-04/burrito-tags/
-tags: code, elements, best&nbsp;practice
+categories: development
+tags: code, elements, best-practice
 ---
 
 <div class="divider-heading"></div>

@@ -2,6 +2,7 @@
 title: Using GitHub
 module: topic-00
 permalink: /topic-00/gh-overview/
+categories: logistics
 tags: github, hosting, issues, wiki
 ---
 

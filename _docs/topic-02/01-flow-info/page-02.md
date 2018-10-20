@@ -2,6 +2,7 @@
 title: Internet Protocols
 module: topic-02
 permalink: /topic-02/protocols/
+categories: development
 tags: dns, internet, ip, protocol
 ---
 

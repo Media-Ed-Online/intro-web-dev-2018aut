@@ -2,6 +2,7 @@
 title: Plain-Text Files
 module: topic-01
 permalink: /topic-01/plain-text/
+categories: development
 tags: file, text
 ---
 

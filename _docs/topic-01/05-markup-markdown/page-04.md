@@ -2,6 +2,7 @@
 title: Text Styles in Markdown
 module: topic-01
 permalink: /topic-01/styles-markdown/
+categories: development
 tags: codepen, markdown
 ---
 
@@ -10,7 +11,7 @@ tags: codepen, markdown
 Alternatively, we can do these styles with markdown universally across text file-types.
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="yowroQ" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Markdown Cheatsheet" class="codepen"></p>
 </div>
 

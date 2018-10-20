@@ -2,7 +2,8 @@
 title: Topic Overview
 module: topic-01
 permalink: /topic-01/overview/
-tags: uncategorized
+categories: uncategorized
+tags:
 ---
 
 <img src="../img/assignment-01.svg" alt="" title="Assignment 1: My First README" class="overview-img" />

@@ -2,6 +2,7 @@
 title: Internal Linking
 module: topic-02
 permalink: /topic-02/link-internal/
+categories: development
 tags: directory, link, relative, repository, url
 ---
 

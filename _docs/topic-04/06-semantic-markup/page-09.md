@@ -2,7 +2,8 @@
 title: Insert and Delete
 module: topic-04
 permalink: /topic-04/ins-del/
-tags: delete, elements, html, insert
+categories: html
+tags: delete, elements, insert
 ---
 
 <div class="divider-heading"></div>
@@ -18,6 +19,6 @@ Use `<del>` and `<ins>` to markup updates and modifications in a document. Brows
 ```
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="JpyMzb" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Semantic HTML, Insert and Delete" class="codepen"></p>
 </div>

@@ -2,7 +2,8 @@
 title: Italic and Emphasis
 module: topic-04
 permalink: /topic-04/italic-emphasis/
-tags: elements, emphasis, html, italics
+categories: html
+tags: elements, emphasis, italics
 ---
 
 <div class="divider-heading"></div>
@@ -20,6 +21,6 @@ As with bold/strong, italicized text does not necessarily imply semantically dif
 ```
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="zEveXE" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Topic-04: Semantic HTML Pt. 2" class="codepen"></p>
 </div>

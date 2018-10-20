@@ -1,8 +1,9 @@
 ---
-title: Bootstrap Features
+title: "Bootstrap Features"
 module: examples
 permalink: /examples/bootstrap/
-tags: uncategorized
+categories: uncategorized
+tags: 
 ---
 
 ## Buttons

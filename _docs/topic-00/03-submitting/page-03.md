@@ -2,6 +2,7 @@
 title: Posting Issues
 module: topic-00
 permalink: /topic-00/gh-issues/
+categories: logistics
 tags: github, help, issues
 ---
 

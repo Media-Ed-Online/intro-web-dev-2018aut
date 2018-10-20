@@ -2,7 +2,8 @@
 title: HyperText Markup Language
 module: topic-03
 permalink: /topic-03/html-intro/
-tags: html, markup
+categories: html
+tags: markup
 ---
 
 <div class="divider-heading"></div>

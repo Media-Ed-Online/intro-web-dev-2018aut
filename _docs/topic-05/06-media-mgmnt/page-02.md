@@ -2,7 +2,7 @@
 title: Saving for Web
 module: topic-05
 permalink: /topic-05/img-save/
-tags: best&nbsp;practice, design, file, image, web
+tags: best-practice, design, file, image, web
 ---
 
 <div class="divider-heading"></div>
