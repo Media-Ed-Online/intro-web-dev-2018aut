@@ -3,7 +3,7 @@ title: Extra Markup
 module: topic-05
 permalink: /topic-05/extra-markup/
 categories: html
-tags: markup, page, structure, naming
+tags: elements, markup, page, structure, naming
 ---
 
 <div class="divider-heading"></div>
