@@ -2,7 +2,7 @@
 title: TODO
 module: topic-05
 todo: <i class="fas fa-check-square" aria-hidden="true"></i>
-permalink: /topic-05/todo-img-int/
+permalink: /topic-05/todo-img/
 tags: uncategorized
 ---
 

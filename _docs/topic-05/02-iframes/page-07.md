@@ -1,5 +1,5 @@
 ---
-title: Maps in the &lt;iframe&gt; Element
+title: Maps in the iframe Element
 module: topic-05
 permalink: /topic-05/iframe-element-maps/
 tags: elements, html, iframe, website

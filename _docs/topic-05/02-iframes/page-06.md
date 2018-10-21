@@ -1,5 +1,5 @@
 ---
-title: Websites in the &lt;iframe&gt; Element
+title: Websites in the iframe Element
 module: topic-05
 permalink: /topic-05/iframe-element-websites/
 tags: elements, html, iframe, website

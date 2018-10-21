@@ -1,5 +1,5 @@
 ---
-title: Media in the &lt;iframe&gt; Element
+title: Media in the iframe Element
 module: topic-05
 permalink: /topic-05/iframe-element-media/
 tags: elements, html, iframe, media
