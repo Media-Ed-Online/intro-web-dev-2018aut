@@ -2,14 +2,15 @@
 title: Websites in the iframe Element
 module: topic-05
 permalink: /topic-05/iframe-element-websites/
-tags: elements, html, iframe, website
+categories: html
+tags: elements, iframe, website
 ---
 
 <div class="divider-heading"></div>
 
 Some websites allow their pages to be loaded on other sites using iframes.
 
-Let's see how our own site looks in an iframe. You should see the “mobile version,” or a compressed view optimized for smaller portals.
+Let's see how our own site looks in an iframe. You should see the “mobile view,” or a compressed view optimized for smaller portals.
 
 
 <div id="code-heading">HTML</div>
@@ -30,4 +31,4 @@ Let's see how our own site looks in an iframe. You should see the “mobile vers
 ## How-To:
 To embed an external site to your page, simply build the `<iframe>` element, and include the site's absolute URL.
 
-<span class="label label-danger">Important</span> For a variety of reasons, not all sites will work in an iframe. Including a hyperlink to the site below the iframe is a good idea. You can test a site using an [iframe checker](http://www.tinywebgallery.com/blog/advanced-iframe/free-iframe-checker).
+<span class="label label-danger">Important</span> For a variety of reasons, not all sites will work in an iframe. Including a hyperlink to the site below the iframe is a good idea. You can test a site using an <a href="http://www.tinywebgallery.com/blog/advanced-iframe/free-iframe-checker" target="_blank">iframe checker</a>.

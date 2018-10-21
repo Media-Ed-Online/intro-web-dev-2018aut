@@ -1,5 +1,5 @@
 ---
-title: "Review: The 4 Main Document Elements"
+title: Review&#58; The 4 Main Document Elements
 module: topic-03
 permalink: /topic-03/elements-review/
 categories: html

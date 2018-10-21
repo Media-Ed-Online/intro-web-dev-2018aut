@@ -1,9 +1,9 @@
 ---
-title: "The 4-Part Iframe Element"
+title: The 4-Part Iframe Element
 module: topic-05
 permalink: /topic-05/iframe-parts/
 categories: html
-tags: elements, html, iframe
+tags: elements, iframe
 ---
 
 <div class="divider-heading"></div>

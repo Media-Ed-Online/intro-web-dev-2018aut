@@ -2,7 +2,8 @@
 title: Maps in the iframe Element
 module: topic-05
 permalink: /topic-05/iframe-element-maps/
-tags: elements, html, iframe, website
+categories: html
+tags: elements, iframe, website
 ---
 
 <div class="divider-heading"></div>

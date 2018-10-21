@@ -1,8 +1,9 @@
 ---
-title: "Review: The Iframe Element"
+title: Review&#58; The Iframe Element
 module: topic-05
 permalink: /topic-05/iframe-review/
-tags: elements, html, iframe
+categories: html
+tags: elements, iframe
 ---
 
 <div class="divider-heading"></div>

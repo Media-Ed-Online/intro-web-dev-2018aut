@@ -3,7 +3,7 @@ title: 1. The &lt;iframe&gt; Tags
 module: topic-05
 permalink: /topic-05/iframe-tags/
 categories: html
-tags: html, iframe, tags
+tags: iframe, tags
 ---
 
 <div class="divider-heading"></div>
@@ -11,7 +11,7 @@ tags: html, iframe, tags
 
 <div id="code-heading">Element Breakdown <i class="fas fa-battery-empty"></i></div>
 <pre id="breakdown-block">
-<span class="pulsate"><iframe</span> src="#" width="" height=""><span class="pulsate"></iframe></span>
+<span class="pulsate"><iframe</span> src="#" width="" height=""<span class="pulsate">></span><span class="pulsate"></iframe></span>
 </pre>
 
 

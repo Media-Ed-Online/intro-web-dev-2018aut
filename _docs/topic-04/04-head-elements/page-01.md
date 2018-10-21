@@ -1,5 +1,5 @@
 ---
-title: "Review: The Head"
+title: Review&#58; The Head
 module: topic-04
 permalink: /topic-04/head-elements/
 categories: html

@@ -1,5 +1,5 @@
 ---
-title: "Review: DOCTYPE"
+title: Review&#58; DOCTYPE
 module: topic-04
 permalink: /topic-04/doctype/
 categories: html
