@@ -502,8 +502,8 @@ pre {
 
 // CODEPEN
 .external-embed {
-  margin-top: ($line-height-computed * 1.75);
-  margin-bottom: ($line-height-computed * 1.75);
+  margin-top: ($line-height-computed * 1.75) !important;
+  margin-bottom: ($line-height-computed * 1.75) !important;
   margin: auto;
 }
 
