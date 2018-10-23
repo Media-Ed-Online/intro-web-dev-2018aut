@@ -356,28 +356,28 @@ topic-05:
   - title: The Meta Element
     docs:
     - meta-about
-    - meta-names
     - meta-charset
     - meta-desc
-    - meta-auth
+    - meta-author
     - meta-keywords
-    - meta-robots
-    - meta-view
+    - meta-viewport
+    - meta-review
     - todo-meta
 
   - title: Escape Characters
     docs:
     - esc-about
-    - esc-codes
     - esc-names
+    - esc-codes
     - esc-common
     - todo-esc
 
   - title: Media Management
     docs:
     - media-about
-    - media-storage
+    -
     - img-save
+    - media-src-img
     - media-src-video
     - media-src-audio
     - media-embedding
@@ -395,34 +395,32 @@ topic-05:
     - img-title
     - img-size
     - img-element-review
+    - img-support
     - todo-img
 
   - title: Video
     docs:
-    - video-HTML5
+    - video-hosting
+    - video-parts
     - video-tags
     - video-src
     - video-poster
     - video-size
     - video-other-att
+    - video-element-review
     - video-formats
-    - video-multi-tag
-    - video-multi-src
-    - video-multi-type
-    - video-element
-    - video-hosting
     - todo-video
 
 
   - title: Audio
     docs:
-    - audio-HTML5
+    - audio-hosting
+    - audio-parts
     - audio-tags
     - audio-src
     - audio-other-att
     - audio-formats
     - audio-multi-tag
     - audio-multi-src
-    - audio-element
-    - audio-hosting
+    - audio-element-review
     - todo-audio

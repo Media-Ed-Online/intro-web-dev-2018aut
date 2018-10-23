@@ -1,21 +1,20 @@
 ---
-title: 4. Title
+title: 5. Width and Height
 module: topic-05
-permalink: /topic-05/img-title/
-tags: attribute, image, title
+permalink: /topic-05/img-size/
+categories: html
+tags: attribute, image, size
 ---
 
 <div class="divider-heading"></div>
 
 
-<div id="code-heading">Element Breakdown <i class="fas fa-battery-three-quarters"></i></div>
+<div id="code-heading">Element Breakdown <i class="fas fa-battery-full"></i></div>
 <pre id="breakdown-block">
-<img src="#" alt="" <span class="pulsate">title=""</span> width="" height="" />
+<img src="#" alt="" title="" <span class="pulsate">width="" height=""</span> />
 </pre>
 
 
-As with the alt text attribute, you should also get in the habit of always including a **title attribute**, which is `title=""`. Most browsers will display this text as a tooltip when a user hovers their mouse over am image with the included attribute.
+Another set of attributes you should add every time is `width=""` & `height=""`. The values passed to these attributes are a string with an integer, representing the **width and height** that the image is to be displayed at.
 
-<span class="label label-success">Neat-O</span> The alt and/or title attributes will also be used by some browsers in the case where the image itself cannot load.
-
-<img src="" alt="You are seeing the alternative text of this image. Hover your cursor over this broken image to see its title popup." title="I am the title!" style="width: 300px; height: 150px; border: 1px solid #AEA79F"/>
+In most situations, _the width and height of the image file should be the same width and height that you enter as attributes_ and want used in your web page. In the case that these differ, these attributes will scale the image file to the specified size passed to the attributes.

@@ -29,6 +29,7 @@ The **span element** is the inline equivalent of the `<div>` element.
 ```html
 <p>Use <span>the span attribute</span> within block-level elements, like paragraphs.</p>
 
+
 <!-- For example... -->
 <div id="long-blue" class="long-block">
   <p>

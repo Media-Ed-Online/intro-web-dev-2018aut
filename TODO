@@ -20,6 +20,7 @@ Tags Utilized:
   - app
   - atom
   - attribute
+  - audio
   - author
   - autofocus
   - best-practice
@@ -34,6 +35,7 @@ Tags Utilized:
   - cite
   - class
   - code
+  - codec
   - codepen
   - column
   - comment
@@ -54,9 +56,11 @@ Tags Utilized:
   - email
   - emphasis
   - empty
+  - escape
   - file
   - folder
   - form
+  - format
   - fun
   - get
   - git
@@ -88,6 +92,7 @@ Tags Utilized:
   - italics
   - link
   - list
+  - keyword
   - markdown
   - markup
   - materials
@@ -136,6 +141,7 @@ Tags Utilized:
   - subscript
   - superscript
   - submit
+  - support
   - tags
   - table
   - target
@@ -151,6 +157,7 @@ Tags Utilized:
   - value
   - version
   - vcs
+  - video
   - view
   - viewport
   - web

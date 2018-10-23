@@ -1,0 +1,50 @@
+---
+title: The 5-Part Video Element
+module: topic-05
+permalink: /topic-05/video-parts/
+categories: html
+tags: elements, video
+---
+
+<div class="divider-heading"></div>
+
+If you have your own video files, the **video element** allows you to add a functioning player to your website.
+
+The 5 attributes the video element should include are:
+
+1. The tags themselves.
+2. The source attribute.
+3. A video poster.
+4. Width and height values.
+5. Other attributes which define how users can interact with the media.
+
+<span class="label label-info">Note</span> As there are two ways to approach this, the following pages with showcase both:
+
+## Single Soure
+Use this version if you only have _one version_ of the video file, like an MP4.
+<div class="container-row">
+  <img src="../img/web-av-mp4.svg" title="MP4" alt="mp4 icon" width="100"/>
+  <p style="margin-top: -10px; text-align: center; font-weight: bold;">movie.mp4</p>
+</div>
+
+
+<div class="divider-pg"></div>
+
+
+## Multiple-Source
+Use this version if you have _multiple versions_ of the video file, like MP4, MOV, WebM, etc.
+
+<div class="container-row">
+  <div class="col-sm-4">
+    <img src="../img/web-av-mp4.svg" title="MP4" alt="mp4 icon" width="100"/>
+    <p style="margin-top: -10px; text-align: center; font-weight: bold;">movie.mp4</p>
+  </div>
+  <div class="col-sm-4">
+    <img src="../img/web-av-webm.svg" title="WebM" alt="webm icon" width="100"/>
+    <p style="margin-top: -10px; text-align: center; font-weight: bold;">movie.webm</p>
+  </div>
+  <div class="col-sm-4">
+    <img src="../img/web-av-ogv.svg" title="OGV" alt="ogv icon" width="100"/>
+    <p style="margin-top: -10px; text-align: center; font-weight: bold;">movie.ogv</p>
+  </div>
+</div>

@@ -1,5 +1,5 @@
 ---
-title: Images in HTML
+title: Adding Images in HTML
 module: topic-05
 permalink: /topic-05/img-about/
 categories: html

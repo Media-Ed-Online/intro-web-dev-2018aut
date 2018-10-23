@@ -1,19 +1,21 @@
 ---
-title: 1. The &lt;img&gt; Tag
+title: 2. Source
 module: topic-05
-permalink: /topic-05/img-tag/
-tags: html, image, tags
+permalink: /topic-05/img-src/
+categories: html
+tags: attribute, image, required, src
 ---
 
 <div class="divider-heading"></div>
 
 
-<div id="code-heading">Element Breakdown <i class="fas fa-battery-empty"></i></div>
+<div id="code-heading">Element Breakdown <i class="fas fa-battery-quarter"></i></div>
 <pre id="breakdown-block">
-<span class="pulsate"><img</span> src="#" alt="" title="" width="" height="" <span class="pulsate">/></span>
+<img <span class="pulsate">src="#"</span> alt="" title="" width="" height="" />
 </pre>
 
 
-As with the break (`<br />`) and horizontal ruler (`<hr />`) elements, the image element is an _empty element_ that only requires a single tag. This tag is the **image tag**, `<img />`.
 
-As with hyperlinks, this element is reliant on _attributes_ within the tag to allow it to be useful. Visit the next pages to learn these attributes.
+The first attribute that we will need to consider is `src=""`. Within the double quotes you will need to include a **URL source** to the location of the desired image.
+
+This will typically be a **relative URL** to a file stored on the same server as the web page, but can also be an **absolute URL** to an image anywhere on the Internet.
