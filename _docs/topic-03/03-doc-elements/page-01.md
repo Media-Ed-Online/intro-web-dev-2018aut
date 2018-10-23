@@ -1,7 +1,7 @@
 ---
 title: The 4 Main Document Elements
 module: topic-03
-permalink: /topic-03/elements-intro/
+permalink: /topic-03/doc-elements-intro/
 categories: html
 tags: document, elements, structure
 ---

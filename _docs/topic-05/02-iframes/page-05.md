@@ -1,7 +1,7 @@
 ---
 title: Review&#58; The Iframe Element
 module: topic-05
-permalink: /topic-05/iframe-review/
+permalink: /topic-05/iframe-element-review/
 categories: html
 tags: elements, iframe
 ---

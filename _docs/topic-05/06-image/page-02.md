@@ -1,7 +1,7 @@
 ---
 title: The 5-Part Image Element
 module: topic-05
-permalink: /topic-05/img-parts/
+permalink: /topic-05/img-element-intro/
 categories: html
 tags: elements, image
 ---

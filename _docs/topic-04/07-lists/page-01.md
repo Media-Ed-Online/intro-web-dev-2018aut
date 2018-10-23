@@ -10,7 +10,7 @@ tags: definition, list, ordered, unordered
 
 Lists are a typical part of structured documents. Lists can be used to convey information like sets of instructions, elements in a set, definitions, and outlines.
 
-The three types of lists structed in HTML are:
+The three types of lists structured in HTML are:
 
 
 <table style="width: 75%; margin: auto;">

@@ -1,5 +1,5 @@
 ---
-title: Media in the iframe Element
+title: Media in the Iframe Element
 module: topic-05
 permalink: /topic-05/iframe-element-media/
 categories: html

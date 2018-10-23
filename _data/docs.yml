@@ -169,19 +169,19 @@ topic-03:
 
   - title: Document Elements
     docs:
-    - elements-intro
+    - doc-elements-intro
     - doctype
     - root-element
     - head-element
     - body-element
-    - elements-review
+    - doc-elements-review
     - todo-elements
 
   - title: Headings
     docs:
     - headings
     - using-headings
-    - todo-headings-intro
+    - todo-headings
 
   - title: Paragraphs
     docs:
@@ -189,7 +189,7 @@ topic-03:
     - basic-paragraphs
     - breaks-paragraphs
     - preformatted-paragraphs
-    - todo-paragraphs-intro
+    - todo-paragraphs
 
   - title: Empty Elements
     docs:
@@ -260,13 +260,13 @@ topic-04:
 
   - title: Head Elements
     docs:
-    - head-elements
+    - head-elements-intro
     - head-meta
     - head-viewport
     - head-title
     - head-link
     - head-style
-    - head-review
+    - head-elements-review
     - todo-head
 
   - title: Body Elements
@@ -301,7 +301,7 @@ topic-04:
 
   - title: External Hyperlinks
     docs:
-    - intro-ex-links
+    - ex-links-intro
     - href
     - new-window
     - links-to-others
@@ -310,7 +310,7 @@ topic-04:
 
   - title: Internal Hyperlinks
     docs:
-    - intro-int-links
+    - int-links-intro
     - page-to-page
     - same-page
     - naming-ids
@@ -343,11 +343,11 @@ topic-05:
 
   - title: Iframes
     docs:
-    - iframe-parts
+    - iframe-element-intro
     - iframe-tags
     - iframe-src
     - iframe-size
-    - iframe-review
+    - iframe-element-review
     - iframe-element-websites
     - iframe-element-maps
     - iframe-element-media
@@ -361,7 +361,7 @@ topic-05:
     - meta-author
     - meta-keywords
     - meta-viewport
-    - meta-review
+    - meta-element-review
     - todo-meta
 
   - title: Escape Characters
@@ -388,7 +388,7 @@ topic-05:
   - title: Images
     docs:
     - img-about
-    - img-parts
+    - img-element-intro
     - img-tag
     - img-src
     - img-alt
@@ -401,7 +401,7 @@ topic-05:
   - title: Video
     docs:
     - video-hosting
-    - video-parts
+    - video-element-intro
     - video-tags
     - video-src
     - video-poster
@@ -415,12 +415,10 @@ topic-05:
   - title: Audio
     docs:
     - audio-hosting
-    - audio-parts
+    - audio-element-intro
     - audio-tags
     - audio-src
     - audio-other-att
-    - audio-formats
-    - audio-multi-tag
-    - audio-multi-src
     - audio-element-review
+    - audio-formats
     - todo-audio

@@ -1,7 +1,7 @@
 ---
 title: Hyperlinks and Hypertext
 module: topic-04
-permalink: /topic-04/intro-ex-links/
+permalink: /topic-04/ex-links-intro/
 categories: html
 tags: design, hyper, link, text
 ---

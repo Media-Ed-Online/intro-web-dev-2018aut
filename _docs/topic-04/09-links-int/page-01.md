@@ -1,7 +1,7 @@
 ---
 title: Linking Internally in the Site
 module: topic-04
-permalink: /topic-04/intro-int-links/
+permalink: /topic-04/int-links-intro/
 categories: development
 tags: relative, link, url
 ---

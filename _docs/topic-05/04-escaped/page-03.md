@@ -8,11 +8,9 @@ tags: code, escape, text
 
 <div class="divider-heading"></div>
 
-**Escape codes** always start with an ampersand (`&`) character followed by the individual code and finished with a semicolon (`;`).
+**Escape codes** always start with an ampersand (`&`) character, the number sign (`#`) with individual code, and finish with a semicolon (`;`).
 
-All characters have a numerical, [decimal-based](https://www.w3schools.com/charsets/ref_utf_basic_latin.asp) (in addition to hexadecimal), value. In HTML, prepend decimal this value with the ampersand identifier as well as a number sign (`&#`).
-
-Using escape character codes in HTML text is straightforward. Simply replace the character you want with its escape code equivalent in the text.
+All characters have a numerical, [decimal-based](https://www.w3schools.com/charsets/ref_utf_basic_latin.asp) (in addition to hexadecimal), value. Using escape character codes in HTML text is straightforward. Simply replace the character you want with its decimal-value equivalent in the text.
 
 For example, we could write the word “CAT” by wrapping the individual letters' decimal values (67, 65, and 84) in the escape code values:
 

@@ -1,7 +1,7 @@
 ---
 title: The 5-Part Video Element
 module: topic-05
-permalink: /topic-05/video-parts/
+permalink: /topic-05/video-element-intro/
 categories: html
 tags: elements, video
 ---
@@ -20,10 +20,12 @@ The 5 attributes the video element should include are:
 
 <span class="label label-info">Note</span> As there are two ways to approach this, the following pages with showcase both:
 
-## Single Soure
-Use this version if you only have _one version_ of the video file, like an MP4.
+## Single-Source
+Use this set-up if you only have _one version_ of the video file, like an MP4.
+
+
 <div class="container-row">
-  <img src="../img/web-av-mp4.svg" title="MP4" alt="mp4 icon" width="100"/>
+  <img src="../img/web-video-mp4.svg" title="MP4" alt="mp4 icon" width="100"/>
   <p style="margin-top: -10px; text-align: center; font-weight: bold;">movie.mp4</p>
 </div>
 
@@ -32,19 +34,20 @@ Use this version if you only have _one version_ of the video file, like an MP4.
 
 
 ## Multiple-Source
-Use this version if you have _multiple versions_ of the video file, like MP4, MOV, WebM, etc.
+Use this set-up if you have _multiple versions_ of the video file, like MP4, WebM, OGG, etc.
+
 
 <div class="container-row">
   <div class="col-sm-4">
-    <img src="../img/web-av-mp4.svg" title="MP4" alt="mp4 icon" width="100"/>
+    <img src="../img/web-video-mp4.svg" title="MP4" alt="mp4 icon" width="100"/>
     <p style="margin-top: -10px; text-align: center; font-weight: bold;">movie.mp4</p>
   </div>
   <div class="col-sm-4">
-    <img src="../img/web-av-webm.svg" title="WebM" alt="webm icon" width="100"/>
+    <img src="../img/web-video-webm.svg" title="WebM" alt="webm icon" width="100"/>
     <p style="margin-top: -10px; text-align: center; font-weight: bold;">movie.webm</p>
   </div>
   <div class="col-sm-4">
-    <img src="../img/web-av-ogv.svg" title="OGV" alt="ogv icon" width="100"/>
-    <p style="margin-top: -10px; text-align: center; font-weight: bold;">movie.ogv</p>
+    <img src="../img/web-video-ogg.svg" title="OGG" alt="ogg icon" width="100"/>
+    <p style="margin-top: -10px; text-align: center; font-weight: bold;">movie.ogg</p>
   </div>
 </div>

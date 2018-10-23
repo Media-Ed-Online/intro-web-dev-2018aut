@@ -1,7 +1,7 @@
 ---
 title: Review&#58; Head Elements
 module: topic-04
-permalink: /topic-04/head-review/
+permalink: /topic-04/head-elements-review/
 categories: html
 tags: document, elements, head, page, structure
 ---

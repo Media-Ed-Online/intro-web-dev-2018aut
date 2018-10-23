@@ -1,7 +1,7 @@
 ---
 title: The 4-Part Iframe Element
 module: topic-05
-permalink: /topic-05/iframe-parts/
+permalink: /topic-05/iframe-element-intro/
 categories: html
 tags: elements, iframe
 ---

@@ -1,7 +1,7 @@
 ---
 title: Review&#58; Meta Elements
 module: topic-05
-permalink: /topic-05/meta-review/
+permalink: /topic-05/meta-element-review/
 categories: html
 tags: document, elements, head, meta, page, structure
 ---
