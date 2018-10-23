@@ -49,7 +49,7 @@ Each “list item” must be surrounded by the list item tags. ( `<li>...</li>` 
   <li>List Item</li>
   <li>List Item</li>
   <li>Etc...</li>
-<ol>
+</ol>
 ```
 
 

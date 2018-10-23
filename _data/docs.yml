@@ -375,14 +375,12 @@ topic-05:
   - title: Media Management
     docs:
     - media-about
-    -
-    - img-save
     - media-src-img
     - media-src-video
     - media-src-audio
-    - media-embedding
+    - media-optomizing
+    - media-storage
     - media-hosting
-    - media-decisions
     - todo-media-mgmnt
 
   - title: Images

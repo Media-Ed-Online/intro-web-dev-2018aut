@@ -50,7 +50,7 @@ As with the ordered list, each list item is contained within a list item element
   <li>List Item</li>
   <li>List Item</li>
   <li>Etc...</li>
-<ul>
+</ul>
 ```
 
 
