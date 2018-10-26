@@ -30,7 +30,7 @@ These sections, or _divisions_, help us control how content looks en masse, rath
 
 To describe the examples you've been seeing, elements on these pages work much like building “blocks” - separate bricks that come together to create the structure of the page.
 
-<img src="../img/gallery-page-to-blocks.gif" alt="page breaking into blocks" style="width: 300px;" />
+<img src="../img/gallery-page-blocks.gif" alt="page breaking into blocks" style="width: 300px;" />
 
 These elements are primarily given two distinctions; **block-level elements** take up the full-width of the page, while **inline elements** do not cause line breaks and can neighbor each other naturally.
 
