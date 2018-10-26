@@ -13,7 +13,7 @@ In addition to the id attribute, the **class attribute** is another attribute th
 <div class="container-row">
   <img src="../img/legos-classes.png" alt="stacked building blocks with similar class names" title="Similar blocks can have the same class!" style="float: right; width:300px; margin-top: 0; " />
 
-  <p>Like the id attribute, the class attribute is an identifier and selector value for HTML elements. The class attribute groups <b>similar</b> types of elements together by using the same unique name value. This allows for easy styling of these elements with same CSS code.</p>
+  <p>Like the id attribute, the class attribute is an identifier and selector value for HTML elements. The class attribute groups <b>similar</b> types of elements together by using the same name value. This allows for easy styling of these elements with same CSS code.</p>
 </div>
 
 

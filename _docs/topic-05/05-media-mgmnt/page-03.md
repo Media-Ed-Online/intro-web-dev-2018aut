@@ -15,7 +15,7 @@ All media you use on your sites should be your own or in "fair public use," usua
 
 ## How-To Source Video:
 
- A cellphone video is a good option, or [The Moving Image Archive](https://archive.org/details/movies) has Creative Commons video that you can download, which conveniently show metadata like size and filetype. Here's an example about [Pluto](https://archive.org/details/Pluto_Flyby):
+A cellphone video is a good option, or [The Moving Image Archive](https://archive.org/details/movies) has Creative Commons video that you can download, which conveniently show metadata like size and filetype. Here's an example about [Pluto](https://archive.org/details/Pluto_Flyby):
 
 <div class="external-embed" style="width: 400px;">
   <iframe src="https://player.vimeo.com/video/237977600?autoplay=0&loop=1&color=E95420&title=0&byline=0&portrait=0" width="400" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

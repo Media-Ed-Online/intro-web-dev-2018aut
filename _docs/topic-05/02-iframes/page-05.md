@@ -9,7 +9,7 @@ tags: elements, iframe
 <div class="divider-heading"></div>
 
 
-A full image element is a combination of resource location, alternative text, title, width, and height:
+A full iframe element is a combination of resource location, width, and height:
 
 
 <div id="code-heading">HTML</div>

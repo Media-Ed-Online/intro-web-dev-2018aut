@@ -1,5 +1,5 @@
 ---
-title: Extra Markup
+title: Page Structure and Extra Markup
 module: topic-05
 permalink: /topic-05/extra-markup/
 categories: html
@@ -20,7 +20,7 @@ This page has 4 defined areas that display different content based on their type
 3. audio
 4. social media sharing button for visitors to use
 
-Within each of these ares there is a section for files, a slider (or scrollable gallery) to present those files interactively, and a decorative illustration.
+Within each of these areas there is a section for files, a slider (or scrollable gallery) to present those files interactively, and a decorative illustration.
 
 These sections, or _divisions_, help us control how content looks en masse, rather than element-by-element. This will become more apparent as we go on.
 

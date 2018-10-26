@@ -15,11 +15,10 @@ You will learn how to do this later in the Topic.
 
 <div id="code-heading">HTML</div>
 ```html
-<!-- YouTube Example from UM's own Dr. Michael Musick -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0wEUKJTHnQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xmqDpuDLVYw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ```
 
 
-<div class="external-embed" style="width: 560px">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/-0wEUKJTHnQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="external-embed" style="width: 600px">
+  <iframe width="600" height="388" src="https://www.youtube.com/embed/xmqDpuDLVYw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>

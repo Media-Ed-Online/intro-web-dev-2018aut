@@ -10,18 +10,18 @@ tags: elements, iframe, website
 
 Some websites allow their pages to be loaded on other sites using iframes.
 
-Let's see how our own site looks in an iframe. You should see the “mobile view,” or a compressed view optimized for smaller portals.
+Depending on the size of the iframe, you may see different layouts for versions of the site. For example, in the NASA site below you should see a “mobile view” or “compressed view” optimized for smaller portals (in this case, for windows less than ~1025px.)
 
 
 <div id="code-heading">HTML</div>
 ```html
-<iframe src="https://media-ed-online.github.io/intro-web-dev/" width="600px" height="500px"></iframe>
+<iframe src="https://solarsystem.nasa.gov/planets/dwarf-planets/pluto/overview/" width="600px" height="500px"></iframe>
 ```
 
 
 <div class="external-embed" style="width: 600px; height: 500px;">
-  <iframe src="https://media-ed-online.github.io/intro-web-dev/" width="100%" height="500px"></iframe>
-  <p><a href="https://media-ed-online.github.io/intro-web-dev/" target="_blank"><cite>Introduction to Web Design and Development</cite></a></p>
+  <iframe src="https://solarsystem.nasa.gov/planets/dwarf-planets/pluto/overview/" width="100%" height="500px"></iframe>
+  <p><a href="https://solarsystem.nasa.gov/planets/dwarf-planets/pluto/overview/" target="_blank"><cite>NASA Science: Solor System Exploration - the Dwarf Planet Pluto</cite></a></p>
 </div>
 
 
