@@ -8,7 +8,7 @@ tags: elements, iframe, website
 
 <div class="divider-heading"></div>
 
-In addition to displaying other webpages in the main webpage, the iframe element is often used to display two specific types of instances, like including a Google Map.
+In addition to displaying other webpages in the main webpage, the iframe element is often used to display two specific types of instances, like including a [Google Map](https://www.google.com/maps).
 
 
 <div id="code-heading">HTML</div>

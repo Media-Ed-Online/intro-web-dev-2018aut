@@ -25,6 +25,9 @@ Let's see how our own site looks in an iframe. You should see the “mobile view
 </div>
 
 
+<br>
+
+
 <div class="divider-pg"></div>
 
 

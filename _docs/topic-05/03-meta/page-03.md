@@ -16,5 +16,5 @@ The **description** name type provides a short description to search engines cra
 
 
 <!-- For example... -->
-<meta name="description" content="An introductory course to web development and design at the University of Montana.">
+<meta name="description" content="An introductory course to web development and design at the University of Montana">
 ```

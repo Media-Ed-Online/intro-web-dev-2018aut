@@ -16,7 +16,8 @@ A full image element is a combination of resource location, alternative text, ti
 ```html
 <iframe src="#" width="" height=""></iframe>
 
-<!-- For example: -->
+
+<!-- For example... -->
 <iframe src="./pages/iframe-example.html" width="400" height="300"></iframe>
 ```
 

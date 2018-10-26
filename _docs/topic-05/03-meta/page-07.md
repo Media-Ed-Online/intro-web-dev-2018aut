@@ -38,7 +38,7 @@ tags: document, elements, head, meta, page, structure
     <meta charset="UTF-8">
     <meta name="description" content="A short description...">
     <meta name="author" content="Your Name">
-    <meta name="keywords" content="">
+    <meta name="keywords" content="Some, keywords, here...">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Way-Cool Awesome Site</title>
   </head>

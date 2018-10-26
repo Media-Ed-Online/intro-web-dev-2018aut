@@ -13,7 +13,7 @@ tags:
       <div class="list-group">
         <div class="list-group-item hw-item-disabled">
           <img class="icon-hw" src="../img/hw-icon-duckett.svg" />
-          <h4 class="list-group-item-heading">Duckett<br />Ch 08: pgs 194-199</h4>
+          <h4 class="list-group-item-heading">Duckett<br />Ch 08: pgs 193-199</h4>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 4 minute reading</p>
         </div>

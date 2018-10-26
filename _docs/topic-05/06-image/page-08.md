@@ -16,7 +16,8 @@ A full image element is a combination of resource location, alternative text, ti
 ```html
 <img src="#" alt="" title="" width="" height="" />
 
-<!-- For example: -->
+
+<!-- For example... -->
 <img src="./images/dogs-in-field.jpeg" alt="An image of dogs laying in a field while the sun sets" title="Dogs in a Sunlit Field" width="1000" height="500" />
 ```
 
