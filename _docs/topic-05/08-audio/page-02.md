@@ -21,7 +21,7 @@ The 3 attributes the audio element should include are:
 ## Single-Source
 Use this set-up if you only have _one version_ of the audio file, like an MP3.
 <div class="container-row">
-  <img src="../img/web-audio-mp3.svg" title="MP3" alt="mp3 icon" width="100"/>
+  <img src="../img/file-icon-audio-mp3.svg" title="MP3" alt="mp3 icon" width="100"/>
   <p style="margin-top: -10px; text-align: center; font-weight: bold;">song.mp3</p>
 </div>
 
@@ -34,15 +34,15 @@ Use this set-up if you have _multiple versions_ of the audio file, like MP3, WAV
 
 <div class="container-row">
   <div class="col-sm-4">
-    <img src="../img/web-audio-mp3.svg" title="MP3" alt="mp3 icon" width="100"/>
+    <img src="../img/file-icon-audio-mp3.svg" title="MP3" alt="mp3 icon" width="100"/>
     <p style="margin-top: -10px; text-align: center; font-weight: bold;">song.mp3</p>
   </div>
   <div class="col-sm-4">
-    <img src="../img/web-audio-wav.svg" title="WAV" alt="wav icon" width="100"/>
+    <img src="../img/file-icon-audio-wav.svg" title="WAV" alt="wav icon" width="100"/>
     <p style="margin-top: -10px; text-align: center; font-weight: bold;">song.wav</p>
   </div>
   <div class="col-sm-4">
-    <img src="../img/web-audio-ogg.svg" title="OGG" alt="ogg icon" width="100"/>
+    <img src="../img/file-icon-audio-ogg.svg" title="OGG" alt="ogg icon" width="100"/>
     <p style="margin-top: -10px; text-align: center; font-weight: bold;">song.ogg</p>
   </div>
 </div>

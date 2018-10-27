@@ -13,7 +13,7 @@ A full video element is a combination of resource location, poster, width, heigh
 
 <div class="external-embed" style="text-align: center;">
 	<h3 style="color: #E95420">Smooth Puppy</h3>
-	<video poster="../img/duckett-puppy-poster.png" width="400" height="320" preload controls>
+	<video poster="../media/duckett-puppy-poster.png" width="400" height="320" preload controls>
 		<source src="../media/duckett-puppy.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'>
 		<source src="../media/duckett-puppy.webm" type='video/webm;codecs="vp8, vorbis"'>
 		<p>A video of a puppy playing in the snow.</p>

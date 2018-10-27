@@ -24,4 +24,4 @@ To embed a video from a video-sharing service, use their provided embed code, wh
 
 The following is an example for [YouTube](https://youtube.com):
 
-<img src="../img/youtube-embed.gif" alt="animation of finding the embed code of a YouTube video" title="How to get YouTube video embed codes" width="500" />
+<img src="../img/embed-youtube.gif" alt="animation of finding the embed code of a YouTube video" title="How to get YouTube video embed codes" width="500" />
