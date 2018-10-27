@@ -8,7 +8,7 @@ tags: audio, hosting, media, video
 
 <div class="divider-heading"></div>
 
-In the next two sections, we will be looking at the `<picture>` `<video>` and `<audio>` elements. You need to be careful when using these elements, as older browsers might not support them and the presentation of the associated media. To create pages viewable by all, you should use a variety of approaches to account for multiple ages of browsers.
+In the next two sections, we will be looking at the `<img>` `<video>` and `<audio>` elements. With the latter two in particular, you need to be careful when using these elements, as older browsers might not support them and the presentation of the associated media. To create pages viewable by all, you should use a variety of approaches to account for multiple ages of browsers.
 
 
 ## Self-Hosting

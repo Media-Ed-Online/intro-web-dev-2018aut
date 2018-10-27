@@ -44,7 +44,7 @@ If these files from other sources, you likely will not have access to the origin
 
 
 ## Audio
-_It is recommend you use a service to host videos. We will not discuss optimization in-depth here._
+_It is recommend you use a service to host audio. We will not discuss optimization in-depth here._
 
 A single MP3 song is **approximately 3-4 MB**.
 
