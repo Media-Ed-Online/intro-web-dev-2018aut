@@ -10,9 +10,9 @@ tags: directory, link, page, relative, url, website
 
 Relative URLs help with building a site locally before pushing it to the web. This way you can develop on your local machine, and still have links to pages be valid. But how do we navigate to a different directory using a relative URL?
 
-Consider this 3-page site, which has an “**index.html**,” an “**about.html**,” and a “**contact.html**,” all of which _link_ (or connect) to each other:
+Consider this 4-page site, which has an “**index.html**,” an “**about.html**,” a “**contact.html**,” and a “**gallery.html**,” all of which _link_ (or connect) to each other:
 
-<img src="../img/page-map.gif" alt="simple site page of three pages" style="width: 450px;" />
+<img src="../img/page-map.gif" alt="simple site page of three pages" style="width: 500px;" />
 
 The directory of this site has the **index.html** in the root directory, and the other pages in the child-directory **pages**:
 
@@ -23,7 +23,8 @@ The directory of this site has the **index.html** in the root directory, and the
 ├── index.html
 └── <i class="far fa-folder-open"></i> pages/
     ├── <i class="fab fa-html5"></i> about.html
-    └── <i class="fab fa-html5"></i> contact.html
+    ├── <i class="fab fa-html5"></i> contact.html
+    └── <i class="fab fa-html5"></i> gallery.html
 </pre>
 
 
@@ -50,9 +51,10 @@ This process may look familar, as you've been doing it with screenshots located 
 <pre id="bash">
 .
 ├── index.html<img class="fas bounce" src="../img/dots-horizontal.png" style="width: 2em; margin: 0 0 0 1em;" /><img class="fas bounce" src="../img/dots-horizontal.png" style="width: 2em; margin: 0 0;" /><img class="fas bounce" src="../img/dots-corner-open.png" style="width: 2em; margin: 0;" />
-└── <i class="far fa-folder-open"></i> pages/<img class="fas bounce" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 7.30em;" />
+└── <i class="far fa-folder-open"></i> pages/<img class="fas bounce" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 7.3em;" />
     ├── <i class="fab fa-html5"></i> about.html<img class="fas bounce" src="../img/dots-corner-close-arrow.png" style="width: 2em; margin: 0 0 0 1.2em;" />
-    └── <i class="fab fa-html5"></i> contact.html
+    ├── <i class="fab fa-html5"></i> contact.html
+    └── <i class="fab fa-html5"></i> gallery.html
 </pre>
 
 
@@ -78,7 +80,8 @@ A single `./` states that we need to stay in the current level of our directory.
 ├── index.html
 └── <i class="far fa-folder-open"></i> pages/
     ├── <i class="fab fa-html5"></i> about.html<img class="fas bounce" src="../img/dots-corner-open-arrow.png" style="width: 2em; margin: 0 0 0 1.2em;" />
-    └── <i class="fab fa-html5"></i> contact.html<img class="fas bounce" src="../img/dots-corner-close-arrow.png" style="width: 2em; margin: 0;" />
+    ├── <i class="fab fa-html5"></i> contact.html<img class="fas bounce" src="../img/dots-corner-close-arrow.png" style="width: 2em; margin: 0;" />
+    └── <i class="fab fa-html5"></i> gallery.html
 </pre>
 
 

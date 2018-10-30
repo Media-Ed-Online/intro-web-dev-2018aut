@@ -10,7 +10,7 @@ tags:
 
 <h2 style="text-align: center;">03: Basic Pages (Project 1)</h2>
 
-"Project topics" run much like the others, but instead of concluding with an assignment, you'll use knowledge gained here and in the previous topic set to create actual live sites ("projects"), which you'll then submit for workshopping among your peers.
+“Project topics” run much like the others, but instead of concluding with an assignment, you'll use knowledge gained here and in the previous topic set to create actual live sites (“projects”), which you'll then submit for workshopping among your peers.
 
 This Topic we'll begin to dig into HTML with the goal that you create and publish your first live web page. Let's start with looking at how we _experience_ these sites via browsers, an often overlooked software that we use everyday.
 

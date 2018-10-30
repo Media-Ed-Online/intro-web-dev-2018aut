@@ -10,7 +10,9 @@ tags: best-practice, directory, file, media, organize
 
 Nearly every page we visit has some form of embedded media.
 
-[HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) introduced new features, specifications, and elements, like `<video>`, `<audio>`, and `<picture>` elements. As their names imply these elements are intended to provide multimedia functionality to webpages. One of the stated goals for the W3 Consortium with these new specs was to address multimedia in order to “make video and audio first-class citizens in the Open Web.”
+The `<img>` tag has been around since the early '90s, and is one of the foundational elements of HTML.
+
+[HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) introduced new features, specifications, and elements, like the  `<video>` and `<audio>` elements. As their names imply these elements are intended to provide multimedia functionality to webpages. One of the stated goals for the W3 Consortium with these new specs was to address multimedia in order to “make video and audio first-class citizens in the Open Web.”
 
 As with all stages in web design, it is important to keep a well-organized media directory. _As HTML5 is still in development and being accepted by browsers, we need to provide text or fallback files should the intended media files or elements not be accessible._
 
