@@ -8,7 +8,7 @@ tags: link, navigation
 
 <div class="divider-heading"></div>
 
-When pages are long, or visitors are expected to intested in specific topics, you can section the page using `<div>`s with unique `id`s. A page can then include its own navigation with links to those unique sections.
+When pages are long, or visitors are expected to interested in specific topics, you can section the page using `<div>`s with unique `id`s. A page can then include its own navigation with links to those unique sections.
 
 <div class="lightbulb">
    <svg viewBox='0 0 64 64'>

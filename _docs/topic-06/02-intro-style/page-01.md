@@ -8,20 +8,23 @@ tags: class, elements, style
 
 <div class="divider-heading"></div>
 
-By now, you are familiar with two ways to **select** an "item" to style:
+All sites utilize styling, whether its provided by the browser, or created by the designer. In this site, for example, pages contain different styling “commands” like:
+- How to display links in a list.
+- Change the background color of active links.
+- Float icons to the left of text.
+- Split window so page navigation is one-third (33%) of the width.
+- What color to make all of the text.
+
+<img src="../img/site-style-example.gif" alt="areas of the site highlighted by styling" title="Site Style" />
+
+For the most part, this is the same across all pages, but not always. I can control _page styling_ by selecting elements and applying styling properties (like color and placement) to them.
+
+By now, you are familiar with two ways to **select** an “item” to style:
 1. By the structural element itself:
     - `body {}` (“Do ___ to the entire body of the page.”)
-    - `table {}` (“Do ___ to all tables on the page.”)
     - `p {}` (“Do ___ to all paragraphs on the page.”)
 2. By creating classes:
     - `.a-class {}` (“Do ___ to any element with `class="a-class"`.”)
     - `.another-class {}` (“Do ___ to any element with `class="another-class"`.”)
 
-As you can see, _selecting elements_ effects large portions of the page, good for backgrounds, image styling, and text. Creating and _selecting classes_ is good for styling distinct portions of the page, to better differentiate them from each other. We can combine these selections to style elements, both overall and individually.
-
-For example, we can say we want _all_ tables in our site to have black borders 1px wide, but the first table will have orange text, and the second green:
-
-
-<div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="OvXmay" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-05: Tables, Pt. 4" class="codepen"></p>
-</div>
+Let's explore this process by revisiting the **&lt;style&gt; element**, which allow you to add styling directly within the page you're working on.

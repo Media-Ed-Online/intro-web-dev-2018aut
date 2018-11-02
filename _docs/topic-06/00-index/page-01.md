@@ -16,7 +16,7 @@ For Project 2, use your knowledge of HTML and GitHub to create a 3-page “Instr
 
 Think of a topic you know a lot about - an academic study, craft, or favorite recipe, for example - and begin collecting materials. This site will contain:
 1. Structural and semantic markup.
-2. Well-organized block-style page strucure.
+2. Well-organized block-style page structure.
 2. Images (preferably your own, but sourced is allowed).
 4. Embedded media (video, audio, and Google map).
 5. Clean, legible coding.

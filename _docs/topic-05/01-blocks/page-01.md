@@ -35,7 +35,7 @@ To describe the examples you've been seeing, elements on these pages work much l
 These elements are primarily given two distinctions; **block-level elements** take up the full-width of the page, while **inline elements** do not cause line breaks and can neighbor each other naturally.
 
 
-## Block-Level Elements
+<h2 id="block-level">Block-Level Elements</h2>
 
 Block elements appear on their own block on a new line. Each of these (unless told otherwise through styling) appears on a new line in HTML pages. Some block elements are:
 
@@ -47,7 +47,7 @@ Block elements appear on their own block on a new line. Each of these (unless to
 In the example above, a new type of block-level element was used (the `<div>`) to section-off a row for each media gallery, which altogether fills the page edge-to-edge.
 
 
-## Inline Elements
+<h2 id="inline">Inline Elements</h2>
 
 Inline elements are not automatically given additional area on the page outside of their contents. Essentially, these means inline elements can be adjacent, rather than atop or below each other. Some inline elements are:
 

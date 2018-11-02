@@ -10,22 +10,29 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav" target="_blank" class="list-group-item hw-item">
-          <img class="icon-hw" src="../img/hw-icon-mdn.svg" />
-          <h4 class="list-group-item-heading">Explore “The Nav Section” with MDN</h4>
+        <a href="https://www.w3schools.com/cssref/css_colors.asp" target="_blank" class="list-group-item">
+          <i class="icon-hw fas fa-code" aria-hidden="true"></i>
+          <h4 class="list-group-item-heading">Explore Color Names</h4>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 6 minute reading</p>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 3 minute activity</p>
         </a>
       </div>
     </div>
   </div>
+</div>
+
+
+<div class="divider-hw"></div>
+
+
+<h3>Review from Topic-04: “Beginning HTML”</h3>
+<div class="row text-center">
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="https://codepen.io/Media-Ed-Online/pen/Mzgexx" target="_blank" class="list-group-item">
-          <i class="icon-hw fab fa-codepen" aria-hidden="true"></i>
-          <h4 class="list-group-item-heading">Code-Play: “HTML Nav Elements”</h4>
-          <p class="list-group-item-text">Try recreating the “About Me” page by yourself!</p>
+        <a href="../../topic-04/head-style" target="_blank" class="list-group-item">
+          <img class="icon-hw" src="../../topic-04/img/assignment-03.svg" />
+          <h4 class="list-group-item-heading">Review: The Style Element</h4>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 2 minute activity</p>
         </a>

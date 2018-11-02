@@ -11,7 +11,7 @@ tags: div, style
 Divs are _block-level_ elements, meaning they fill the page edge-to-edge. If this isn't necessarily what we want, we can easily force changes to the div itself, and how it relates to the elements inside.
 
 ## Changing Width
-You can easily change the width of a div from 100% using the **width property** (`width: ;`). Width values can be in percentages (changing) or pixels (unchanging). For example:
+You can easily change the width of a div from 100% using the **width property**. Width values can be in percentages (changing) or pixels (unchanging). For example:
 - to be exactly half of the page, set to `width: 50%;`
 - to be 300 pixels wide, set to `width: 300px;`
 
@@ -23,7 +23,7 @@ You can easily change the width of a div from 100% using the **width property** 
 ```
 
 ## Centering on the Page
-Have a div less than full-page and want it placed in the middle? Add the **margin-auto property** (`margin: auto`).
+Have a div less than full-page and want it placed in the middle? Add the **margin property**, set to `auto` (`margin: auto`).
 
 <div id="code-heading">HTML</div>
 ```html
@@ -34,7 +34,7 @@ Have a div less than full-page and want it placed in the middle? Add the **margi
 
 
 ## Cushioning From the Edge
-Text inside of a div will set right aside its edges. To override this and give the text some “cushion” for easier-reading, add the **padding property** (`padding: ;`). Pixel vaules are best-suited here.
+Text inside of a div will set right aside its edges. To override this and give the text some “cushion” for easier-reading, add the **padding property**. Pixel values are best-suited here.
 
 <div id="code-heading">HTML</div>
 ```html
@@ -47,7 +47,8 @@ Text inside of a div will set right aside its edges. To override this and give t
 <div class="divider-pg"></div>
 
 
-See how you can style divs into intersted content blocks using width, margin-auto, and padding!
+### Example
+See how you can style divs into interesting content blocks using **width**, **margin: auto**, and **padding**!
 
 
 <div class="external-embed">

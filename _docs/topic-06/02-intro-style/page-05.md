@@ -33,8 +33,13 @@ Additionally, you can align text using **text-align property**. By default, brow
 ```
 
 
+<div class="divider-pg"></div>
+
+
+### Example
+See how you can creatively style text using **color** and **text-align: center**!
+
+
 <div class="external-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="PRzKed" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Basic HTML Text Styling" class="codepen"></p>
 </div>
-
-<span class="label label-danger">Important</span> You may remember that you can give an element multiple style properties. In the example above, the headings are both colored and center-aligned. **You must always separate these properties with a semi-colon,** `;`.
