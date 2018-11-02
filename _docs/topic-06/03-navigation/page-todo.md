@@ -33,3 +33,35 @@ categories: uncategorized
     </div>
   </div>
 </div>
+
+
+<div class="divider-hw"></div>
+
+
+<h3>Review from Topic-04: “Beginning HTML”</h3>
+<div class="row text-center">
+  <div class="col-lg-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <a href="../../topic-04/page-to-page" target="_blank" class="list-group-item">
+          <img class="icon-hw" src="../../topic-04/img/assignment-03.svg" />
+          <h4 class="list-group-item-heading">Review: Linking Page-to-Page</h4>
+          <div class="divider-hw"></div>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 2 minute activity</p>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <a href="../../topic-04/same-page" target="_blank" class="list-group-item">
+          <img class="icon-hw" src="../../topic-04/img/assignment-03.svg" />
+          <h4 class="list-group-item-heading">Review: Linking to Parts of Same Page</h4>
+          <div class="divider-hw"></div>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 2 minute activity</p>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

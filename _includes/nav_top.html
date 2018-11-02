@@ -25,7 +25,7 @@
                     <h4>Project 2</h4>
                       <li><a href="{{site.baseurl}}/topic-04/overview/">Topic 04</a></li>
                       <li><a href="{{site.baseurl}}/topic-05/overview/">Topic 05</a></li>
-                      <li class="navbar-link disabled"><a href="#">Topic 06</a></li>
+                      <li><a href="{{site.baseurl}}/topic-06/overview/">Topic 06</a></li>
                     <li class="divider"></li>
                     <h4>Project 3</h4>
                       <li class="navbar-link disabled"><a href="#">Topic 07</a></li>
@@ -37,6 +37,7 @@
                     </ul>
                 </li>
                 <li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | prepend: site.baseurl }}">FAQ</a></li>
+                <li {% if page.id=='about' %} class="active" {% endif %}><a href="{{site.baseurl }}/about.html">About</a></li>
             </ul>
             <div class="navbar-right">
                 <form class="navbar-form navbar-left">
@@ -46,7 +47,6 @@
                     </div>
                 </form>
                 <ul class="nav navbar-nav mobile-nav">
-                    <li {% if page.id=='about' %} class="active" {% endif %}><a href="{{site.baseurl }}/about.html">About</a></li>
                     <li><a href="{{ site.git_address | append: "-resources/issues/" }}" target=_"blank"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a></li>
                     <li><a href="{{ site.slack }}" target="_blank"><i class="fab fa-slack-hash fa-lg" aria-hidden="true"></i></a></li>
                 </ul>

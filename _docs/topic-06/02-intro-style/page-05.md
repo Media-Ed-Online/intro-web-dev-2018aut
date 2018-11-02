@@ -1,9 +1,9 @@
 ---
-title: Styling Images
+title: Styling Text
 module: topic-06
-permalink: /topic-06/basic-styling-images/
+permalink: /topic-06/basic-styling-text/
 categories: html
-tags: float, image, style
+tags: elements, style, text
 ---
 
 <div class="divider-heading"></div>

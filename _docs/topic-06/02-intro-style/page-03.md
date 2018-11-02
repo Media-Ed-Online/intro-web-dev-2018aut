@@ -1,38 +1,53 @@
 ---
-title: Styling Backgrounds
+title: Styling Divs
 module: topic-06
-permalink: /topic-06/basic-styling-backgrounds/
+permalink: /topic-06/basic-styling-divs/
 categories: html
-tags: background, color, image, style
+tags: div, style
 ---
 
 <div class="divider-heading"></div>
 
-We will get more into styling backgrounds next topic with CSS, but for now, you can do basic styling using various **background** properties.
+Divs are _block-level_ elements, meaning they fill the page edge-to-edge. If this isn't necessarily what we want, we can easily force changes to the div itself, and how it relates to the elements inside.
 
-Many structural elements can have background property values. If you have a busy page background, it is helpful to add a neutral background to a container (like a div) to keep your content legible and clean.
-
-
-## Adding a Background Color
-A color fill can be created using the `background-color: ` property. You can use many English CSS color names, such as “white,” “orange,” “black,” etc. Check out available color names on [W3Schools](https://www.w3schools.com/cssref/css_colors.asp).
-
+## Changing Width
+You can easily change the width of a div from 100% using the **width property** (`width: ;`). Width values can be in percentages (changing) or pixels (unchanging).
 
 <div id="code-heading">HTML</div>
 ```html
-.a-class-name {
-  background-color: white;
+.a-class {
+  width: ;
+}
+```
+
+## Centering on the Page
+Have a div less than full-page and want it placed in the middle? Add the **margin-auto property** (`margin: auto`).
+
+<div id="code-heading">HTML</div>
+```html
+.a-class {
+  margin: auto;
 }
 ```
 
 
-## Adding a Background Image
-You can easily generate a pattern on your background by adding a small image (less than 150px or so) and the `background-image: url(``)` property.
+## Cushioning From the Edge
+Text inside of a div will set right aside its edges. To override this and give the text some “cushion” for easier-reading, add the **padding property** (`padding: ;`).
+
+<div id="code-heading">HTML</div>
+```html
+.a-class {
+  padding: ;
+}
+```
 
 
-<span class="label label-info">NOTE:</span> Like you did when styling tables, you can add a pixel amount to the `padding: ` property within your chosen element. This can give cushion between the boundary of the container and the contents inside.
+<div class="divider-pg"></div>
 
 
+See how you can style divs into intersted content blocks using width, margin-auto, and padding!
 
-<div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="WzxOYJ" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-07: Basic Backgrounds" class="codepen"></p>
+
+<div class="external-embed">
+  <p data-height="600" data-theme-id="30567" data-slug-hash="YRKNBp" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Basic HTML Div Styling" class="codepen"></p>
 </div>

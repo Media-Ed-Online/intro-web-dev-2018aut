@@ -22,6 +22,6 @@ As you can see, _selecting elements_ effects large portions of the page, good fo
 For example, we can say we want _all_ tables in our site to have black borders 1px wide, but the first table will have orange text, and the second green:
 
 
-<div class="codepen-embed">
+<div class="external-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="OvXmay" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-05: Tables, Pt. 4" class="codepen"></p>
 </div>
