@@ -1,9 +1,9 @@
 ---
-title: Styling Backgrounds
+title: Styling Text
 module: topic-06
-permalink: /topic-06/basic-styling-backgrounds/
+permalink: /topic-06/basic-styling-text/
 categories: html
-tags: background, color, image, style
+tags: elements, style, text
 ---
 
 <div class="divider-heading"></div>

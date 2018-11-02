@@ -435,8 +435,8 @@ topic-06:
     docs:
     - basic-styling-about
     - basic-style-element
-    - basic-styling-text
     - basic-styling-backgrounds
+    - basic-styling-text
     - basic-styling-images
     - basic-styling-lists
     - todo-basic-styling
