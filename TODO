@@ -23,6 +23,7 @@ Tags Utilized:
   - audio
   - author
   - autofocus
+  - background
   - best-practice
   - blockquote
   - body
@@ -37,6 +38,7 @@ Tags Utilized:
   - code
   - codec
   - codepen
+  - color
   - column
   - comment
   - connect
@@ -47,6 +49,7 @@ Tags Utilized:
   - description
   - design
   - directory
+  - display
   - div
   - dns
   - document
@@ -58,6 +61,7 @@ Tags Utilized:
   - empty
   - escape
   - file
+  - float
   - folder
   - form
   - format
@@ -106,6 +110,7 @@ Tags Utilized:
   - nested
   - name
   - naming
+  - navigation
   - new
   - ordered
   - organize
@@ -138,6 +143,7 @@ Tags Utilized:
   - strikethrough
   - structural
   - structure
+  - style
   - subscript
   - superscript
   - submit

@@ -427,13 +427,24 @@ topic-06:
     docs:
     - overview
 
-  - title: "Going Back: Review"
+  - title: Content to Review
     docs:
-    - project2-review
     - todo-project2-review
+
+  - title: Adding Style
+    docs:
+    - basic-styling-about
+    - basic-style-element
+    - basic-styling-text
+    - basic-styling-backgrounds
+    - basic-styling-images
+    - basic-styling-lists
+    - todo-basic-styling
 
   - title: Adding Navigation
     docs:
-
-  - title: "Going Forward: Styling"
-    docs:
+    - basic-nav-about
+    - basic-nav-element
+    - basic-nav-site
+    - basic-nav-section
+    - todo-basic-nav
