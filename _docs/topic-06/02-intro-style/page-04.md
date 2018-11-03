@@ -19,7 +19,7 @@ A color fill can be created using the **background-color property**. You can use
 <div id="code-heading">HTML</div>
 ```html
 .a-class {
-  background-color: white;
+  background-color: ;
 }
 ```
 
