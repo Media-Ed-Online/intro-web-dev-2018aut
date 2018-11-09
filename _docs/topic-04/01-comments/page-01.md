@@ -1,7 +1,7 @@
 ---
-title: Leaving Messages and Notes
+title: Leaving Messages and Notes in HTML
 module: topic-04
-permalink: /topic-04/leaving-messages/
+permalink: /topic-04/leaving-messages-html/
 categories: html
 tags: comment, testing
 ---

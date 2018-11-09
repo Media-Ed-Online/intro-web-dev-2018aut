@@ -159,7 +159,7 @@ topic-03:
     - browser-stats
     - todo-browsers
 
-  - title: Beginning in HTML
+  - title: Adding HTML
     docs:
     - html-intro
     - dom
@@ -239,9 +239,9 @@ topic-04:
 
   - title: Comments in HTML
     docs:
-    - leaving-messages
+    - leaving-messages-html
     - html-comments
-    - todo-comments
+    - todo-html-comments
 
   - title: Attributes
     docs:
@@ -449,3 +449,96 @@ topic-06:
     - basic-nav-site
     - basic-nav-section
     - todo-basic-nav
+
+##################################################
+
+topic-07:
+  - title: “Beginning CSS”
+    docs:
+    - overview
+
+  - title: Comments in CSS
+    docs:
+    - leaving-messages-css
+    - css-comments
+    - todo-css-comments
+
+  - title: The Anatomy of Style
+    docs:
+    - select-declare
+    - multi-selectors
+    - property-value
+    - knowing-css
+    - todo-anatomy
+
+  - title: Style Guide
+    docs:
+    - where-style
+    - style-element
+    - style-attribute
+    - style-doc
+        - understand-css
+        - apply-css
+    - todo-guide
+
+  - title: CSS Documents
+    docs:
+    - css-docs
+    - link-tag
+    - link-rel
+    - link-type
+    - link-href
+    - link-element
+    - todo-docs
+
+  - title: Selector Types
+    docs:
+    - selectors-universal
+    - selectors-element
+    - selectors-class
+    - selectors-id
+    - todo-selectors
+
+  - title: Chaining Selectors
+    docs:
+    - chain-direct
+    - chain-child
+    - chain-descendent
+    - chain-sib-adj
+    - chain-sib-gen
+    - todo-chaining
+
+  - title: Cascading
+    docs:
+    - cascade-rules
+    - cascade-order
+    - cascade-specify
+    - cascade-important
+    - todo-cascade
+
+  - title: Inheritance
+    docs:
+    - inherit-who
+    - inherit-what
+    - todo-inherit
+
+  - title: Exploring Color
+    docs:
+    - specify-color
+    - color-name
+    - color-rgb
+    - color-hex
+    - saturated-color
+    - grayscale-color
+    - combining-color
+    - color-atom
+    - todo-exploring
+
+  - title: Using Color
+    docs:
+    - bg-color
+    - text-color
+    - opacity
+    - intro-positioning
+    - more-color
+    - todo-using

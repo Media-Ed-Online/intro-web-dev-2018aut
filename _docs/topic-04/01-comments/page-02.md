@@ -1,5 +1,5 @@
 ---
-title: Adding Comments
+title: Adding HTML Comments
 module: topic-04
 permalink: /topic-04/html-comments/
 categories: html
