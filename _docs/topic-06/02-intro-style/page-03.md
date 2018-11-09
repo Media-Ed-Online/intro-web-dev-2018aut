@@ -12,8 +12,8 @@ Divs are _block-level_ elements, meaning they fill the page edge-to-edge. If thi
 
 ## Changing Width
 You can easily change the width of a div from 100% using the **width property**. Width values can be in percentages (changing) or pixels (unchanging). For example:
-- to be exactly half of the page, set to `width: 50%;`
-- to be 300 pixels wide, set to `width: 300px;`
+- to be half of the page _at any size_ of the brower window, set to `width: 50%;`
+- to be 300 pixels wide _no matter the size_ of the browser window, set to `width: 300px;`
 
 <div id="code-heading">HTML</div>
 ```html

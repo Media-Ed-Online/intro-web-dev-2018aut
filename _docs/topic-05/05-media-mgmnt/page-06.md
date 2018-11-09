@@ -30,7 +30,7 @@ A major con, however, is that web hosting companies often charge extra if you us
 **Third-party options and services** provide you affordable solutions to the potential problem of exhausted bandwidth. It is often preferable and encouraged for you to host your media - particularly audio and video - on sites such as [YouTube](https://youtube.com), [Vimeo](https://vimeo.com),  [SoundCloud](https://soundcloud.com/), or [Bandcamp](https://bandcamp.com/).
 
 <ul style="list-style-type: none">
-  <li class="icon-pro">Ideal for <b>video</b> and <b>aduio</b> files.</li>
+  <li class="icon-pro">Ideal for <b>video</b> and <b>audio</b> files.</li>
   <li class="icon-pro">Can host large, high-quality versions of files.</li>
   <li class="icon-pro">Will handle compatibility, encoding, and the other details necessary for the media to play on a variety of browsers, without any work from you.</li>
   <li class="icon-con">Not ideal for <b>image</b> files.</li>

@@ -26,4 +26,4 @@ The following is an example for [SoundCloud](https://soundcloud.com):
 
 <img src="../img/embed-soundcloud.gif" alt="animation of finding the embed code of a SoundCloud song" title="How to get SoundCloud audio embed codes" width="500" />
 
-<span class="label label-info">Note</span> Some services will limit the number of 'plays' that you can have for a certain period of time on the "free-tiers".
+<span class="label label-info">Note</span> Some services will limit the number of 'plays' that you can have for a certain period of time on the “free-tiers.”

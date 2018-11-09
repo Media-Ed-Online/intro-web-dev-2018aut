@@ -1,19 +1,37 @@
 ---
-title: Leaving Messages and Notes in CSS
+title: Select and Declare
 module: topic-07
-permalink: /topic-07/leaving-messages-css/
+permalink: /topic-07/select-declare/
 categories: css
-tags: comment, testing
+tags:
 ---
 
 <div class="divider-heading"></div>
 
-As with your HTML work, you should get in the habit of including comments in your CSS code.
 
-These comments can be used to tell you what you are trying to do, leave yourself notes about what is happening and why, or be used to inform your instructors about what you were attempting.
+To style content in your HTML document you write “style rules” that apply to elements. These rules will always follow the same patterns.
 
-Let’s go over a few reasons why you may want to include comments in your code.
 
-1. **_Messages_** - Primary comments convey information about code. Typically, this means _why_ some code was written in a certain way, or may also point out information to those collaborating on code together.
-2. **_Dividers_** - Stylesheets can get long, quickly. A CSS comment can be added at the beginning of a specific section as a sort of label or descriptor.
-3. **_Testing_** - You can turn code snippets on or off by delineating them as comments. This is useful when hunting for errors or trying different ways of styling content.
+## Selector
+The first part of every rule is a **selector** which tells the browser what element(s) the rule applies to. This is followed by a space, then a block, delineated with curly brackets.
+
+<div id="code-heading">CSS</div>
+```css
+/* ⬇ SELECTOR - selects all h1 elements */
+   h1 {
+
+   }
+```
+
+### Declaration
+
+The portion of the rule delineated by the curly brackets is known as the **declaration**. This tells the browser what to do to the selected element(s).
+
+<div id="code-heading">CSS</div>
+```css
+/* ⬇ /* SELECTOR - selects all h1 elements */
+   h1 {
+     /* ⬇ DECLARATION goes inside curly brackets. */
+       color: white;
+   }
+```
