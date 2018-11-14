@@ -23,7 +23,7 @@ You are going to create a lot of files labeled `index.html`. Like stated earlier
 │   └── <i class="far fa-image"></i> photo-2.jpg
 ├── <i class="far fa-folder-open"></i> pages/
 │   └── <i class="fab fa-html5"></i> about.html
-└── index.html <i class="fas fa-long-arrow-alt-left bounce"></i>
+└── index.html <i class="fas fa-long-arrow-alt-left bounce-x"></i>
 </pre>
 
 

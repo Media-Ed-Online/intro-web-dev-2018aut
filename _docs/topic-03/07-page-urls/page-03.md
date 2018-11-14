@@ -24,7 +24,7 @@ In the next sub-topic, you'll see how an `index.html` is one of those files brow
 <div id="code-heading">Directory Tree</div>
 <pre id="bash">
 .
-├── <i class="far fa-folder-open"></i> about/ <i class="fas fa-long-arrow-alt-left bounce"></i>
+├── <i class="far fa-folder-open"></i> about/ <i class="fas fa-long-arrow-alt-left bounce-x"></i>
 │   └── <i class="fab fa-html5"></i> index.html
 ├── <i class="far fa-folder-open"></i> css/
 │   └── <i class="fab fa-css3-alt"></i> style.css

@@ -433,7 +433,7 @@ pre {
   i {
     font-size: 1.1em;
   }
-  .fa-long-arrow-alt-left {
+  .fa-long-arrow-alt-left, .fa-long-arrow-alt-up {
     color: $brand-danger;
     font-size: 1.2em;
   }
@@ -454,7 +454,7 @@ pre {
   }
 }
 // pre fa-long-arrow-alt-left animation
-@keyframes bounce {
+@keyframes bounce-x {
   0%, 20%, 50%, 80%, 100% {
   transform: translateX(0);
   }
@@ -465,8 +465,23 @@ pre {
     transform: translateX(5px);
   }
 }
-.bounce {
-  @include animation(bounce 2s infinite);
+.bounce-x {
+  @include animation(bounce-x 2s infinite);
+}
+// pre fa-long-arrow-alt-up animation
+@keyframes bounce-y {
+  0%, 20%, 50%, 80%, 100% {
+  transform: translateY(0);
+  }
+  40% {
+    transform: translateY(10px);
+  }
+  60% {
+    transform: translateY(5px);
+  }
+}
+.bounce-y {
+  @include animation(bounce-y 2s infinite);
 }
 
   // Pieces Codeblock

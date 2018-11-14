@@ -465,21 +465,12 @@ topic-07:
 
   - title: The Anatomy of Style
     docs:
-    - select-declare
-    - multi-selectors
-    - property-value
-    - knowing-css
-    - todo-anatomy
-
-  - title: Style Guide
-    docs:
-    - where-style
+    - style-anatomy-intro
+    - style-syntax
     - style-element
     - style-attribute
-    - style-doc
-        - understand-css
-        - apply-css
-    - todo-guide
+    - style-document
+    - todo-style-anatomy
 
   - title: CSS Documents
     docs:

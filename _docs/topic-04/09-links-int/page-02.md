@@ -50,9 +50,9 @@ This process may look familar, as you've been doing it with screenshots located 
 <div id="code-heading">Directory Tree</div>
 <pre id="bash">
 .
-├── index.html<img class="fas bounce" src="../img/dots-horizontal.png" style="width: 2em; margin: 0 0 0 1em;" /><img class="fas bounce" src="../img/dots-horizontal.png" style="width: 2em; margin: 0 0;" /><img class="fas bounce" src="../img/dots-corner-open.png" style="width: 2em; margin: 0;" />
-└── <i class="far fa-folder-open"></i> pages/<img class="fas bounce" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 7.3em;" />
-    ├── <i class="fab fa-html5"></i> about.html<img class="fas bounce" src="../img/dots-corner-close-arrow.png" style="width: 2em; margin: 0 0 0 1.2em;" />
+├── index.html<img class="fas bounce-x" src="../img/dots-horizontal.png" style="width: 2em; margin: 0 0 0 1em;" /><img class="fas bounce-x" src="../img/dots-horizontal.png" style="width: 2em; margin: 0 0;" /><img class="fas bounce-x" src="../img/dots-corner-open.png" style="width: 2em; margin: 0;" />
+└── <i class="far fa-folder-open"></i> pages/<img class="fas bounce-x" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 7.3em;" />
+    ├── <i class="fab fa-html5"></i> about.html<img class="fas bounce-x" src="../img/dots-corner-close-arrow.png" style="width: 2em; margin: 0 0 0 1.2em;" />
     ├── <i class="fab fa-html5"></i> contact.html
     └── <i class="fab fa-html5"></i> gallery.html
 </pre>
@@ -79,8 +79,8 @@ A single `./` states that we need to stay in the current level of our directory.
 .
 ├── index.html
 └── <i class="far fa-folder-open"></i> pages/
-    ├── <i class="fab fa-html5"></i> about.html<img class="fas bounce" src="../img/dots-corner-open-arrow.png" style="width: 2em; margin: 0 0 0 1.2em;" />
-    ├── <i class="fab fa-html5"></i> contact.html<img class="fas bounce" src="../img/dots-corner-close-arrow.png" style="width: 2em; margin: 0;" />
+    ├── <i class="fab fa-html5"></i> about.html<img class="fas bounce-x" src="../img/dots-corner-open-arrow.png" style="width: 2em; margin: 0 0 0 1.2em;" />
+    ├── <i class="fab fa-html5"></i> contact.html<img class="fas bounce-x" src="../img/dots-corner-close-arrow.png" style="width: 2em; margin: 0;" />
     └── <i class="fab fa-html5"></i> gallery.html
 </pre>
 
@@ -106,10 +106,10 @@ If a single `./` states that we need to remain in the current level of our direc
 <div id="code-heading">Directory Tree</div>
 <pre id="bash">
 .
-├── index.html<img class="fas bounce" src="../img/dots-horizontal-left.png" style="width: 2em; margin: 0 0 0 1em;" /><img class="fas bounce" src="../img/dots-horizontal.png" style="width: 2em; margin: 0 0;" /><img class="fas bounce" src="../img/dots-corner-open.png" style="width: 2em; margin: 0;" />
-└── <i class="far fa-folder-open"></i> pages/<img class="fas bounce" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 7.35em;" />
-    ├── <i class="fab fa-html5"></i> about.html<img class="fas bounce" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 2.95em;" />
-    └── <i class="fab fa-html5"></i> contact.html<img class="fas bounce" src="../img/dots-corner-close.png" style="width: 2em; margin: 0;" />
+├── index.html<img class="fas bounce-x" src="../img/dots-horizontal-left.png" style="width: 2em; margin: 0 0 0 1em;" /><img class="fas bounce-x" src="../img/dots-horizontal.png" style="width: 2em; margin: 0 0;" /><img class="fas bounce-x" src="../img/dots-corner-open.png" style="width: 2em; margin: 0;" />
+└── <i class="far fa-folder-open"></i> pages/<img class="fas bounce-x" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 7.35em;" />
+    ├── <i class="fab fa-html5"></i> about.html<img class="fas bounce-x" src="../img/dots-vertical.png" style="width: 2em; margin: 0 0 0 2.95em;" />
+    └── <i class="fab fa-html5"></i> contact.html<img class="fas bounce-x" src="../img/dots-corner-close.png" style="width: 2em; margin: 0;" />
 </pre>
 
 

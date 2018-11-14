@@ -24,7 +24,7 @@ This method is fine for sites will few pages. But for sites with many, using chi
 <div id="code-heading">Directory Tree</div>
 <pre id="bash">
 .
-├── about.html <i class="fas fa-long-arrow-alt-left bounce"></i>
+├── about.html <i class="fas fa-long-arrow-alt-left bounce-x"></i>
 ├── <i class="far fa-folder-open"></i> css/
 │   └── <i class="fab fa-css3-alt"></i> style.css
 ├── <i class="far fa-folder-open"></i> images/

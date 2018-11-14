@@ -29,7 +29,7 @@ This is good for those of us learning directory structure for the first time, bu
 │   └── <i class="far fa-image"></i> photo-2.jpg
 ├── index.html
 └── <i class="far fa-folder-open"></i> pages/
-    └── <i class="fab fa-html5"></i> about.html <i class="fas fa-long-arrow-alt-left bounce"></i>
+    └── <i class="fab fa-html5"></i> about.html <i class="fas fa-long-arrow-alt-left bounce-x"></i>
 </pre>
 
 
