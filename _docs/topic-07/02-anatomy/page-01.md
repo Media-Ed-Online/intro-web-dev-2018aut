@@ -19,4 +19,11 @@ h1 {
   text-align: center;
 }
 ```
-<span class="label label-info">NOTE:</span> CSS is not whitespace dependent. In other words, you do not need to include extra lines between rules. However, this shown style increases readability of your code. _It's polite._
+<span class="label label-info">Note</span> CSS is not whitespace dependent. In other words, you do not need to include extra lines between rules. However, this shown style increases readability of your code. _It's polite._
+
+
+There are three general ways to specify CSS style rules:
+
+1. Within the **style element** in an HTML document.
+2. As an **style attribute** within a element.
+3. In a separate **style document**, or “stylesheet.”
