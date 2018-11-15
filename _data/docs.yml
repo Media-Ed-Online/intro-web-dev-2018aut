@@ -463,14 +463,14 @@ topic-07:
     - css-comments
     - todo-css-comments
 
-  - title: The Anatomy of Style
+  - title: Adding CSS
     docs:
-    - style-anatomy-intro
+    - css-intro
     - style-syntax
     - style-element
     - style-attribute
     - style-document
-    - todo-style-anatomy
+    - todo-intro-css
 
   - title: CSS Documents
     docs:

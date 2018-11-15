@@ -8,6 +8,7 @@ tags: markup
 
 <div class="divider-heading"></div>
 
+
 <div class="container-row">
   <img src="../img/berners-lee.png" alt="Tim Berners-Lee" title="Tim Berners-Lee" style="float: right; width: 250px; margin-top: 0;" />
 

@@ -24,12 +24,13 @@ In the next sub-topic, you'll see how an `index.html` is one of those files brow
 <div id="code-heading">Directory Tree</div>
 <pre id="bash">
 .
-├── <i class="far fa-folder-open"></i> about/ <i class="fas fa-long-arrow-alt-left bounce-x"></i>
-│   └── <i class="fab fa-html5"></i> index.html
+├── index.html
+├── <i class="far fa-folder-open"></i> about/
+│   └── <i class="fab fa-html5"></i> index.html <i class="fas fa-long-arrow-alt-left bounce-x"></i>
 ├── <i class="far fa-folder-open"></i> css/
 │   └── <i class="fab fa-css3-alt"></i> style.css
-├── <i class="far fa-folder-open"></i> images/
-│   ├── <i class="far fa-image"></i> photo-1.jpg
-│   └── <i class="far fa-image"></i> photo-2.jpg
-└── index.html
+└── <i class="far fa-folder-open"></i> images/
+    ├── <i class="far fa-image"></i> photo-1.jpg
+    └── <i class="far fa-image"></i> photo-2.jpg
+
 </pre>

@@ -22,14 +22,16 @@ This is good for those of us learning directory structure for the first time, bu
 <div id="code-heading">Directory Tree</div>
 <pre id="bash">
 .
+├── index.html
 ├── <i class="far fa-folder-open"></i> css/
 │   └── <i class="fab fa-css3-alt"></i> style.css
 ├── <i class="far fa-folder-open"></i> images/
 │   ├── <i class="far fa-image"></i> photo-1.jpg
 │   └── <i class="far fa-image"></i> photo-2.jpg
-├── index.html
 └── <i class="far fa-folder-open"></i> pages/
-    └── <i class="fab fa-html5"></i> about.html <i class="fas fa-long-arrow-alt-left bounce-x"></i>
+    ├── <i class="fab fa-html5"></i> about.html <i class="fas fa-long-arrow-alt-left bounce-x"></i>
+    ├── <i class="fab fa-html5"></i> contact.html
+    └── <i class="fab fa-html5"></i> gallery.html
 </pre>
 
 

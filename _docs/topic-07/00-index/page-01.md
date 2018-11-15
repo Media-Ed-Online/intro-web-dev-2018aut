@@ -10,7 +10,7 @@ tags:
 
 <h2 style="text-align: center;">07: Beginning CSS</h2>
 
-While we've explored styling briefly in the previous topics, it's time to really dig into learning how to use CSS or <span style="font-weight: bolder; text-decoration: underline; color: #E95420;">C</span>ascading <span style="font-weight: bolder; text-decoration: underline; color: #E95420;">S</span>tyle <span style="font-weight: bolder; text-decoration: underline; color: #E95420;">S</span>heets.
+While we've explored styling briefly in the previous topics, it's time to really dig into learning how to use CSS or <span style="font-weight: bolder; text-decoration: underline; color: #E95420;">C</span>ascading <span style="font-weight: bolder; text-decoration: underline; color: #E95420;">S</span>tyle<span style="font-weight: bolder; text-decoration: underline; color: #E95420;">s</span>heets.
 
 <a href="https://www.w3schools.com/css/" target="_blank" style="font-weight: bolder; text-decoration: underline; color: #E95420;">CSS</a> is a language that tells browsers how to display and style content in HTML. It will not change the content itself, but will allow you to specify color, font, size, background, padding, alignment, how pages resize, if certain elements should be hidden, and many more qualities.
 

@@ -25,10 +25,10 @@ This method is fine for sites will few pages. But for sites with many, using chi
 <pre id="bash">
 .
 ├── about.html <i class="fas fa-long-arrow-alt-left bounce-x"></i>
+├── index.html
 ├── <i class="far fa-folder-open"></i> css/
 │   └── <i class="fab fa-css3-alt"></i> style.css
-├── <i class="far fa-folder-open"></i> images/
-│   ├── <i class="far fa-image"></i> photo-1.jpg
-│   └── <i class="far fa-image"></i> photo-2.jpg
-└── index.html
+└── <i class="far fa-folder-open"></i> images/
+    ├── <i class="far fa-image"></i> photo-1.jpg
+    └── <i class="far fa-image"></i> photo-2.jpg
 </pre>
