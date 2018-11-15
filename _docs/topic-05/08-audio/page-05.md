@@ -11,7 +11,7 @@ tags: attribute, audio
 There are several other attributes that can be applied to the `<audio>` to make it behave as intended.
 
 
-<div id="code-heading">Element Breakdown <i class="fas fa-battery-three-full"></i></div>
+<div id="code-heading">Element Breakdown <i class="fas fa-battery-full"></i></div>
 <pre id="breakdown-block">
 <audio src="#" <span class="pulsate">preload controls</span>></audio>
 </pre>

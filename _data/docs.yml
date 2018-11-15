@@ -475,12 +475,13 @@ topic-07:
   - title: CSS Documents
     docs:
     - css-docs
+    - link-element-intro
     - link-tag
     - link-rel
     - link-type
     - link-href
-    - link-element
-    - todo-docs
+    - link-element-review
+    - todo-css-docs
 
   - title: Selector Types
     docs:

@@ -3,7 +3,7 @@ title: Creating a Link
 module: topic-04
 permalink: /topic-04/href/
 categories: html
-tags: elements, link
+tags: elements, href, link
 ---
 
 <div class="divider-heading"></div>

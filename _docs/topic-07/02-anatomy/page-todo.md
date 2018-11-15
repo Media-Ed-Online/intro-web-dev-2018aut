@@ -7,5 +7,28 @@ categories: uncategorized
 ---
 
 <div class="row text-center">
-
+  <div class="col-lg-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <div class="list-group-item hw-item-disabled">
+          <img class="icon-hw" src="../img/hw-icon-duckett.svg" />
+          <h4 class="list-group-item-heading">Duckett<br />Ch 10: pgs 226-234</h4>
+          <div class="divider-hw"></div>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 6 minute reading</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <a href="https://www.w3schools.com/cssref/" target="_blank" class="list-group-item">
+          <i class="icon-hw fas fa-code" aria-hidden="true"></i>
+          <h4 class="list-group-item-heading">Explore CSS Properties</h4>
+          <div class="divider-hw"></div>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 8 minute activity</p>
+        </a>
+      </div>
+    </div>
+  </div>
 </div>
