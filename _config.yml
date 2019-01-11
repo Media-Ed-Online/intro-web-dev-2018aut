@@ -5,7 +5,7 @@ description: >
   Course content for an introductory look at building for the web.
 lang: en-US
 
-baseurl: "/intro-web-dev"
+baseurl: "/intro-web-dev-2018aut"
 url: https://media-ed-online.github.io
 git_address: https://github.com/media-ed-online/intro-web-dev
 git_edit_address: https://github.com/media-ed-online/intro-web-dev/blob/gh-pages
