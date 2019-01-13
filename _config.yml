@@ -1,5 +1,5 @@
 # Site settings
-title: Intro-Web-Dev
+title: Intro-Web-Dev-2018aut
 email: justine.evans@umontana.edu
 description: >
   Course content for an introductory look at building for the web.
@@ -7,8 +7,8 @@ lang: en-US
 
 baseurl: "/intro-web-dev-2018aut"
 url: https://media-ed-online.github.io
-git_address: https://github.com/media-ed-online/intro-web-dev
-git_edit_address: https://github.com/media-ed-online/intro-web-dev/blob/gh-pages
+git_address: https://github.com/media-ed-online/intro-web-dev-2018aut
+git_edit_address: https://github.com/media-ed-online/intro-web-dev-2018aut/blob/gh-pages
 slack: https://ummediaarts.slack.com/team/U6T476W7Q
 
 # theme options from https://bootswatch.com/

@@ -16,7 +16,7 @@ You've done some linking in **markdown** already, using outside sources and _abs
 
 <div id="code-heading">Markdown</div>
 ```markdown
-[discussion on absolute URLs](https://media-ed-online.github.io/intro-web-dev/topic-02/urls-absolute/)
+[discussion on absolute URLs](https://media-ed-online.github.io/intro-web-dev-2018aut/topic-02/urls-absolute/)
 ```
 
 
